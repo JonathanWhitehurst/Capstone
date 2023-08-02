@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Jonathan Whitehurst/Code/SavvyCoders/Capstone/CapstoneData.sqlite" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="373"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="1842"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,24:mainplayerTransferPortal2022"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="2022OffPPG" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="0"/></sort><column_widths><column index="1" value="59"/><column index="2" value="109"/><column index="3" value="157"/><column index="4" value="52"/><column index="5" value="52"/><column index="6" value="52"/><column index="7" value="52"/><column index="8" value="52"/><column index="9" value="65"/><column index="10" value="64"/><column index="11" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="CFBD_FBSteams" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="219"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="FBSTeamList2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="157"/><column index="3" value="139"/><column index="4" value="141"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="FBSTeamList2021forJoin" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="227"/><column index="2" value="157"/><column index="3" value="139"/><column index="4" value="118"/><column index="5" value="184"/><column index="6" value="101"/><column index="7" value="126"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="FBSTeamList2021raw" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="157"/><column index="3" value="139"/><column index="4" value="118"/><column index="5" value="184"/><column index="6" value="101"/><column index="7" value="126"/><column index="8" value="141"/><column index="9" value="77"/><column index="10" value="80"/><column index="11" value="86"/><column index="12" value="300"/><column index="13" value="300"/><column index="14" value="153"/><column index="15" value="163"/><column index="16" value="300"/><column index="17" value="131"/><column index="18" value="127"/><column index="19" value="109"/><column index="20" value="202"/><column index="21" value="226"/><column index="22" value="150"/><column index="23" value="166"/><column index="24" value="163"/><column index="25" value="155"/><column index="26" value="234"/><column index="27" value="130"/><column index="28" value="132"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="FBSTeamList2021rowID" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="69"/><column index="3" value="52"/><column index="4" value="157"/><column index="5" value="139"/><column index="6" value="118"/><column index="7" value="184"/><column index="8" value="101"/><column index="9" value="126"/><column index="10" value="141"/><column index="11" value="77"/><column index="12" value="80"/><column index="13" value="86"/><column index="14" value="300"/><column index="15" value="300"/><column index="16" value="153"/><column index="17" value="163"/><column index="18" value="300"/><column index="19" value="131"/><column index="20" value="127"/><column index="21" value="109"/><column index="22" value="202"/><column index="23" value="226"/><column index="24" value="150"/><column index="25" value="166"/><column index="26" value="163"/><column index="27" value="155"/><column index="28" value="234"/><column index="29" value="130"/><column index="30" value="132"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="FBSTeamList2022" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="236"/><column index="2" value="157"/><column index="3" value="139"/><column index="4" value="118"/><column index="5" value="184"/><column index="6" value="101"/><column index="7" value="126"/><column index="8" value="141"/><column index="9" value="77"/><column index="10" value="80"/><column index="11" value="86"/><column index="12" value="300"/><column index="13" value="300"/><column index="14" value="153"/><column index="15" value="163"/><column index="16" value="300"/><column index="17" value="131"/><column index="18" value="127"/><column index="19" value="109"/><column index="20" value="202"/><column index="21" value="226"/><column index="22" value="150"/><column index="23" value="166"/><column index="24" value="163"/><column index="25" value="155"/><column index="26" value="234"/><column index="27" value="130"/><column index="28" value="132"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="FBSTeams" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="157"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="MasterNames" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="157"/><column index="3" value="139"/><column index="4" value="150"/><column index="5" value="166"/><column index="6" value="283"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="OffPPG2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="1"/></sort><column_widths><column index="1" value="246"/><column index="2" value="108"/><column index="3" value="109"/><column index="4" value="53"/><column index="5" value="69"/><column index="6" value="76"/><column index="7" value="92"/><column index="8" value="80"/><column index="9" value="96"/><column index="10" value="64"/><column index="11" value="80"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="OffPPG2021id" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="52"/><column index="2" value="283"/><column index="3" value="87"/><column index="4" value="52"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="OffPPG2022" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="381"/><column index="2" value="157"/><column index="3" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="OffPPG2022Sorted" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="69"/><column index="2" value="157"/><column index="3" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="OffPPG2022id" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="0"/></sort><column_widths><column index="1" value="59"/><column index="2" value="283"/><column index="3" value="283"/><column index="4" value="87"/><column index="5" value="52"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="OffPPG21to22" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="0"/></sort><column_widths><column index="1" value="59"/><column index="2" value="52"/><column index="3" value="283"/><column index="4" value="87"/><column index="5" value="52"/><column index="6" value="142"/><column index="7" value="98"/><column index="8" value="171"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PTPSchoolsJoin" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="108"/><column index="2" value="134"/><column index="3" value="121"/><column index="4" value="157"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PlayerTransfers2022full" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="70"/><column index="3" value="102"/><column index="4" value="139"/><column index="5" value="80"/><column index="6" value="179"/><column index="7" value="210"/><column index="8" value="209"/><column index="9" value="61"/><column index="10" value="52"/><column index="11" value="89"/><column index="12" value="121"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PlayerTransfers2022wDUALATH" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="0"/></sort><column_widths><column index="1" value="102"/><column index="2" value="139"/><column index="3" value="121"/><column index="4" value="179"/><column index="5" value="210"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TeamsCFBDwESPN2022" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="191"/><column index="2" value="191"/><column index="3" value="66"/><column index="4" value="42"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TransferDest" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="108"/><column index="2" value="134"/><column index="3" value="121"/><column index="4" value="157"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TransferInCount2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="157"/><column index="2" value="172"/><column index="3" value="52"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TransferInCountDef2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="157"/><column index="2" value="172"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TransferInCountDef2022" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="157"/><column index="2" value="172"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TransferInCountOff2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="157"/><column index="2" value="172"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TransferInCountOff2022" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="157"/><column index="2" value="172"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TransferInDef2022AllTeams" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="157"/><column index="3" value="172"/><column index="4" value="52"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TransferInOff2022AllTeams" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="157"/><column index="3" value="172"/><column index="4" value="52"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TransferOutCountDef2022" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="169"/><column index="2" value="184"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TransferOutOff2022AllTeams" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="209"/><column index="2" value="184"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Transfers2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="5" mode="0"/></sort><column_widths><column index="1" value="108"/><column index="2" value="134"/><column index="3" value="121"/><column index="4" value="191"/><column index="5" value="157"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Transfers2021b" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="3" mode="0"/></sort><column_widths><column index="1" value="108"/><column index="2" value="134"/><column index="3" value="121"/><column index="4" value="191"/><column index="5" value="157"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Transfers2022" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="5" mode="0"/></sort><column_widths><column index="1" value="114"/><column index="2" value="138"/><column index="3" value="121"/><column index="4" value="209"/><column index="5" value="157"/><column index="6" value="241"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="playerTransferPortal2021" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="6" mode="1"/></sort><column_widths><column index="1" value="70"/><column index="2" value="108"/><column index="3" value="134"/><column index="4" value="121"/><column index="5" value="179"/><column index="6" value="191"/><column index="7" value="223"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="playerTransferPortal2022" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="6" mode="0"/></sort><column_widths><column index="1" value="133"/><column index="2" value="102"/><column index="3" value="139"/><column index="4" value="130"/><column index="5" value="179"/><column index="6" value="210"/><column index="7" value="209"/><column index="8" value="121"/><column index="9" value="52"/><column index="10" value="89"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="testPTP2021Series" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="191"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Add ID column matched with Master">SELECT FBS.ID, T.origin, TransferOut_Recruit --.Team, PPG.&quot;Points/G&quot;, PPG.Year, PPG.&quot;Points/G_2022&quot;, PPG.&quot;Year:2022&quot;, PPG.Diff
+	FROM MasterNames FBS
+	inner join TransferOutOff2022AllTeams T
+		ON FBS.school = T.origin
+		</sql><sql name="Join teams with transfer players">
+SELECT PTP.firstName
+	,PTP.lastName
+	,PTP.positionType
+	,PTP.origin
+	,PTP.destination
+	FROM MasterNames FBS
+	inner join PlayerTransferPortal2021 PTP
+		ON FBS.school = PTP.destination
+		
+
+	</sql><sql name="Compare Team Names from ESPN/CFBD">
+SELECT *
+	FROM MasterNames FBS
+	left join OffPPG2021id ESPN
+		ON FBS.TeamFullName = ESPN.Team
+	Where ESPN.Team is null
+
+</sql><sql name="UnmatchedTeams">--Allows viewing of team names that do not match, requiring adjust (all corrected now)
+
+SELECT *
+	FROM MasterNames FBS
+	inner join OffPPG2022 ESPN
+		ON FBS.Team = ESPN.Team
+WHERE ESPN.Team is null</sql><sql name="Adding Wyoming">--Inserting missing team (Wyoming Cowboys) data into ESPN offensive stats 2022/
+
+INSERT into OffPPG2021 (Team, 'Points/G', Year)
+VALUES ('Wyoming Cowboys', '25.4', '2021')</sql><sql name="Filter out offense/defense PTP">--Filtering out Special Teams and non-offense/defense players from Transfers tables
+/*
+Delete from Transfers2021
+Where positionType = 'Special';
+Select * from Transfers2021
+*/
+
+Delete from Transfers2022
+Where positionType = 'Special';
+Select * from Transfers2022
+
+/*
+UPDATE Transfers2021
+SET positionType = 'Offense'
+WHERE lastName = 'Brewer';
+--'Zappe';
+--'Coan';
+--'Gunnell';
+--'Shough';
+--'Hilinski';
+--'Garbers';
+--'Mordecai';
+--'Milton';
+--'Harvey Jr.';
+--'Foster';
+--'Garber';
+--'Shrader';
+--'Mayden';
+--'Grainger';
+--'Brice';
+--'Jackson';
+--&quot;O'Brien&quot;;
+--'Guarantano';
+--'Shrout';
+--'Bentley';
+--'Blumrick';
+--'Werts';
+--'Fenwick';
+--'Morris';
+--'Constantine';
+--'Gunther';
+--'Bowens';
+--'Chestnut';
+--Brown';
+--'Agbaw';
+
+Select * from Transfers2021
+Where positionType != 'Defense' and positionType !='Offense'
+*/
+</sql><sql name="Count transfer players by team">SELECT
+	origin,
+	count(origin) as TransferOut_Recruit
+FROM (Transfers2021b) 
+WHERE Transfers2021b.positionType = &quot;Defense&quot;
+ GROUP BY origin
+</sql><sql name="Team with 0 transfer in">--Identify teams with no players transfered in
+
+/*
+SELECT school
+	FROM MasterNames FBS
+	LEFT join TransferInCountOff2021 Transfers
+		ON FBS.school = Transfers.destination
+	Where Transfers.destination is null;
+*/
+	--Identify teams with no players transfered OUT
+	
+SELECT school
+	FROM MasterNames FBS
+	LEFT join TransferOutCountDef2022 Transfers
+		ON FBS.school = Transfers.origin
+	Where Transfers.origin is null;</sql><sql name="Delete SPECIAL players">DELETE FROM playerTransferPortal2022
+WHERE positionType = &quot;Special&quot;;
+SELECT * FROM playerTransferPortal2022</sql><sql name="Eliminate Non-FBS teams">--Eliminate rows where &quot;destination&quot; is a non-FBS program
+
+
+SELECT PTP.firstName, PTP.lastName, positionType, PTP.origin, destination 
+	FROM MasterNames FBS
+	inner join Transfers2021b PTP
+		ON FBS.school = PTP.destination
+</sql><sql name="SQL 18">SELECT ID, T.destination, T.TransferIn_Recruit, T.Year
+FROM TransferOutOff2022AllTeams T
+INNER JOIN MasterNames
+ON T.destination = MasterNames.school
+GROUP BY destination</sql><current_tab id="7"/></tab_sql></sqlb_project>

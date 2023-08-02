@@ -1,0 +1,131 @@
+ID,destination,TransferIn_Recruit,TransferOut_Recruit,Net_recruits
+1,Air Force,0,1,-1
+2,Akron,9,3,6
+3,Alabama,4,11,-7
+4,Appalachian State,4,1,3
+5,Arizona,3,5,-2
+6,Arizona State,9,8,1
+7,Arkansas,3,2,1
+8,Arkansas State,4,3,1
+9,Army,0,0,0
+10,Auburn,4,5,-1
+11,Ball State,2,1,1
+12,Baylor,1,4,-3
+13,Boise State,2,2,0
+14,Boston College,3,3,0
+15,Bowling Green,3,0,3
+16,Buffalo,11,6,5
+17,BYU,3,3,0
+18,California,3,4,-1
+19,Central Michigan,1,1,0
+20,Charlotte,0,1,-1
+21,Cincinnati,4,3,1
+22,Clemson,1,5,-4
+23,Coastal Carolina,1,0,1
+24,Colorado,4,7,-3
+25,Colorado State,7,5,2
+26,Connecticut,7,3,4
+27,Duke,3,4,-1
+28,East Carolina,7,2,5
+29,Eastern Michigan,3,1,2
+30,Florida,5,6,-1
+31,Florida Atlantic,5,1,4
+32,Florida International,5,4,1
+33,Florida State,9,9,0
+34,Fresno State,4,0,4
+35,Georgia,0,7,-7
+36,Georgia Southern,7,0,7
+37,Georgia State,3,1,2
+38,Georgia Tech,10,4,6
+39,Hawai'i,6,3,3
+40,Houston,8,4,4
+41,Illinois,4,8,-4
+42,Indiana,6,6,0
+43,Iowa,1,4,-3
+44,Iowa State,2,3,-1
+45,Kansas,7,5,2
+46,Kansas State,2,4,-2
+47,Kent State,2,0,2
+48,Kentucky,4,4,0
+49,Liberty,8,0,8
+50,Louisiana,1,5,-4
+51,Louisiana Monroe,2,1,1
+52,Louisiana Tech,3,3,0
+53,Louisville,3,7,-4
+54,LSU,5,6,-1
+55,Marshall,6,2,4
+56,Maryland,2,7,-5
+57,Memphis,4,3,1
+58,Miami,4,5,-1
+59,Miami (OH),4,0,4
+60,Michigan,1,3,-2
+61,Michigan State,4,6,-2
+62,Middle Tennessee,6,3,3
+63,Minnesota,2,7,-5
+64,Mississippi State,3,7,-4
+65,Missouri,4,6,-2
+66,Navy,0,0,0
+67,NC State,1,0,1
+68,Nebraska,7,5,2
+69,Nevada,11,8,3
+70,New Mexico,5,3,2
+71,New Mexico State,3,3,0
+72,North Carolina,2,6,-4
+73,Northern Illinois,2,1,1
+74,North Texas,6,1,5
+75,Northwestern,1,3,-2
+76,Notre Dame,0,5,-5
+77,Ohio,2,0,2
+78,Ohio State,0,3,-3
+79,Oklahoma,7,7,0
+80,Oklahoma State,3,4,-1
+81,Old Dominion,2,1,1
+82,Ole Miss,10,8,2
+83,Oregon,4,11,-7
+84,Oregon State,1,3,-2
+85,Penn State,2,6,-4
+86,Pittsburgh,6,4,2
+87,Purdue,5,2,3
+88,Rice,3,4,-1
+89,Rutgers,6,7,-1
+90,San Diego State,4,2,2
+91,San José State,6,2,4
+92,SMU,8,4,4
+93,South Alabama,7,0,7
+94,South Carolina,8,4,4
+95,Southern Mississippi,3,0,3
+96,South Florida,7,2,5
+97,Stanford,0,3,-3
+98,Syracuse,5,7,-2
+99,TCU,6,4,2
+100,Temple,7,2,5
+101,Tennessee,5,6,-1
+102,Texas,5,7,-2
+103,Texas A&M,1,5,-4
+104,Texas State,11,1,10
+105,Texas Tech,9,1,8
+106,Toledo,3,3,0
+107,Troy,3,2,1
+108,Tulane,5,0,5
+109,Tulsa,5,2,3
+110,UAB,1,1,0
+111,UCF,8,7,1
+112,UCLA,5,3,2
+113,UMass,7,0,7
+114,UNLV,4,0,4
+115,USC,8,10,-2
+116,Utah,2,4,-2
+117,Utah State,4,1,3
+118,UTEP,0,2,-2
+119,UT San Antonio,3,0,3
+120,Vanderbilt,2,5,-3
+121,Virginia,4,6,-2
+122,Virginia Tech,4,6,-2
+123,Wake Forest,1,3,-2
+124,Washington,5,2,3
+125,Washington State,4,5,-1
+126,Western Kentucky,6,3,3
+127,Western Michigan,3,2,1
+128,West Virginia,3,9,-6
+129,Wisconsin,1,3,-2
+130,Wyoming,1,4,-3

@@ -1,0 +1,2275 @@
+Unnamed: 0,season,firstName,lastName,position,origin,destination,positionType
+0,2022,CamRon,Jackson,DL,Memphis,Memphis,Defense
+1,2022,Malachi,Ledbetter,EDGE,Simon Fraser,Washington State,Defense
+2,2022,Isaiah,Johnson,CB,Dartmouth,Syracuse,Defense
+3,2022,Maurice,White,DL,Memphis,Central Michigan,Defense
+4,2022,Emeka,Megwa,RB,Washington,,Offense
+5,2022,Jaden,Hullaby,RB,Texas,New Mexico,Offense
+6,2022,Demarquez,Trotter,S,Western Kentucky,Long Island University,Defense
+7,2022,Janaz,Jordan,DL,Colorado,Towson,Defense
+8,2022,Ken,Talley,EDGE,Penn State,Michigan State,Defense
+9,2022,Marcus,Clarke,CB,Miami,Missouri,Defense
+10,2022,George,Reid,LB,Temple,,Defense
+11,2022,Mike,Evans,WR,Robert Morris,West Virginia,Offense
+12,2022,Kamren,Washington,DL,Sam Houston State,Memphis,Defense
+13,2022,Jon,Sot,P,Harvard,Notre Dame,Special
+14,2022,Xavier,Hamlett,CB,Nevada,,Defense
+15,2022,Ivan,Escobar,DL,New Mexico State,,Defense
+16,2022,AJ,Toney,WR,Samford,Middle Tennessee,Offense
+17,2022,Andrew,Robison,DUAL,Nicholls,Florida International,DUAL
+18,2022,Davion,Ross,ATH,Eastern Kentucky,Memphis,ATH
+19,2022,Kobe,Baynes,OT,Louisville,Kansas,Offense
+20,2022,Sammy,Solomon,DL,UMass,Misericordia,Defense
+21,2022,Joel,Williams,CB,Kentucky,Memphis,Defense
+22,2022,Micah,Davis,WR,Air Force,Iowa Western C.C.,Offense
+23,2022,Eyabi,Anoma,EDGE,UT Martin,Michigan,Defense
+24,2022,Malachi,Burns,WR,Missouri Western State,Middle Tennessee,Offense
+25,2022,Jalen,Hampton,RB,Virginia Tech,Elon,Offense
+26,2022,Jerrell,Boykins Jr.,DL,Louisiana Tech,Hutchinson C.C.,Defense
+27,2022,Samari,Collier,DUAL,Illinois,,DUAL
+28,2022,Jahzion,Harris,EDGE,Texas A&M,Rutgers,Defense
+29,2022,Demarkcus,Bowman,RB,Florida,UCF,Offense
+30,2022,Dajeun,Gibson,S,Middle Tennessee,,Defense
+31,2022,Luke,Collinsworth,OT,Cincinnati,,Offense
+32,2022,Beau,Allen,QB,Kentucky,Tarleton State,Offense
+33,2022,Markese,Stepp,RB,Nebraska,,Offense
+34,2022,Riley,Moore,P,Weber State,UMass,Special
+35,2022,Christian,Pedersen,TE,Louisville,,Offense
+36,2022,Jalil,Muhammad,IOL,Arkansas State,,Offense
+37,2022,Malik,Feaster,CB,Jacksonville State,Florida State,Defense
+38,2022,Spencer,Arceneaux,QB,Nebraska,,Offense
+39,2022,J'Marick,Woods,S,Duke,,Defense
+40,2022,Omar,Sims,DL,Jacksonville State,,Defense
+41,2022,Jacobe,Covington,CB,Washington,USC,Defense
+42,2022,Grant,Laws,DL,UMass,Bucknell,Defense
+43,2022,Patrick,Maddox,S,Utah State,,Defense
+44,2022,James,Ziglor III,RB,Vanderbilt,Buffalo,Offense
+45,2022,Kyle,Mann,DL,Alabama,Alabama A&M,Defense
+46,2022,Elisha,Guidry,S,UCLA,San José State,Defense
+47,2022,Malik,Williams,OT,Wyoming,San José State,Offense
+48,2022,Mordecai,McDaniel,S,Florida,,Defense
+49,2022,Justin,Rogers,QB,UNLV,,Offense
+50,2022,John,Brunner,IOL,North Texas,,Offense
+51,2022,Ridge,Jacobs,QB,South Florida,,Offense
+52,2022,William,Rogers,DL,South Carolina,McNeese,Defense
+53,2022,Darrell,Jackson,DL,Maryland,Miami,Defense
+54,2022,Garrett,Williams,CB,Temple,Fordham,Defense
+55,2022,Tyler,Brown,IOL,Louisiana,,Offense
+56,2022,Darius,Edmonds,WR,Houston,,Offense
+57,2022,Jack,Buford,OT,Arizona,Lindenwood University,Offense
+58,2022,Carson,Lee,IOL,Colorado,,Offense
+59,2022,Marcus,Washington,WR,Texas,Nebraska,Offense
+60,2022,Kamo'i,Latu,S,Utah,Wisconsin,Defense
+61,2022,Steven,Krajewski,QB,Connecticut,Georgia State,Offense
+62,2022,JT,Daniels,QB,Georgia,West Virginia,Offense
+63,2022,Jordan,Yates,QB,Georgia Tech,Sam Houston State,Offense
+64,2022,Jakelyn,Morgan,CB,Arizona,Louisiana Tech,Defense
+65,2022,Quinton,Cage,S,LSU,UT San Antonio,Defense
+66,2022,Antonio,Montero,LB,Rice,Villanova,Defense
+67,2022,Jakai,Torres,RB,San José State,College of the Canyons,Offense
+68,2022,Cameron,Cooper,OT,UTEP,,Offense
+69,2022,David,Afari,RB,Miami (OH),,Offense
+70,2022,Caleb,Fox,DT,Stephen F. Austin,TCU,DT
+71,2022,Evan,Davis,K,Toledo,,Special
+72,2022,Cody,Goatley,LB,Kentucky,Murray State,Defense
+73,2022,Tyler,Williams,LS,Washington State,,Special
+74,2022,Odua,Isibor,EDGE,UCLA,California,Defense
+75,2022,Malik,Welch,S,San José State,McNeese,Defense
+76,2022,Damir,Collins,RB,Oregon State,Idaho State,Offense
+77,2022,Upton,Stout,S,North Texas,Western Kentucky,Defense
+78,2022,Tyler,Baron,EDGE,Tennessee,,Defense
+79,2022,Amarius,Mims,OT,Georgia,,Offense
+80,2022,Alex,Stadthaus,K,USC,,Special
+81,2022,Matt,Robinson,QB,Illinois,Fresno State,Offense
+82,2022,Dominick,Puni,IOL,Central Missouri State,Kansas,Offense
+83,2022,Cameron,Kinnie,IOL,Georgia,UCF,Offense
+84,2022,Damian,Jackson,EDGE,Nebraska,Buffalo,Defense
+85,2022,Logan,Sagapolu,IOL,Oregon,Miami,Offense
+86,2022,Josh,Landry,DL,Baylor,Missouri,Defense
+87,2022,Willie,Tyler,OT,Louisiana Monroe,Rutgers,Offense
+88,2022,Spencer,Curtis,WR,Oregon,Nevada,Offense
+89,2022,Jed,Castles,TE,Texas Tech,Abilene Christian,Offense
+90,2022,Emery,Simmons,WR,North Carolina,Indiana,Offense
+91,2022,Iesa,Jarmon,CB,Cincinnati,Buffalo,Defense
+92,2022,Bobby,Holmes,CB,Louisiana,,Defense
+93,2022,Troy,dela Vega,TE,Utah State,,Offense
+94,2022,Sam,Pinckney,WR,Georgia State,Coastal Carolina,Offense
+95,2022,Wesley,Walker,S,Georgia Tech,Tennessee,Defense
+96,2022,Jarek,Broussard,RB,Colorado,Michigan State,Offense
+97,2022,Thomas,Shelmire,IOL,SMU,,Offense
+98,2022,DJ,Johnson,OLB,Illinois,Louisiana Tech,Defense
+99,2022,Tyler,Harrell,WR,Louisville,Alabama,Offense
+100,2022,Ryan,Wills,OT,Penn State,,Offense
+101,2022,Liridon,Mujezinovic,OT,Maryland,,Offense
+102,2022,Vidal,Scott,DL,Arkansas State,,Defense
+103,2022,Cole,Spencer,OT,Western Kentucky,Texas Tech,Offense
+104,2022,Eric,Gentry,LB,Arizona State,USC,Defense
+105,2022,TQ,Jackson,CB,SMU,,Defense
+106,2022,Clay,Millen,QB,Nevada,Colorado State,Offense
+107,2022,Jordan,Young,WR,Florida State,Florida Atlantic,Offense
+108,2022,Cruz,Temple,LB,East Carolina,Arkansas State,Defense
+109,2022,Shemar,Thornton,ATH,Florida International,Northern Illinois,ATH
+110,2022,Dylan,Davis,OT,Furman,Illinois,Offense
+111,2022,Kevin,Schaeffer,TE,Rutgers,,Offense
+112,2022,Joseph,Evans,DL,LSU,UT San Antonio,Defense
+113,2022,Tyrone,Hopper,LB,North Carolina,Missouri,Defense
+114,2022,Jordan,Brown,ATH,Kansas,Texas Tech,ATH
+115,2022,Chase,Monroe,LB,Wake Forest,Charlotte,Defense
+116,2022,Devan,Barrett,CB,Troy,,Defense
+117,2022,AJ,Watts,CB,Akron,,Defense
+118,2022,Tyler,Page,WR,SMU,Appalachian State,Offense
+119,2022,Micah,Mariteragi,OT,Virginia,,Offense
+120,2022,Corey,Rucker,WR,Arkansas State,South Carolina,Offense
+121,2022,Darrius,Smith,RB,Arizona,,Offense
+122,2022,Ke'Andre,Street,WR,Houston,,Offense
+123,2022,Billy,Pospisil III,WR,Washington State,Colorado Mines,Offense
+124,2022,Javin,Burke,S,Virginia,,Defense
+125,2022,Daryl,Porter,CB,West Virginia,Miami,Defense
+126,2022,Jaylen,Moody,LB,Alabama,,Defense
+127,2022,Stone,Eby,SDE,SMU,,Defense
+128,2022,Edward,Haralson,DL,Louisiana Monroe,,Defense
+129,2022,Leon,Williams,LB,Kent State,,Defense
+130,2022,Tyson,Thompson,WR,Houston Christian,Rice,Offense
+131,2022,Peter,Costelli,QB,Utah,Troy,Offense
+132,2022,Kylan,Watkins,WR,Memphis,,Offense
+133,2022,Dar'jarri,Coleman,EDGE,Jacksonville State,,Defense
+134,2022,Enoch,Nawahine,RB,Utah State,,Offense
+135,2022,Christian,Curatolo,OT,Lehigh,Boston College,Offense
+136,2022,Tiaoalii,Savea,DL,UCLA,Arizona,Defense
+137,2022,Jalik,Yancey,CB,Eastern Michigan,,Defense
+138,2022,Tony,Wallace,CB,TCU,UT San Antonio,Defense
+139,2022,Meki,Pei,S,Washington,,Defense
+140,2022,Kelsen,Hennessy,DL,Oregon State,,Defense
+141,2022,Ryan,Keeler,DL,Rutgers,,Defense
+142,2022,Fred,Martin,CB,Oregon State,,Defense
+143,2022,Josh,Brown,CB,Troy,,Defense
+144,2022,Jordan,Hornbeak,RB,Fresno State,Northern Colorado,Offense
+145,2022,Aaron,McLaughlin,QB,NC State,Jacksonville State,Offense
+146,2022,Ryan,Peppins,WR,Utah,,Offense
+147,2022,Kolby,White,WR,Baylor,,Offense
+148,2022,Frederik,Antoine,WR,Old Dominion,,Offense
+149,2022,Kajuan,Robinson,DL,Memphis,,Defense
+150,2022,Jessie,Parson III,WR,Rutgers,,Offense
+151,2022,Eldrick,Robinson II,LB,Georgia Southern,Wake Forest,Defense
+152,2022,Ezra,Dotson-Oyetade,IOL,Arizona State,TCU,Offense
+153,2022,Braedon,Wissler,RB,Utah,,Offense
+154,2022,Cameron,Williams,EDGE,Miami,,Defense
+155,2022,Pedro,Timoteo,OT,Fresno State,Portland State,Offense
+156,2022,Parker,Rickert,WR,Iowa State,,Offense
+157,2022,Ray,Embry,TE,East Central,Buffalo,Offense
+158,2022,Ricky,Pearsall,WR,Arizona State,Florida,Offense
+159,2022,Isaiah,Land,EDGE,Florida A&M,Florida A&M,Defense
+160,2022,Kenny,Bennett,CB,Maryland,Georgia Tech,Defense
+161,2022,Camden,Price,K,Miami,Temple,Special
+162,2022,Marcus,Hooker,S,Ohio State,Youngstown State,Defense
+163,2022,Eric,Reed,CB,Auburn,Georgia Tech,Defense
+164,2022,Alex,Zayed,LB,Louisiana Tech,,Defense
+165,2022,Raiqwon,O'Neal,OT,Rutgers,UCLA,Offense
+166,2022,Chris,Akporoghene,IOL,Tennessee,Tulsa,Offense
+167,2022,Donavann,Collins,CB,TCU,,Defense
+168,2022,Eric,Randall,S,Memphis,,Defense
+169,2022,Kyle,Helbig,TE,Colorado State,,Offense
+170,2022,Caden,Clark,TE,Alabama,Akron,Offense
+171,2022,Jaylen,Rivers,ATH,Northwestern,,ATH
+172,2022,Akheem,Mesidor,DL,West Virginia,Miami,Defense
+173,2022,Matthew,Duncan,QB,Temple,Trinity Valley C.C.,Offense
+174,2022,Dylan,Walker,TE,Colorado State,,Offense
+175,2022,Jojuan,Claiborne,CB,Nevada,,Defense
+176,2022,Jamel,Thomas,WR,South Alabama,,Offense
+177,2022,Avarius,Sparrow,RB,West Virginia,Middle Tennessee,Offense
+178,2022,Gaberiel,Fuster,LB,Liberty,,Defense
+179,2022,Patrick,Jolly,CB,UCLA,Abilene Christian,Defense
+180,2022,Maurice,Freeman,S,Indiana,Liberty,Defense
+181,2022,Cooper,Darling,IOL,Oregon State,,Offense
+182,2022,Gabriel,Murphy,EDGE,North Texas,UCLA,Defense
+183,2022,Mari,Wingard,CB,Elon,Georgia Southern,Defense
+184,2022,Matt,Landers,WR,Toledo,Arkansas,Offense
+185,2022,Rico,Powers,WR,South Carolina,Jackson State,Offense
+186,2022,Marshall,Gill,IOL,VMI,New Mexico,Offense
+187,2022,Dmitri,Emmanuel,IOL,Charlotte,Florida State,Offense
+188,2022,Alex,Bales,K,Cincinnati,,Special
+189,2022,Joey,Yellen,QB,Pittsburgh,Hawai'i,Offense
+190,2022,Myron,Warren,DL,Texas,Texas State,Defense
+191,2022,Corey,Robinson II,OT,Kansas,Georgia Tech,Offense
+192,2022,AJ,Davis,WR,UAB,,Offense
+193,2022,Sione,Veikoso,IOL,Arizona State,,Offense
+194,2022,Stacy,Brown,S,Missouri,,Defense
+195,2022,Isaiah,Wright,IOL,Rutgers,Buffalo,Offense
+196,2022,Andre,Turrentine,CB,Ohio State,Tennessee,Defense
+197,2022,Izaiah,Kelley,OLB,SMU,Abilene Christian,Defense
+198,2022,Robert,Ferrel,WR,Incarnate Word,Washington State,Offense
+199,2022,Bucky,Williams,IOL,Appalachian State,Appalachian State,Offense
+200,2022,Sean,Ryan,WR,West Virginia,Rutgers,Offense
+201,2022,Javian,Hester,WR,Missouri,Oklahoma,Offense
+202,2022,Caden,McNeese,P,North Texas,,Special
+203,2022,Trent,Davis,RB,Duke,Jacksonville State,Offense
+204,2022,La'Dareyen,Craig,CB,South Carolina,,Defense
+205,2022,Jahmin,Muse,S,Boston College,Buffalo,Defense
+206,2022,Austin,Weiner,OT,Kansas State,Louisiana Monroe,Offense
+207,2022,Ryan,Bujcevski,P,Texas,SMU,Special
+208,2022,Jazston,Turnetine,OT,South Carolina,Florida State,Offense
+209,2022,Parker,Navarro,QB,UCF,Ohio,Offense
+210,2022,Darin,Turner,WR,Arkansas,Alabama A&M,Offense
+211,2022,Zeriah,Beason,WR,Oregon State,Washington State,Offense
+212,2022,Nate,Adkins,TE,East Tennessee State,South Carolina,Offense
+213,2022,Junior,Walling,LB,Oregon State,,Defense
+214,2022,Kayode,Oladele,DL,Memphis,,Defense
+215,2022,Zack,Merrill,QB,Indiana,,Offense
+216,2022,RJ,Sneed,WR,Baylor,Colorado,Offense
+217,2022,Sean,Berry,S,UT San Antonio,,Defense
+218,2022,Audley,Isaacs,LB,Temple,Tarleton State,Defense
+219,2022,Chris,Childers,RB,Indiana,San Diego,Offense
+220,2022,Andrew,Parker,LB,Arkansas,Appalachian State,Defense
+221,2022,Lonyatta,Alexander,WR,Arizona State,Washington,Offense
+222,2022,Parker,Hughes,ATH,Middle Tennessee,,ATH
+223,2022,Nicholas,Edwards,OT,Tennessee,UT Martin,Offense
+224,2022,Reid,Pulliam,LB,Virginia Tech,Holmes C.C.,Defense
+225,2022,Eli'jah,Winston,LB,USC,Nevada,Defense
+226,2022,Mazin,Richards,DL,Eastern New Mexico,North Texas,Defense
+227,2022,Daemon,Hill,CB,Central Michigan,Florida Atlantic,Defense
+228,2022,Ethan,Bullock,QB,Oklahoma State,,Offense
+229,2022,Daran,Branch,S,Georgia,,Defense
+230,2022,Jaylon,Robinson,WR,UCF,Ole Miss,Offense
+231,2022,Ja'Varrius,Johnson,WR,Auburn,Auburn,Offense
+232,2022,DeAmonte,King,ATH,Toledo,,ATH
+233,2022,Kendall,Smith,S,Illinois,,Defense
+234,2022,Viliami,Tausinga,LB,BYU,,Defense
+235,2022,Jordan,Addison,WR,Pittsburgh,USC,Offense
+236,2022,Drake,Cheatum,CB,Prairie View,Kansas State,Defense
+237,2022,Demond,Demas,WR,Texas A&M,,Offense
+238,2022,Reese,Poffenbarger,QB,Old Dominion,,Offense
+239,2022,Dayne,Shor,OT,Alabama,Connecticut,Offense
+240,2022,Kaymar,Mimes,TE,Pittsburgh,,Offense
+241,2022,Wistar,Allen,LB,East Carolina,,Defense
+242,2022,Malik,Matthew,LB,Syracuse,,Defense
+243,2022,Walter,Simmons III,QB,East Carolina,Bethune-Cookman,Offense
+244,2022,CJ,Rogers,QB,Baylor,Texas State,Offense
+245,2022,Jordan,Rhodes,OT,Ole Miss,Arkansas State,Offense
+246,2022,Keitha,Jones,TE,Tulane,,Offense
+247,2022,Brandon,Campbell,RB,USC,Houston,Offense
+248,2022,Jaren,Handy,EDGE,Indiana,,Defense
+249,2022,Isaiah,Winstead,WR,Toledo,East Carolina,Offense
+250,2022,Danny,Corbett,IOL,Campbell,Georgia Southern,Offense
+251,2022,Sione,Finau,RB,BYU,,Offense
+252,2022,Dajon,Harrison,WR,Texas,Connecticut,Offense
+253,2022,Marvin,Grant,S,Purdue,Kansas,Defense
+254,2022,Brennan,Sweeney,LB,Iowa,,Defense
+255,2022,Mackenzie,Morgan,P,Weber State,Temple,Special
+256,2022,Tylan,Morton,QB,South Alabama,Southwestern Oklahoma,Offense
+257,2022,Ethan,Long,QB,Arizona State,Abilene Christian,Offense
+258,2022,Jadarius,Thursby,S,SMU,Abilene Christian,Defense
+259,2022,Josh,White,LB,LSU,Baylor,Defense
+260,2022,Jaelyn,Lay,TE,Clemson,Alabama State,Offense
+261,2022,Kamryn,Waites,OT,Louisiana,Florida,Offense
+262,2022,Teivis,Tuioti,DL,Nevada,,Defense
+263,2022,Ramon,Jefferson,RB,Sam Houston State,Kentucky,Offense
+264,2022,Kyle,McNamara,WR,Western Kentucky,,Offense
+265,2022,Grayson,Cook,LB,Air Force,,Defense
+266,2022,Parker,Eichenberger,TE,Houston,,Offense
+267,2022,Jeremy,Tate,WR,Memphis,,Offense
+268,2022,Larry,Robbins,CB,Buffalo,,Defense
+269,2022,Alex,Adams,WR,LSU,Akron,Offense
+270,2022,West,Weeks,ATH,Virginia,LSU,ATH
+271,2022,Tim,Baldwin Jr.,RB,Indiana,UMass,Offense
+272,2022,Ke'Andre,Collins,WR,Central Michigan,,Offense
+273,2022,Teagen,Lenderink,K,North Carolina,Liberty,Special
+274,2022,Jordan,Mosley,WR,Northwestern,Mississippi State,Offense
+275,2022,Will,Wallace,TE,Tulane,,Offense
+276,2022,Jared,Wilson,RB,South Alabama,,Offense
+277,2022,Alston,Orji,LB,Vanderbilt,Campbell,Defense
+278,2022,Kody,Sparks,QB,Bowling Green,,Offense
+279,2022,Ja'Maurion,Franklin,EDGE,East Carolina,,Defense
+280,2022,Drayton,Charlton-Perrin,TE,Ball State,,Offense
+281,2022,Peace,Addo,OT,Duke,Temple,Offense
+282,2022,Jamal,Bell,WR,Louisiana,Louisiana,Offense
+283,2022,Kalvin,Hutchings,DL,North Texas,,Defense
+284,2022,Chaton,Mobley,RB,Middle Tennessee,,Offense
+285,2022,Quan,Easterling,ATH,Wisconsin,Duquesne,ATH
+286,2022,Emory,Jones,QB,Florida,Arizona State,Offense
+287,2022,Hugh,Davis,LB,Boston College,Louisiana Tech,Defense
+288,2022,Josh,Chandler,LB,West Virginia,Colorado,Defense
+289,2022,Darius,Joiner,S,Western Illinois,Duke,Defense
+290,2022,Tyree,O'Neil,WR,Buffalo,,Offense
+291,2022,Tyler,Steen,OT,Vanderbilt,Alabama,Offense
+292,2022,Dalevon,Campbell,WR,Illinois,Nevada,Offense
+293,2022,Jack,Burns,IOL,Cornell,Duke,Offense
+294,2022,Joey,Rouly,K,Utah State,,Special
+295,2022,Jordan,Wilmore,RB,Fresno State,,Offense
+296,2022,Khaya,Wright,LB,Georgia Tech,Florida International,Defense
+297,2022,Devin,Drew,DL,Texas Tech,Nebraska,Defense
+298,2022,Will,Albright,LB,Tennessee,,Defense
+299,2022,Thor,Canales,LB,Arizona,,Defense
+300,2022,Colby,Richardson,CB,LSU,LSU,Defense
+301,2022,Jayson,Jones,DL,Oregon,Auburn,Defense
+302,2022,Anthony,Whigan,IOL,Penn State,Akron,Offense
+303,2022,Dorian,Gerald,EDGE,Arkansas,,Defense
+304,2022,TJ,Session,OT,Montana State,California,Offense
+305,2022,A.J.,Lytton,CB,Penn State,,Defense
+306,2022,Solomon,Turner,S,Hawai'i,Illinois,Defense
+307,2022,Jay,Hampton,CB,Mississippi State,Southern Mississippi,Defense
+308,2022,Mike,Smith,CB,Appalachian State,,Defense
+309,2022,Hunter,Kaupiko,LB,San Diego State,,Defense
+310,2022,Dekalen,Goodson,TE,Houston,,Offense
+311,2022,Daniel,Bethel,K,Tennessee,Samford,Special
+312,2022,Kani,Walker,CB,Louisville,Oklahoma,Defense
+313,2022,Antonio,Oliver,CB,New Mexico State,,Defense
+314,2022,Cedric,Hillsman,DL,Ohio,,Defense
+315,2022,Allen,Horace,TE,UT San Antonio,Navarro College,Offense
+316,2022,Anthony,Frederique,P,Troy,,Special
+317,2022,Mason,Jolley,OLB,SMU,,Defense
+318,2022,Naquan,Reynolds,S,Marshall,,Defense
+319,2022,Trelon,Smith,RB,Arkansas,UT San Antonio,Offense
+320,2022,Azizi,Hearn,CB,Wyoming,UCLA,Defense
+321,2022,Alex,Nobles,ATH,North Carolina,,ATH
+322,2022,Ben,Renfro,S,Utah,,Defense
+323,2022,Stephon,Wynn,DL,Alabama,Nebraska,Defense
+324,2022,AJ,Beatty,IOL,North Carolina,Albany,Offense
+325,2022,Dennis,Osagiede,DL,Stephen F. Austin,Liberty,Defense
+326,2022,Jashon,Watkins,ATH,Memphis,,ATH
+327,2022,Ryan,Glover,QB,California,Memphis,Offense
+328,2022,Henry,Chibueze,DL,Liberty,Maryland,Defense
+329,2022,Harrison,Leonard,K,Notre Dame,,Special
+330,2022,Ryan,Thaxton,DL,South Florida,,Defense
+331,2022,Chancellor,Bright,WR,Marshall,,Offense
+332,2022,Corey,Wren,RB,Florida State,TCU,Offense
+333,2022,Tyreke,Young,EDGE,Temple,,Defense
+334,2022,Walter,Wilbon III,RB,Ohio,Iowa Central C.C.,Offense
+335,2022,Dexter,Carter Jr.,WR,Georgia Southern,,Offense
+336,2022,Monte',McGary,CB,Utah State,Kansas,Defense
+337,2022,Ivan,Shultz,IOL,Troy,,Offense
+338,2022,Seth,Smith,QB,Marshall,,Offense
+339,2022,Marcel,Murray,RB,Arkansas State,Arkansas State,Offense
+340,2022,Chance,Bates,LB,Kennesaw State,East Carolina,Defense
+341,2022,Christopher,Thomas,DL,Florida,,Defense
+342,2022,Fortune,Woods,LB,Bowling Green,,Defense
+343,2022,DeJuan,Ellis,WR,Maryland,Rhode Island,Offense
+344,2022,Nadir,Thompson,CB,Virginia Tech,,Defense
+345,2022,Majik,Rector,WR,Kansas,Central Arkansas,Offense
+346,2022,Matt,Polk,WR,Oklahoma State,,Offense
+347,2022,Joachim,Bangda,RB,Kent State,,Offense
+348,2022,Matt,Rosso,OT,Rutgers,,Offense
+349,2022,E.J.,Porter,LB,Coastal Carolina,,Defense
+350,2022,Austin,Reed,QB,West Florida,Western Kentucky,Offense
+351,2022,Xavier,Carlton,EDGE,Utah,California,Defense
+352,2022,Dematrius,Davis,QB,Auburn,Alabama State,Offense
+353,2022,Evan,Olaes,QB,Colorado State,,Offense
+354,2022,Takulve,Williams,WR,Kansas,Northern Iowa,Offense
+355,2022,Tai,Marks,IOL,Colorado State,,Offense
+356,2022,Desmond,Dan,WR,Illinois,Southwest Minnesota State,Offense
+357,2022,Jared,Ivey,EDGE,Georgia Tech,Ole Miss,Defense
+358,2022,Jason,Brooks,IOL,Vanderbilt,Oklahoma State,Offense
+359,2022,Jared,Morrow,OT,Coastal Carolina,,Offense
+360,2022,Will,Bowers,DUAL,Liberty,,DUAL
+361,2022,Troy,Henderson,RB,Liberty,,Offense
+362,2022,KD,Davis,LB,North Texas,North Texas,Defense
+363,2022,Max,Johnson,QB,LSU,Texas A&M,Offense
+364,2022,Austin,Beier,IOL,Minnesota,,Offense
+365,2022,Levi,Bell,DL,Louisiana Tech,Texas State,Defense
+366,2022,Kienen,Gaskin,LB,Kansas State,,Defense
+367,2022,Christian,Gonzalez,S,Colorado,Oregon,Defense
+368,2022,Jonah,Morris,WR,Northern Colorado,Illinois,Offense
+369,2022,Dillon,Harris,LB,Connecticut,,Defense
+370,2022,Chance,Main,EDGE,Incarnate Word,Colorado,Defense
+371,2022,Mason,Brotherton,TE,Kansas,,Offense
+372,2022,Lincoln,Pare,RB,Arkansas State,,Offense
+373,2022,Malik,Wesley,WR,UNLV,,Offense
+374,2022,Andrew,Vaught,IOL,Toledo,,Offense
+375,2022,Malik,Williams,CB,Nebraska,,Defense
+376,2022,James,Burns,WR,Miami (OH),,Offense
+377,2022,Gerry,Bohanon,QB,Baylor,South Florida,Offense
+378,2022,J.J.,Woodin,PRO,North Dakota State,,Offense
+379,2022,Nathaniel,Peat,RB,Stanford,Missouri,Offense
+380,2022,Robbie,Mangas,TE,Dartmouth,Buffalo,Offense
+381,2022,Jay,Bramblett,P,Notre Dame,LSU,Special
+382,2022,Devin,Taylor,CB,Virginia Tech,Bowling Green,Defense
+383,2022,Will,Nixon,WR,Nebraska,Washington,Offense
+384,2022,Antoine,Booth,CB,Michigan State,,Defense
+385,2022,Quinton,Torbor,WR,Mississippi State,Alabama State,Offense
+386,2022,Iverson,Clement,RB,Temple,Temple,Offense
+387,2022,Clayton,Franks,OT,Texas Tech,,Offense
+388,2022,Dorian,Hinton,IOL,Middle Tennessee,Florida Atlantic,Offense
+389,2022,Princeton,Pines,OT,Sam Houston State,Tulane,Offense
+390,2022,Christian,Burkhalter,EDGE,UCLA,Georgia Tech,Defense
+391,2022,Marquise,Freeman,EDGE,Washington State,,Defense
+392,2022,Louie,Cresto,EDGE,Oregon,Nevada,Defense
+393,2022,Connor,Vasher,IOL,Savannah State,UMass,Offense
+394,2022,Nate,Thompson,S,Duke,Akron,Defense
+395,2022,CJ,Harris,LB,Arkansas State,,Defense
+396,2022,George,Takacs,TE,Notre Dame,Boston College,Offense
+397,2022,Nicario,Harper,S,Southern Mississippi,Louisville,Defense
+398,2022,Zachary,Dixon,LB,Georgia State,,Defense
+399,2022,Da'Shawn,Elder,S,Virginia Tech,Middle Tennessee,Defense
+400,2022,Charlie,Jones,WR,Iowa,Purdue,Offense
+401,2022,Cole,Harrity,WR,New Mexico State,Buffalo,Offense
+402,2022,Blake,Nelson,TE,Louisville,,Offense
+403,2022,Paul,Akere,WDE,Columbia,Virginia,Defense
+404,2022,Cobe,Bryant,OT,SMU,UNLV,Offense
+405,2022,Kasen,Kinchen,CB,Washington,,Defense
+406,2022,Jarrett,Lucombe,DL,Western Kentucky,,Defense
+407,2022,Jacob,Copeland,WR,Florida,Maryland,Offense
+408,2022,Quentin,Bivens,DL,Ole Miss,Southern Mississippi,Defense
+409,2022,Jake,Bailey,WR,Rice,SMU,Offense
+410,2022,Caylin,Newton,QB,Auburn,,Offense
+411,2022,Kingsley,Suamataia,OT,Oregon,BYU,Offense
+412,2022,Brian,Ugwu,LB,Rutgers,,Defense
+413,2022,Daylen,Gill,LB,Ole Miss,Southern Mississippi,Defense
+414,2022,Anthony,Torres,TE,Western Michigan,Toledo,Offense
+415,2022,Theodore,Knox,WR,Mississippi State,SMU,Offense
+416,2022,Chase,Kline,LB,Michigan State,Eastern Michigan,Defense
+417,2022,Andy,Buttrell,OT,Indiana,,Offense
+418,2022,Tyus,Fields,CB,Tennessee,,Defense
+419,2022,Artese,Gregory,IOL,Southern Utah,Buffalo,Offense
+420,2022,Donovan,Georges,LB,Florida International,,Defense
+421,2022,Jamar,Simpson,WR,San José State,Northwest Missouri State,Offense
+422,2022,Jordan,Brunson,RB,Virginia Tech,Miami (OH),Offense
+423,2022,Ray,Rose,WR,East Carolina,Tennessee State,Offense
+424,2022,Kobe,Lewis,RB,Central Michigan,Purdue,Offense
+425,2022,Bryson,Broadway,OT,Eastern Illinois,Georgia State,Offense
+426,2022,Gabriel,Plascencia,K,Mississippi State,,Special
+427,2022,Nick,Okeke,LB,Louisville,Southern Illinois,Defense
+428,2022,Je'Mari,Littlejohn,OLB,Appalachian State,,Defense
+429,2022,Ian,Hover,IOL,Campbell,Texas State,Offense
+430,2022,James,Hansen,DL,Utah State,,Defense
+431,2022,Aaron,Washington,LB,Bowling Green,,Defense
+432,2022,Lance,Robinson,IOL,Middle Tennessee,Houston,Offense
+433,2022,O'Tay,Baker,DL,Hawai'i,,Defense
+434,2022,Devontae,Davis,DL,South Carolina,,Defense
+435,2022,Lloyd,Summerall,EDGE,Florida,Florida,Defense
+436,2022,Hamze,Elzayat,WR,Fordham,Eastern Michigan,Offense
+437,2022,Jordan,Domineck,EDGE,Georgia Tech,Arkansas,Defense
+438,2022,Chad,Ryland,K,Eastern Michigan,Maryland,Special
+439,2022,Donovan,Manuel,OLB,East Tennessee State,Florida International,Defense
+440,2022,Will,Honas,LB,Nebraska,Kansas State,Defense
+441,2022,Richard,West,IOL,Texas A&M Commerce,Texas State,Offense
+442,2022,Jarvis,Brownlee Jr.,CB,Florida State,Louisville,Defense
+443,2022,Brock,Annexstad,WR,Minnesota,,Offense
+444,2022,Evan,Tattersall,LB,California,,Defense
+445,2022,Myles,Baker,CB,Coastal Carolina,,Defense
+446,2022,Cody,Jackson,WR,Oklahoma,Houston,Offense
+447,2022,Jaylen,Lane,S,UNLV,,Defense
+448,2022,Clinton,Anokwuru,DL,Louisiana,,Defense
+449,2022,Latrell,Neville,WR,Nebraska,North Texas,Offense
+450,2022,Darrell,Simpson,OT,Oklahoma,Tulsa,Offense
+451,2022,Deondre,Dansby,CB,Houston,,Defense
+452,2022,Marshall,Nichols,P,Mississippi State,UNLV,Special
+453,2022,Jayden,Daniels,QB,Arizona State,LSU,Offense
+454,2022,Jordan,Rucker,CB,North Texas,,Defense
+455,2022,Gary,Hoover,OT,Ohio,,Offense
+456,2022,Jonah,Miller,OT,Oregon,,Offense
+457,2022,Kyler,Baugh,DL,Houston Christian,Minnesota,Defense
+458,2022,Donte,Small,CB,Appalachian State,,Defense
+459,2022,J'Vian,McCray,DL,East Carolina,Austin Peay,Defense
+460,2022,Lorenzo,McCaskill,LB,Louisiana,Kansas,Defense
+461,2022,Michael,Edwards,LB,Georgia Southern,East Carolina,Defense
+462,2022,Zackary,Martin,RB,Louisiana Monroe,Louisiana Monroe,Offense
+463,2022,Corey,Kiner,RB,LSU,Cincinnati,Offense
+464,2022,Trevor,Appelman,QB,New Mexico State,,Offense
+465,2022,Shawn,Gates,CB,Utah State,,Defense
+466,2022,Michal,Antoine,CB,Iowa State,Florida Atlantic,Defense
+467,2022,Josh,Plohr,IOL,Illinois,,Offense
+468,2022,Dorian,Plumley,CB,Oklahoma,,Defense
+469,2022,Eleasah,Anderson,OT,Sam Houston State,Western Michigan,Offense
+470,2022,Willie,Allen,OT,UMass,,Offense
+471,2022,Elijah,Ball,CB,Purdue,Eastern Illinois,Defense
+472,2022,Demaurez,Bellamy,LB,South Florida,,Defense
+473,2022,CJ,Lewis,WR,Boston College,Bowling Green,Offense
+474,2022,Lindsey,Scott,QB,Nicholls,Incarnate Word,Offense
+475,2022,Clayton,Isbell,S,Illinois State,Utah,Defense
+476,2022,Brody,Wisecarver,OT,Illinois,Tulsa,Offense
+477,2022,Craig,McDonald,S,Iowa State,Auburn,Defense
+478,2022,Jaxson,Dart,QB,USC,Ole Miss,Offense
+479,2022,Charlie,Stone,IOL,Rice,,Offense
+480,2022,Jackie,Matthews,CB,West Virginia,Mississippi State,Defense
+481,2022,Jalynn,Williams,WR,Toledo,,Offense
+482,2022,Emmanuel,Belgrave,EDGE,Pittsburgh,,Defense
+483,2022,Kamryn,Farrar,LB,Oklahoma State,SMU,Defense
+484,2022,Myles,Cole,DL,Louisiana Monroe,Texas Tech,Defense
+485,2022,Kyle,Juergens,IOL,Boise State,Connecticut,Offense
+486,2022,Khali,Saunders,LB,Purdue,,Defense
+487,2022,Sean,Pelkisson,TE,Georgia Southern,,Offense
+488,2022,Kaylan,Wiggins,QB,Florida International,,Offense
+489,2022,Jordon,Thomas,DL,Texas,,Defense
+490,2022,Terrance,Marshall,S,Houston,Abilene Christian,Defense
+491,2022,Asher,King,K,Indiana,,Special
+492,2022,Jordan,Robinson,CB,Livingstone College,Kentucky,Defense
+493,2022,Mario,Williams,WR,Oklahoma,USC,Offense
+494,2022,Collin,Westfelt,LS,Georgia State,Troy,Special
+495,2022,Ronnie,Stevenson,WR,Temple,,Offense
+496,2022,Tyree,Saunders,WR,East Carolina,Alabama State,Offense
+497,2022,Nicholas,Sheetz,EDGE,Washington State,,Defense
+498,2022,Devyn,King,CB,Maryland,Hawai'i,Defense
+499,2022,Jacob,Skobis,CB,Washington State,,Defense
+500,2022,Jabar,Triplett,LB,Arizona,,Defense
+501,2022,Colby,Powers,TE,Arizona,,Offense
+502,2022,Jason,Whittaker,TE,Northwestern,,Offense
+503,2022,Joe,Sparacio,LB,Boston College,Eastern Michigan,Defense
+504,2022,Coleon,Smith,OT,Eastern Michigan,,Offense
+505,2022,Quincy,Patterson,QB,North Dakota State,Temple,Offense
+506,2022,Josh,Hardeman,S,Marshall,,Defense
+507,2022,Cameron,Williams,LB,Indiana,,Defense
+508,2022,Moezies,Telfort,LB,Florida A&M,,Defense
+509,2022,Dylan,Robinson,WR,Houston,Trinity Valley C.C.,Offense
+510,2022,Casey,Rogers,DL,Nebraska,Oregon,Defense
+511,2022,Quinton,Lee,EDGE,Arkansas State,,Defense
+512,2022,Brady,Feeney,IOL,Indiana,Colgate,Offense
+513,2022,James,McNorton,OT,Washington State,San José State,Offense
+514,2022,Melquan,Stovall,WR,Nevada,Colorado State,Offense
+515,2022,Koby,Gross,TE,Florida State,,Offense
+516,2022,Aric,Horne,LB,Iowa State,Florida A&M,Defense
+517,2022,Damarius,Good,RB,UCF,,Offense
+518,2022,JaKorey,Hawkins,CB,Ole Miss,Wyoming,Defense
+519,2022,Chauncey,Moore,S,Temple,Alabama State,Defense
+520,2022,Ahman,Ross,S,Florida Atlantic,,Defense
+521,2022,Tyrone,Brown,LB,Baylor,,Defense
+522,2022,Carlin,Fils-aime,RB,Tennessee,,Offense
+523,2022,Davis,Beville,QB,Pittsburgh,Oklahoma,Offense
+524,2022,Brenden,Rice,WR,Colorado,USC,Offense
+525,2022,Brian,Holloway,LB,SMU,,Defense
+526,2022,Carlos,Sandy,WR,Illinois,,Offense
+527,2022,Shai,Kochav,LS,Arkansas State,Louisville,Special
+528,2022,Kyren,Lacy,WR,Louisiana,LSU,Offense
+529,2022,Kyle,Dobbins,RB,Temple,Western Illinois,Offense
+530,2022,Demetrius,Cannon,WR,Louisville,,Offense
+531,2022,Darrian,Felix,RB,South Florida,,Offense
+532,2022,Nolan,Mccord,K,Mississippi State,,Special
+533,2022,Zion,Keith,S,Wake Forest,,Defense
+534,2022,Tayvian,Cunningham,WR,Arizona,,Offense
+535,2022,Nathan,Rawlins-Kibonge,EDGE,Oklahoma,South Alabama,Defense
+536,2022,Cormontae,Hamilton,DL,Ohio State,,Defense
+537,2022,Jeremiah,Frazier,IOL,Tennessee State,Troy,Offense
+538,2022,Tye,Evans,RB,Ball State,,Offense
+539,2022,Clyde,Pinder Jr.,DL,North Carolina,South Florida,Defense
+540,2022,Toryque,Bateman,IOL,Troy,,Offense
+541,2022,Kelvontay,Dixon,WR,Texas,SMU,Offense
+542,2022,Kamarro,Edmonds,RB,North Carolina,East Carolina,Offense
+543,2022,Andrew,Peasley,QB,Utah State,Wyoming,Offense
+544,2022,Ja'Corey,Hammett,LB,West Virginia,,Defense
+545,2022,Derrell,Bailey Jr.,IOL,Virginia Tech,South Florida,Offense
+546,2022,Wesley,McCormick,CB,James Madison,West Virginia,Defense
+547,2022,Lonnie,Phelps,EDGE,Miami (OH),Kansas,Defense
+548,2022,RJ,Adams,IOL,Kentucky,Georgia Tech,Offense
+549,2022,Ravontae,Holt,DL,Wyoming,,Defense
+550,2022,Trey,Adkins,WR,South Carolina,Mercer,Offense
+551,2022,KJ,Trujillo,CB,Wake Forest,,Defense
+552,2022,Justin,Harris,CB,Georgia Southern,,Defense
+553,2022,Michael,Lockhart,DL,Georgia Tech,West Virginia,Defense
+554,2022,Quashon,Fuller,EDGE,Florida State,Maryland,Defense
+555,2022,Nadab,Joseph,CB,Nebraska,,Defense
+556,2022,Steven,Losoya,IOL,Middle Tennessee,Mississippi State,Offense
+557,2022,Jalen,Curry,WR,Arizona,Buffalo,Offense
+558,2022,Cornelius,Dyson,ATH,Tulane,,ATH
+559,2022,Jonnie,Pitman,CB,Charlotte,,Defense
+560,2022,Kamren,Blanton,CB,UNLV,,Defense
+561,2022,Kody,Case,WR,South Dakota,Illinois,Offense
+562,2022,Jay,Shaw,CB,UCLA,Wisconsin,Defense
+563,2022,Cam,Sullivan-Brown,WR,Penn State,UMass,Offense
+564,2022,Derrick,Miller,CB,Iowa State,,Defense
+565,2022,Sampson,James,RB,Purdue,,Offense
+566,2022,Xavier,Smith,WR,Eastern Michigan,,Offense
+567,2022,Chalon,Howard,S,Georgia Southern,,Defense
+568,2022,Bryce,Ramsey,IOL,Ole Miss,Southern Mississippi,Offense
+569,2022,Will,Pliska,IOL,Washington,,Offense
+570,2022,Jack,Stewart,DL,Michigan,,Defense
+571,2022,Jalen,Johnson,WR,Arizona,,Offense
+572,2022,Blake,DeBisschop,QB,California,,Offense
+573,2022,Fenley,Graham,CB,Florida,,Defense
+574,2022,Gabe,Jeudy-Lally,CB,Vanderbilt,BYU,Defense
+575,2022,Ja'Quez,Cross,RB,Purdue,Arkansas State,Offense
+576,2022,Dee,Beckwith,RB,Tennessee,Kentucky,Offense
+577,2022,Isaiah,Johnson,CB,Dartmouth,Syracuse,Defense
+578,2022,Hayden,Hagler,TE,Marshall,,Offense
+579,2022,Hunter,Nabers,LB,Fresno State,,Defense
+580,2022,Chevy,Brenson,WR,Ball State,,Offense
+581,2022,Nusi,Malani,DL,Virginia,Washington State,Defense
+582,2022,Michael,DiLiello,QB,Middle Tennessee,,Offense
+583,2022,Latavious,Brini,S,Georgia,Arkansas,Defense
+584,2022,Ollie,Finch,WR,Troy,,Offense
+585,2022,Parks,Gissinger,TE,Michigan State,,Offense
+586,2022,Kaine,Williams,S,Alabama,Nebraska,Defense
+587,2022,David,Abiara,SDE,Texas,SMU,Defense
+588,2022,Soni,Fonua,LB,LSU,,Defense
+589,2022,Colton,Fitzgerald,QB,Boise State,Georgia Southern,Offense
+590,2022,King,Mwikuta,LB,Alabama,Arkansas State,Defense
+591,2022,Evan,Henry,OG,Louisiana Monroe,Jackson State,Offense
+592,2022,Desmyn,Baker,LB,Rice,Western Kentucky,Defense
+593,2022,DJ,James,CB,Oregon,Auburn,Defense
+594,2022,Jonathan,Mann,WR,Minnesota,,Offense
+595,2022,TJ,Lockley,WR,East Carolina,Jacksonville State,Offense
+596,2022,Jordon,Riley,DL,Nebraska,Oregon,Defense
+597,2022,Grant,Gunnell,QB,Memphis,North Texas,Offense
+598,2022,Michael,Mincey,ILB,Vanderbilt,Kennesaw State,Defense
+599,2022,Eli,Ricks,CB,LSU,Alabama,Defense
+600,2022,Jahmal,Sam,S,UT San Antonio,,Defense
+601,2022,Josh,Tracey,WR,Connecticut,,Offense
+602,2022,Nasir,Clerk,CB,East Carolina,,Defense
+603,2022,Micah,Lopez,LB,Washington State,,Defense
+604,2022,Erick,Young,S,Texas A&M,Blinn College,Defense
+605,2022,Andre,Seldon,CB,Michigan,New Mexico State,Defense
+606,2022,Tim,Patrick,WR,Utah State,,Offense
+607,2022,Shon,Brown,LB,Coastal Carolina,Elon,Defense
+608,2022,Jeminai,Leuta-Ulu,IOL,UNLV,,Offense
+609,2022,Ethan,Ingram,IOL,Marshall,Georgia Southern,Offense
+610,2022,LV,Bunkley-Shelton,WR,Arizona State,Oklahoma,Offense
+611,2022,Jahkeem,Green,DL,South Carolina,Florida Atlantic,Defense
+612,2022,Marquez,Beason,CB,Illinois,Alabama A&M,Defense
+613,2022,Jayhvion,Gipson,LB,TCU,,Defense
+614,2022,Ken,Torain,CB,Duke,,Defense
+615,2022,Jarrick,Bernard,CB,Oklahoma State,LSU,Defense
+616,2022,Jaylen,Pate,EDGE,Wyoming,,Defense
+617,2022,Quavaris,Crouch,LB,Michigan State,,Defense
+618,2022,Cordarrius,Bailey,DL,Iowa State,Northern Iowa,Defense
+619,2022,Frankie,Onate,K,South Alabama,,Special
+620,2022,David,Reynolds,EDGE,Florida International,,Defense
+621,2022,Omni,Wells,RB,Mississippi State,South Alabama,Offense
+622,2022,Patrick,Ballard,WR,UNLV,Abilene Christian,Offense
+623,2022,Reginald,Neely,CB,Tulane,,Defense
+624,2022,Emmit,Bohle,OT,Northern State,Arizona State,Offense
+625,2022,Jabari,Parker,S,Virginia Tech,,Defense
+626,2022,Jerwuan,Thomas,CB,Ball State,,Defense
+627,2022,Jaymar,Mundy,CB,Miami (OH),,Defense
+628,2022,Hunter,Washington,CB,Florida State,Mississippi State,Defense
+629,2022,James,Thomas,LB,West Virginia,,Defense
+630,2022,Sam,Reynolds,WR,South Carolina,,Offense
+631,2022,Zeb,Noland,QB,North Dakota State,South Carolina,Offense
+632,2022,Terrell,Jennings,CB,Minnesota State,Illinois,Defense
+633,2022,Kevin,Greene,DL,North Texas,,Defense
+634,2022,D.J.,Williams,RB,Florida State,Arizona,Offense
+635,2022,Rahmod,Smith,TE,Florida Atlantic,,Offense
+636,2022,Javon,Baker,WR,Alabama,UCF,Offense
+637,2022,Anthony,Nelson,WDE,Harvard,Duke,Defense
+638,2022,Sean,Tucker,CB,East Carolina,Towson,Defense
+639,2022,Benjamin,Key,DL,Missouri,,Defense
+640,2022,Taron,Madison,RB,Oregon State,,Offense
+641,2022,Deonte,Sheffield,RB,Florida State,West Florida,Offense
+642,2022,Jeremiah,Payton,WR,Miami,,Offense
+643,2022,Ben,Bell,DL,Louisiana Tech,,Defense
+644,2022,JaMichael,Thompson,WR,Middle Tennessee,,Offense
+645,2022,Tre'Von,Morgan,WR,Miami (OH),,Offense
+646,2022,Loyal,Crawford,RB,Wisconsin,,Offense
+647,2022,Earnest,Sanders,WR,Kentucky,,Offense
+648,2022,Daymon,David,S,Oregon,Oregon,Defense
+649,2022,Tre'von,Marshall,EDGE,Mississippi State,,Defense
+650,2022,MJ,Anderson,DL,Minnesota,Iowa State,Defense
+651,2022,James,Ohonba,IOL,Michigan State,Louisiana,Offense
+652,2022,Ja'Veon,Marlow,RB,Vanderbilt,,Offense
+653,2022,Tenyeh,Dixon,CB,Virginia,Elizabeth City State,Defense
+654,2022,Willie,Reid,S,Central Michigan,,Defense
+655,2022,Myles,Tapusoa,DL,Arizona,,Defense
+656,2022,Eddie,Watkins,LB,West Virginia,,Defense
+657,2022,Jahaziel,Lee,OT,Utah State,,Offense
+658,2022,Dink,Jackson,S,Ole Miss,,Defense
+659,2022,Jackson,Ray,P,Colorado State,,Special
+660,2022,Troy,Brown,LB,Central Michigan,Ole Miss,Defense
+661,2022,Tyriq,Hardimon,CB,Wake Forest,,Defense
+662,2022,Gerrik,Vollmer,OT,Old Dominion,,Offense
+663,2022,Trent,Ward,DL,North Texas,,Defense
+664,2022,James,Phillips,TE,Western Michigan,,Offense
+665,2022,Joshua,Rawlings,TE,Virginia,,Offense
+666,2022,Katravis,Marsh,QB,South Florida,South Florida,Offense
+667,2022,Monterio,Hunt,WR,Rutgers,Alcorn State,Offense
+668,2022,Brian,Maurer,QB,Tennessee,Stephen F. Austin,Offense
+669,2022,Ryan,Stapp,CB,Abilene Christian,Minnesota,Defense
+670,2022,Jonathan,Haynes,S,Ole Miss,,Defense
+671,2022,Zion,Childress,S,Texas State,Kentucky,Defense
+672,2022,Lamin,Touray,LB,Nevada,,Defense
+673,2022,James,Ash,DL,Wake Forest,South Florida,Defense
+674,2022,Khamal,Ellison,CB,Florida,,Defense
+675,2022,Malik,Hornsby,QB,Arkansas,,Offense
+676,2022,Trent,Holler,IOL,East Carolina,Marshall,Offense
+677,2022,Tommy,DeVito,QB,Syracuse,Illinois,Offense
+678,2022,Marcus,Haskins,CB,Liberty,Appalachian State,Defense
+679,2022,Ma'a,Gaoteote,OLB,Michigan State,,Defense
+680,2022,Stacy,Kirby,EDGE,South Florida,,Defense
+681,2022,Russell,Thompson-Bishop,WR,Syracuse,,Offense
+682,2022,Chylon,Thomas,WR,Charlotte,,Offense
+683,2022,Tyrone,Brown,S,Baylor,,Defense
+684,2022,Ja'Len,Sims,LB,Memphis,,Defense
+685,2022,Josh,Moore,S,UCLA,Florida Atlantic,Defense
+686,2022,Deron,Harrell,CB,Wisconsin,,Defense
+687,2022,Daniel,Carson,DL,Georgia Tech,Georgia Tech,Defense
+688,2022,Christian,Malloy,RB,Coastal Carolina,,Offense
+689,2022,Greg,Grate Jr,ATH,Middle Tennessee,,ATH
+690,2022,Kyjuan,Herndon,ATH,Colorado State,Colorado State,ATH
+691,2022,Jack,Zergiotis,QB,Connecticut,Merrimack,Offense
+692,2022,De'Rickey,Wright,LB,Vanderbilt,,Defense
+693,2022,James,Graham,QB,Georgia Southern,,Offense
+694,2022,Robert,McWilliams,LB,Purdue,Purdue,Defense
+695,2022,Malcolm,Terry,RB,Navy,,Offense
+696,2022,Marcus,Moore,DL,Louisiana Monroe,,Defense
+697,2022,James,Lewis,LB,New Mexico,,Defense
+698,2022,Christian,Galvan,RB,Drake,Drake,Offense
+699,2022,Chris,Cassidy,OT,North Texas,,Offense
+700,2022,Luke,Knox,LB,Ole Miss,Florida International,Defense
+701,2022,Charles,Brown,WR,Montana State,Texas State,Offense
+702,2022,Ty,Lindenman,WR,Illinois,,Offense
+703,2022,Kai-Leon,Herbert,OT,Miami,,Offense
+704,2022,Re-al,Mitchell,QB,Temple,San Diego,Offense
+705,2022,Keon,Voisin,CB,South Alabama,,Defense
+706,2022,Jackson,Bailey,LB,Arizona,Louisiana Monroe,Defense
+707,2022,Devon,Dickerson,S,Maryland,,Defense
+708,2022,Julian,Nixon,TE,Tennessee,,Offense
+709,2022,Answer,Gaye,CB,Iowa State,,Defense
+710,2022,Bryce,Goodner,IOL,Virginia Tech,Chattanooga,Offense
+711,2022,Cole,Hussung,K,Michigan,Louisville,Special
+712,2022,Montae,Maxwell,S,Georgia Southern,,Defense
+713,2022,Jacques,Wilson,CB,BYU,,Defense
+714,2022,Kristian,Williams,DL,Oregon,,Defense
+715,2022,Gavin,Blunt,WR,Akron,,Offense
+716,2022,K'Vaughan,Pope,LB,Ohio State,,Defense
+717,2022,Michael,Turk,P,Arizona State,Oklahoma,Special
+718,2022,Weston,Reiman,IOL,Nebraska,,Offense
+719,2022,Marcel,Lewis,LB,Central Michigan,,Defense
+720,2022,Kanan,Ray,IOL,Colorado,Tulane,Offense
+721,2022,Ian,Kipp,QB,Kent State,,Offense
+722,2022,Noah,Potter,DL,Ohio State,Cincinnati,Defense
+723,2022,John,Brekke,IOL,Holy Cross,Miami (OH),Offense
+724,2022,John Wesley,Kennedy III,RB,Georgia Southern,,Offense
+725,2022,Naricuss,Driver,TE,Southern Mississippi,Grambling,Offense
+726,2022,Ellison,Hubbard,DL,Colorado State,Sam Houston State,Defense
+727,2022,Dontae,Lucas,IOL,Florida State,South Alabama,Offense
+728,2022,Velltray,Jefferson,LB,Utah,Fresno State,Defense
+729,2022,Nick,Manson,WR,Miami (OH),,Offense
+730,2022,Marcellus,Moore,RB,Purdue,,Offense
+731,2022,Devin,Brumfield,RB,Tulane,,Offense
+732,2022,Kyron,Cumby,RB,Texas Tech,,Offense
+733,2022,Bryan,Robinson,WR,Florida State,Marshall,Offense
+734,2022,Henry,Parrish,RB,Ole Miss,Miami,Offense
+735,2022,Donald,Clea,S,Troy,,Defense
+736,2022,Ethan,Rinke,DL,South Alabama,,Defense
+737,2022,Justin,Isler,EDGE,Appalachian State,,Defense
+738,2022,Edward,Bautista,LB,North Texas,,Defense
+739,2022,Eli,Fields,OT,Florida Atlantic,,Offense
+740,2022,Ayodele,Adeoye,LB,Texas,Sacramento State,Defense
+741,2022,Shamel,Lazarus,CB,Connecticut,,Defense
+742,2022,Andrew,Chatfield,EDGE,Florida,Oregon State,Defense
+743,2022,Darel,Middleton,DL,West Virginia,,Defense
+744,2022,David,Chapeau,P,Air Force,East Carolina,Special
+745,2022,Charles,Hicks,LB,Wyoming,Missouri,Defense
+746,2022,Sterling,Miles,EDGE,Cincinnati,,Defense
+747,2022,Darius,Bracy,RB,Central Michigan,,Offense
+748,2022,Elijah,Eberhardt,CB,Bowling Green,,Defense
+749,2022,Evan,Lovell,OT,Rhode Island,Texas State,Offense
+750,2022,Dru,Polidore,CB,Air Force,,Defense
+751,2022,Da'Shaun,Brown,WR,Indiana,,Offense
+752,2022,Kerry,Martin,S,West Virginia,Akron,Defense
+753,2022,Ben,Raybon,K,Northern Colorado,Mississippi State,Special
+754,2022,Brendon,Clark,QB,Notre Dame,Old Dominion,Offense
+755,2022,Brian,Parish,OT,UMass,,Offense
+756,2022,Gayflor,Flomo,RB,Kansas,Concordia University,Offense
+757,2022,Lacarea,Pleasant-Johnson,CB,Utah,,Defense
+758,2022,Jared,Verse,EDGE,Albany,Florida State,Defense
+759,2022,Sherwin,King,S,Fresno State,,Defense
+760,2022,George,Johnson III,CB,Michigan,UMass,Defense
+761,2022,Bryce,Miller,WR,South Florida,,Offense
+762,2022,Tarique,Milton,WR,Iowa State,Texas,Offense
+763,2022,Aaron,Dumas,RB,New Mexico,Washington,Offense
+764,2022,Stacey,Marshall Jr.,TE,Arizona,Marshall,Offense
+765,2022,Carter,Bradley,QB,Toledo,South Alabama,Offense
+766,2022,Keylin,Roach,CB,Marshall,,Defense
+767,2022,Devell,Washington,LB,West Virginia,,Defense
+768,2022,Joe,Rondi,DL,Syracuse,,Defense
+769,2022,Sidney,Walker,IOL,Connecticut,Buffalo,Offense
+770,2022,Norval,Black,WR,Penn State,,Offense
+771,2022,Jaylon,Sharpe,LB,Charlotte,,Defense
+772,2022,Tayvion,Robinson,WR,Virginia Tech,Kentucky,Offense
+773,2022,Cole,Brevard,DL,Penn State,Purdue,Defense
+774,2022,Caeleb,Washington,DL,UMass,Southern Illinois,Defense
+775,2022,Lucas,Coley,QB,Arkansas,Houston,Offense
+776,2022,Jordan,Murray,TE,Missouri State,Hawai'i,Offense
+777,2022,Diamonte,Tucker-Dorsey,LB,James Madison,Texas,Defense
+778,2022,Morven,Joseph,LB,Tennessee,Florida Atlantic,Defense
+779,2022,Caleb,Chapman,WR,Texas A&M,Oregon,Offense
+780,2022,Peyton,Thompson,QB,Oklahoma State,Central Oklahoma,Offense
+781,2022,O'Cyrus,Torrence,IOL,Louisiana,Florida,Offense
+782,2022,Kyle,Toole,QB,Troy,Georgia Southern,Offense
+783,2022,Samson,Jackson,OT,Ohio,,Offense
+784,2022,Eddie,Smith,S,Illinois,Arkansas State,Defense
+785,2022,Kadyn,Roach,RB,Louisiana Monroe,Southern Arkansas,Offense
+786,2022,Joshua,Pakola,EDGE,Stanford,Fresno State,Defense
+787,2022,Emmanuel,White,DL,Charlotte,,Defense
+788,2022,Gregory,Clayton,WR,UT San Antonio,,Offense
+789,2022,Cornelius,McCoy,WR,Georgia State,Eastern Kentucky,Offense
+790,2022,Jaylen,Johnson,WR,Georgia,East Carolina,Offense
+791,2022,Jordan,Jusevitch,S,Indiana,Indiana State,Defense
+792,2022,Deangelo,Gibbs,WR,Tennessee,,Offense
+793,2022,Jermayne,Lole,DL,Arizona State,Louisville,Defense
+794,2022,Billy,Edwards,QB,Wake Forest,Maryland,Offense
+795,2022,Christopher,Houston,RB,Charlotte,,Offense
+796,2022,Jaret,Frantz,WR,Ball State,Toledo,Offense
+797,2022,Cole,Joyce,LB,UCF,,Defense
+798,2022,Jakari,Robinson,IOL,Memphis,,Offense
+799,2022,Justin,Lynch,QB,Temple,Northern Illinois,Offense
+800,2022,VanDarius,Cowan,LB,West Virginia,Maryland,Defense
+801,2022,Trenton,Gillison,TE,Michigan State,,Offense
+802,2022,Lucas,Johnson,QB,San Diego State,,Offense
+803,2022,Chase,Lasater,EDGE,Florida Atlantic,Eastern Kentucky,Defense
+804,2022,Jaylan,Jeffers,OT,Oregon,UCLA,Offense
+805,2022,Jaylen,Larry,IOL,UMass,,Offense
+806,2022,CJ,Boone,WR,New Mexico,,Offense
+807,2022,AJ,Mayer,QB,Miami (OH),,Offense
+808,2022,Luke,Felix-Fualalo,OT,Utah,Hawai'i,Offense
+809,2022,Cole,DeMarzo,LB,Michigan State,Wyoming,Defense
+810,2022,Ky,Thomas,RB,Minnesota,Kansas,Offense
+811,2022,Uriah,Greene,IOL,South Florida,,Offense
+812,2022,Jalen,Williams,DL,Arkansas,Southern Mississippi,Defense
+813,2022,Morgan,Moore,OT,Texas State,,Offense
+814,2022,Jacardia,Wright,RB,Kansas State,Missouri State,Offense
+815,2022,Elelyon,Noa,RB,Utah State,,Offense
+816,2022,Daniel,George,WR,Penn State,Akron,Offense
+817,2022,Darrion,Henry-Young,DL,Ohio State,Kentucky,Defense
+818,2022,Cam,Dillon,ILB,Columbia,Duke,Defense
+819,2022,Nolan,Rumler,IOL,Michigan,Kent State,Offense
+820,2022,LaMarque,Davis,CB,Southern Mississippi,,Defense
+821,2022,Conner,Lewis,S,Arizona State,,Defense
+822,2022,Sean,Chambers,QB,Wyoming,Montana State,Offense
+823,2022,Ezrah,Archie,WR,Monmouth,Georgia Southern,Offense
+824,2022,Jarren,Williams,QB,South Florida,Alabama A&M,Offense
+825,2022,Jaquan,Amos,S,Iowa State,Ball State,Defense
+826,2022,Aaron,Brule,LB,Mississippi State,Michigan State,Defense
+827,2022,Jeremiah,McClendon,S,Marshall,,Defense
+828,2022,Jonny,Fanaika,EDGE,Utah,,Defense
+829,2022,Eddie,Schott,PRO,Ball State,Butler,Offense
+830,2022,Cody,Shear,IOL,Syracuse,,Offense
+831,2022,John David,White,WR,Arkansas,Central Arkansas,Offense
+832,2022,Bryce,Sheppert,S,Notre Dame College,,Defense
+833,2022,Daniel,Grzesiak,EDGE,Nevada,,Defense
+834,2022,Ryan,Jacoby,OT,Ohio State,Pittsburgh,Offense
+835,2022,Braxton,Burmeister,QB,Virginia Tech,San Diego State,Offense
+836,2022,De'Arre,McDonald,CB,Cincinnati,Middle Tennessee,Defense
+837,2022,Jam,Griffin,RB,Georgia Tech,Oregon State,Offense
+838,2022,Conner,Maynard,P,Miami (OH),Appalachian State,Special
+839,2022,Rory,Hanson,TE,Fresno State,,Offense
+840,2022,Olasunkonmi,Agunloye,DL,Virginia,Virginia,Defense
+841,2022,J.J.,Pegues,TE,Auburn,Ole Miss,Offense
+842,2022,Jahleel,Billingsley,TE,Alabama,Texas,Offense
+843,2022,Tyler,Days,CB,Boston College,,Defense
+844,2022,Olivier,Charles-Pierre,DL,Houston,,Defense
+845,2022,Ben,Labrosse,S,Syracuse,,Defense
+846,2022,Rashad,Ajayi,CB,Colorado State,West Virginia,Defense
+847,2022,Anthony,Watts,DL,Purdue,Marshall,Defense
+848,2022,Kai,Arneson,OT,Oregon,Nevada,Offense
+849,2022,John Paul,Flores,OT,Dartmouth,Virginia,Offense
+850,2022,Keilon,Brown,QB,Memphis,Georgia State,Offense
+851,2022,C.J.,Person,DL,Indiana,South Alabama,Defense
+852,2022,Carter,Carlson,EDGE,Washington State,,Defense
+853,2022,Kevaris,Hall,CB,Tulane,SMU,Defense
+854,2022,Aapri,Washington,CB,Buffalo,East Carolina,Defense
+855,2022,Emmanuel,Flowers,S,Michigan State,,Defense
+856,2022,Dreshun,Miller,CB,Auburn,NC State,Defense
+857,2022,Isaac,Smith,WR,Wisconsin,,Offense
+858,2022,Nate,Harris,S,LSU,,Defense
+859,2022,TJ,Smith,EDGE,Georgia State,Limestone College,Defense
+860,2022,Shawn,Robinson,S,Missouri,Kansas State,Defense
+861,2022,Douglas,Emilien,WR,Minnesota,Kansas,Offense
+862,2022,Kaedin,Robinson,WR,UCF,Appalachian State,Offense
+863,2022,Tahliq,Battle,RB,Buffalo,,Offense
+864,2022,Anthony,Price,RB,Arkansas State,,Offense
+865,2022,Kajiya,Hollawayne,QB,UCLA,Grambling,Offense
+866,2022,Willie,Hampton,LB,Western Carolina,Buffalo,Defense
+867,2022,Jaali,Parker,S,Western Michigan,,Defense
+868,2022,Dillon,Gabriel,QB,UCF,Oklahoma,Offense
+869,2022,Cam,Reddy,IOL,Colorado State,Liberty,Offense
+870,2022,Myles,Brennan,QB,LSU,,Offense
+871,2022,TJ,Steele,WR,TCU,,Offense
+872,2022,Myles,McNeal,CB,Eastern Michigan,,Defense
+873,2022,Juan,Harris,DL,Indiana,,Defense
+874,2022,Luke,Akers,P,UCLA,Northwestern,Special
+875,2022,Kundarrius,Taylor,WR,UAB,,Offense
+876,2022,Josh,Watts,P,Colorado,,Special
+877,2022,Jonathan,Shepherd,WR,Oklahoma State,,Offense
+878,2022,Leo,Parker,RB,South Florida,,Offense
+879,2022,Jacob,Sykes,DL,Harvard,UCLA,Defense
+880,2022,Jesiah,Davis,WR,Virginia,,Offense
+881,2022,Deshawn,Troutman,LB,Miami,,Defense
+882,2022,Zahir,Swann,RB,Central Michigan,,Offense
+883,2022,James,Palmer,TE,Tulsa,,Offense
+884,2022,Caleb,Christensen,CB,BYU,,Defense
+885,2022,Parker,Grothaus,K,Florida State,West Virginia,Special
+886,2022,Lonnie,Rice,S,Buffalo,,Defense
+887,2022,Ethon,Williams,WR,Boston College,Connecticut,Offense
+888,2022,Jordan,Bennett,WR,Georgia Southern,,Offense
+889,2022,Marcus,McElroy,RB,Colorado State,McNeese,Offense
+890,2022,Rashad,Cheney,DL,Minnesota,South Florida,Defense
+891,2022,Tharon,Davis,RB,Memphis,,Offense
+892,2022,John,Ward,DL,UCLA,Utah State,Defense
+893,2022,Derick,Hunter,OT,Texas A&M,Hinds C.C.,Offense
+894,2022,Jeremy,Hunt,QB,Louisiana Monroe,,Offense
+895,2022,Allan,Mwata,S,San Diego State,,Defense
+896,2022,Mata,Hola,EDGE,Utah State,,Defense
+897,2022,Cody,Brown,RB,Miami,Virginia,Offense
+898,2022,Kendall,Catalon,WR,Arkansas,,Offense
+899,2022,Kobie,Turner,DL,Richmond,Wake Forest,Defense
+900,2022,Andre,Goodman,QB,Appalachian State,Limestone College,Offense
+901,2022,Nathan,Manning,QB,Arizona State,,Offense
+902,2022,Tylan,Knight,RB,Ole Miss,Southern Mississippi,Offense
+903,2022,Darnell,Jefferies,DL,Clemson,Minnesota,Defense
+904,2022,Kristian,Varner,DL,North Carolina,Georgia Southern,Defense
+905,2022,Deuce,Hogan,QB,Iowa,Kentucky,Offense
+906,2022,Noah,Nelson,OT,Oklahoma,Northern Arizona,Offense
+907,2022,Naquan,Brown,EDGE,Pittsburgh,Norfolk State,Defense
+908,2022,Malik,Heath,WR,Mississippi State,Ole Miss,Offense
+909,2022,Crishawn,Long,LB,Purdue,,Defense
+910,2022,Deondre,Doiron,IOL,Buffalo,Kansas,Offense
+911,2022,Ahmirr,Robinson,WR,Rutgers,Texas State,Offense
+912,2022,Jacolby,Hewitt,WR,Indiana,Florida International,Offense
+913,2022,Carter,Short,LS,Alabama,,Special
+914,2022,Landon,Jackson,EDGE,LSU,Arkansas,Defense
+915,2022,Terreance,Ellis,LB,Rice,Alcorn State,Defense
+916,2022,Brylan,Lanier,CB,Alabama,Indiana,Defense
+917,2022,Lucas,Dunker Jr.,K,Washington State,,Special
+918,2022,Jahquan,Bloomfield,WR,Louisiana Monroe,,Offense
+919,2022,Derrick,Smith,S,Illinois,Western Kentucky,Defense
+920,2022,Kobe,Hylton,S,Louisiana,UTEP,Defense
+921,2022,Jerrod,Means,WR,Louisiana Tech,Pittsburgh,Offense
+922,2022,Antoine,Robinson,WR,Southern Mississippi,,Offense
+923,2022,Mark,Davis,CB,Buffalo,,Defense
+924,2022,Theo,Wease,WR,Oklahoma,Oklahoma,Offense
+925,2022,Morris,Joseph,DL,Memphis,Georgia Tech,Defense
+926,2022,Dallas,Gant,LB,Ohio State,Toledo,Defense
+927,2022,Daniel,Ogundipe,OT,Old Dominion,,Offense
+928,2022,Nick,Kargman,QB,Western Michigan,Wagner,Offense
+929,2022,Sharod,Johnson,WR,Syracuse,Florida International,Offense
+930,2022,JJ,Jones,TE,Dartmouth,New Mexico State,Offense
+931,2022,Monroe,Mills,OT,Oklahoma State,Texas Tech,Offense
+932,2022,Cory,Gross,S,Buffalo,,Defense
+933,2022,Brice,Johnson,WR,Ole Miss,Houston,Offense
+934,2022,Bryson,Shaw,S,Ohio State,USC,Defense
+935,2022,Anthony,Tocchini,IOL,New Mexico State,,Offense
+936,2022,Carter,Kamana,WR,Washington State,,Offense
+937,2022,Caleb,Berry,RB,Washington,,Offense
+938,2022,Luke,Anthony,QB,Louisiana Tech,Baylor,Offense
+939,2022,Tristan,Golightly,TE,Kansas,Abilene Christian,Offense
+940,2022,Ben,Gansallo,DL,New Mexico,,Defense
+941,2022,Cedrice,Paillant,OT,Rutgers,Marshall,Offense
+942,2022,Blayne,Toll,DL,Colorado,Arkansas State,Defense
+943,2022,Sawyer,Racanelli,WR,Washington,Montana,Offense
+944,2022,Nolan,Gorczyca,OT,Buffalo,Kansas,Offense
+945,2022,Thomas,Nance,TE,South Florida,,Offense
+946,2022,Darius,Williams,EDGE,Middle Tennessee,,Defense
+947,2022,Tyrin,Smith,WR,UTEP,,Offense
+948,2022,Caleb,Offord,CB,Notre Dame,Buffalo,Defense
+949,2022,A.J.,Campbell,EDGE,UCLA,Kent State,Defense
+950,2022,Jalen,McGaughy,WR,Ball State,,Offense
+951,2022,Jordan,Weeks,QB,UT San Antonio,,Offense
+952,2022,Nick,Evans,DL,UT San Antonio,,Defense
+953,2022,Latrell,McCutchin,CB,Oklahoma,USC,Defense
+954,2022,Dayton,Toney,WR,Hawai'i,Incarnate Word,Offense
+955,2022,Canaan,Clark,OT,East Carolina,,Offense
+956,2022,Ahmonte,Watkins,RB,TCU,New Mexico State,Offense
+957,2022,Dwayne,Thompson,S,Indiana State,,Defense
+958,2022,Sofian,Massoud,QB,Houston,Hampton,Offense
+959,2022,Carson,Tabaracci,LB,Utah,USC,Defense
+960,2022,Evan,Azzara,OT,Miami (OH),,Offense
+961,2022,Peter,Udoibok,WR,Minnesota,Northern Iowa,Offense
+962,2022,Andison,Coby,WR,Tennessee,Indiana,Offense
+963,2022,Khari,Coleman,EDGE,TCU,Ole Miss,Defense
+964,2022,Jaylen,Martin,CB,California,,Defense
+965,2022,Jayce,Medlock,TE,Connecticut,Alabama State,Offense
+966,2022,Jojo,Falo,DL,Cal Poly,Hawai'i,Defense
+967,2022,Jadon,Jackson,WR,Ole Miss,Kansas State,Offense
+968,2022,Amir,Abdur-Rahman,WR,Vanderbilt,Ball State,Offense
+969,2022,Doug,Brumfield,QB,UNLV,UNLV,Offense
+970,2022,Tirek,Austin-Cave,LB,Miami,West Virginia,Defense
+971,2022,Osita,Smith,S,Maryland,,Defense
+972,2022,Da'Veawn,Armstead,S,TCU,Sam Houston State,Defense
+973,2022,Alex,Williams,EDGE,Vanderbilt,,Defense
+974,2022,Zach,Portlock,LB,Southern Mississippi,,Defense
+975,2022,Terion,Sugick,DL,Vanderbilt,Arkansas State,Defense
+976,2022,Lloyd,Murray Jr.,DL,Colorado,Sam Houston State,Defense
+977,2022,Jarveon,Howard,RB,Syracuse,Alcorn State,Offense
+978,2022,James,Gordon IV,LB,Minnesota,South Florida,Defense
+979,2022,Anthony,Solomon,LB,Michigan,Arizona,Defense
+980,2022,Cole,Daniels,DL,South Alabama,,Defense
+981,2022,Colby,Reeder,LB,Delaware,Iowa State,Defense
+982,2022,Alexandre,Dumais,DL,Fresno State,,Defense
+983,2022,Mychal,Victor,CB,UNLV,,Defense
+984,2022,Austin,Jarrard,TE,Oklahoma State,Sacramento State,Offense
+985,2022,Nehki,Meredith,S,NC State,,Defense
+986,2022,Elijah,Cooks,WR,Nevada,San José State,Offense
+987,2022,Arna,Bontemps,S,Washington State,,Defense
+988,2022,Vincent,Murphy,IOL,South Carolina,Western Kentucky,Offense
+989,2022,Jordan,Carmouche,LB,Houston,Arkansas State,Defense
+990,2022,Cinque,Williams,S,North Texas,,Defense
+991,2022,Hunter,Green,S,Virginia Tech,,Defense
+992,2022,Quinn,Potts,S,New Mexico,,Defense
+993,2022,Tyrek,Tisdale,RB,Florida Atlantic,St. Thomas University,Offense
+994,2022,Tyler,Rudolph,S,Penn State,UMass,Defense
+995,2022,Jermaine,Burton,WR,Georgia,Alabama,Offense
+996,2022,Nickolas,Tshivuadi,WR,South Florida,,Offense
+997,2022,Teon,Dollard,RB,Akron,,Offense
+998,2022,Blake,Grupe,K,Arkansas State,Notre Dame,Special
+999,2022,Steven,Stilianos,TE,Lafayette,Iowa,Offense
+1000,2022,Caleb,Johnson,LB,UCLA,Miami,Defense
+1001,2022,Larry,Hodges,TE,Miami,Middle Tennessee,Offense
+1002,2022,Malik,Jackson,TE,Maryland,,Offense
+1003,2022,Daniel,Bushland,WR,Texas A&M,,Offense
+1004,2022,Jarrett,Preston,S,UT San Antonio,UT San Antonio,Defense
+1005,2022,Desmond,Hutson,WR,Iowa,,Offense
+1006,2022,Ryan,Johnson,DL,Stanford,Northwestern,Defense
+1007,2022,Miles,Marshall,WR,Indiana,Miami (OH),Offense
+1008,2022,Jadan,Blue,WR,Temple,Virginia Tech,Offense
+1009,2022,Jasir,Cox,OLB,North Dakota State,West Virginia,Defense
+1010,2022,Tyler,Stephens,TE,Buffalo,Missouri,Offense
+1011,2022,Nelson,Mbanasor,DL,Louisiana Tech,,Defense
+1012,2022,Darion,Green-Warren,CB,Michigan,Nevada,Defense
+1013,2022,Travis,Dye,RB,Oregon,USC,Offense
+1014,2022,Joey,Ramos,OT,Iowa State,Arizona State,Offense
+1015,2022,Devonte,Nelson,CB,Memphis,,Defense
+1016,2022,Nick,DeGennaro,WR,Maryland,,Offense
+1017,2022,Cade,Fortin,QB,South Florida,Arkansas,Offense
+1018,2022,Hunter,Johnson,QB,Northwestern,Clemson,Offense
+1019,2022,Litchfield,Ajavon,S,Notre Dame,Rice,Defense
+1020,2022,Andrew,Brito,QB,UCF,,Offense
+1021,2022,Julius,Bolden,RB,Northern Illinois,,Offense
+1022,2022,Christian,Singleton,RB,Western Michigan,,Offense
+1023,2022,Randy,Jordan Jr.,CB,Fresno State,,Defense
+1024,2022,Brooks,Weeks,LB,Troy,,Defense
+1025,2022,Carson,Smith,TE,Washington,,Offense
+1026,2022,Jeff,Marks,DL,Purdue,,Defense
+1027,2022,OrTre,Smith,WR,South Carolina,North Carolina Central,Offense
+1028,2022,Jayden,Williams,CB,USC,Louisville,Defense
+1029,2022,JP,Andrade,QB,Ohio State,,Offense
+1030,2022,Cam,Williams,DL,Troy,,Defense
+1031,2022,Garrett,Jones,IOL,Kansas,,Offense
+1032,2022,Maninoa,Tufono,DL,USC,,Defense
+1033,2022,Tyson,Bagent,QB,Shepherd,Shepherd,Offense
+1034,2022,Gaven,Haselhorst,LB,Kansas State,Fort Hays State,Defense
+1035,2022,Solomon,Brown,CB,Minnesota,Buffalo,Defense
+1036,2022,Max,Fisher,WR,NC State,,Offense
+1037,2022,DJ,Sims,WR,Virginia Tech,,Offense
+1038,2022,Adam,Barry,P,Temple,Oregon,Special
+1039,2022,Nick,Curtis,LB,Auburn,,Defense
+1040,2022,Sokoya,McDuffie,DL,Old Dominion,Connecticut,Defense
+1041,2022,Cole,Feinauer,OT,Colorado State,Nevada,Offense
+1042,2022,Davontae,McCrae,SDE,North Texas,,Defense
+1043,2022,Stephen,Ruiz,K,Boston College,Indiana State,Special
+1044,2022,Tremayne,Prudhomme,CB,Texas,,Defense
+1045,2022,Ian,Mathews,DL,Auburn,Missouri,Defense
+1046,2022,Darius,Muasau,LB,Hawai'i,UCLA,Defense
+1047,2022,J.D.,DiRenzo,OT,Sacred Heart,Rutgers,Offense
+1048,2022,Agiye,Hall,WR,Alabama,Texas,Offense
+1049,2022,Anthony,Hundley,DL,UCF,,Defense
+1050,2022,Naijee,Jones,S,Rutgers,Kent State,Defense
+1051,2022,Victory,Vaka,DL,BYU,,Defense
+1052,2022,Mohamoud,Diabate,LB,Florida,Utah,Defense
+1053,2022,Rod,Green,IOL,Grambling,,Offense
+1054,2022,Andrew,VanBuren,RB,Boise State,Portland State,Offense
+1055,2022,D'Marcus,Adams,WR,Florida Atlantic,Syracuse,Offense
+1056,2022,Brendan,Bordner,IOL,Rutgers,Florida Atlantic,Offense
+1057,2022,Solomon,Wright,DL,Arkansas,Oklahoma State,Defense
+1058,2022,Isaiah,Jacobs,RB,Maryland,,Offense
+1059,2022,Kason,Martin,QB,North Texas,Eastern New Mexico,Offense
+1060,2022,Keithron,Lee,WR,Texas,,Offense
+1061,2022,Dominick,Hill,CB,South Carolina,Temple,Defense
+1062,2022,Kody,Fulp,LB,North Texas,,Defense
+1063,2022,Xavier,Young,DL,Washington State,,Defense
+1064,2022,Joey,Carroll,OT,Bowling Green,,Offense
+1065,2022,Matthew,Hightower,LB,Tulane,,Defense
+1066,2022,Aamaris,Brown,S,Kansas State,South Florida,Defense
+1067,2022,JoJo,Johnson,CB,Notre Dame,,Defense
+1068,2022,Daniel,Barker,TE,Illinois,Michigan State,Offense
+1069,2022,Ben,Dinkel,P,South Dakota State,,Special
+1070,2022,Derek,Green,QB,SMU,Long Island University,Offense
+1071,2022,Darius,Hodges,LB,Tulane,Tulane,Defense
+1072,2022,Simeon,Evans,QB,Army,Sam Houston State,Offense
+1073,2022,Aaron,Allen,QB,Louisiana Tech,Alcorn State,Offense
+1074,2022,K'Rojhn,Calbert,OT,Tennessee,Eastern Kentucky,Offense
+1075,2022,Branden,Coleman,CB,Colorado State,,Defense
+1076,2022,Dacoda,Weaver,OT,Florida Atlantic,Delta State,Offense
+1077,2022,Jiovanny,Holmes,S,Boston College,,Defense
+1078,2022,Velton,Gardner,RB,Kansas,Grambling,Offense
+1079,2022,Jamari,Stewart,EDGE,South Florida,,Defense
+1080,2022,Jairus,Satiu,LB,Virginia,,Defense
+1081,2022,Gabriel,Iniguez,EDGE,Hawai'i,,Defense
+1082,2022,Tyrese,Williams,IOL,Oklahoma State,Oklahoma State,Offense
+1083,2022,Tyson,Watson,DL,Michigan State,UMass,Defense
+1084,2022,Conner,Parsons,IOL,Louisiana Monroe,,Offense
+1085,2022,Kelin,Burrle,LB,Arkansas,,Defense
+1086,2022,Tavis,Lee,LB,West Virginia,,Defense
+1087,2022,Chris,Scruggs Jr.,WR,Southern Mississippi,,Offense
+1088,2022,Rico,Frye,RB,Bowling Green,,Offense
+1089,2022,Aaron,Holloway,WR,UNLV,,Offense
+1090,2022,Donovan,Eaglin,RB,Michigan State,,Offense
+1091,2022,Jalen,Monrrow,SDE,Cincinnati,,Defense
+1092,2022,Tymon,Mitchell,DL,Georgia,TCU,Defense
+1093,2022,Toby,Ndukwe,LB,SMU,Sam Houston State,Defense
+1094,2022,Ajou,Ajou,WR,Clemson,South Florida,Offense
+1095,2022,Austin,Jones,RB,Stanford,USC,Offense
+1096,2022,Alex,Okelo,WDE,Michigan State,,Defense
+1097,2022,Jeremiah,Lewis,CB,Duke,,Defense
+1098,2022,Torrance,Davis,RB,Kentucky,,Offense
+1099,2022,Sam,Crawford,WR,Tulsa,Rice,Offense
+1100,2022,Robby,Rochester,OT,Connecticut,TCU,Offense
+1101,2022,Stan,Livingstone Jr.,CB,San José State,Tuskegee,Defense
+1102,2022,Tyrone,Barber,DL,South Florida,,Defense
+1103,2022,Amauri,Pesek-Hickson,RB,Kansas,Northern Iowa,Offense
+1104,2022,Zamari,Ellis,EDGE,Duke,,Defense
+1105,2022,Damian,Lopez,IOL,USC,,Offense
+1106,2022,Wynden,Ho'ohuli,LB,Nebraska,Hawai'i,Defense
+1107,2022,Curley,Young,LB,California,,Defense
+1108,2022,Chase,Mason,QB,Nebraska,South Dakota State,Offense
+1109,2022,Cade,Bennett,OT,Oklahoma State,San Diego State,Offense
+1110,2022,Jake,Pope,OT,Kentucky,,Offense
+1111,2022,Mike,Ciaffoni,IOL,Colorado State,Rutgers,Offense
+1112,2022,Gabe,Lemons,CB,Oklahoma State,,Defense
+1113,2022,Justin,Robinson,WR,Georgia,Mississippi State,Offense
+1114,2022,Levar,Gumms,WR,Central Michigan,,Offense
+1115,2022,Rafael,McCoy,WR,Old Dominion,,Offense
+1116,2022,Isaiah,Epps,WR,Kentucky,Tulsa,Offense
+1117,2022,TJ,Graham,WR,Texas State,,Offense
+1118,2022,Jawaun,Johnson,WR,Louisiana Tech,,Offense
+1119,2022,Ro,Torrence,CB,Auburn,Arizona State,Defense
+1120,2022,Jermaine,McMillian,S,UCF,UMass,Defense
+1121,2022,Lowell,Narcisse,QB,UT San Antonio,Nicholls,Offense
+1122,2022,Luke,Soto,TE,UTEP,,Offense
+1123,2022,Stone,Hollenbach,QB,Alabama,Western Michigan,Offense
+1124,2022,Dante,Zanders,DL,Florida,Florida,Defense
+1125,2022,Marcus,Bragg,DL,Western Kentucky,Auburn,Defense
+1126,2022,Shaundre,Mims,DL,Charleston Southern,East Carolina,Defense
+1127,2022,Dino,Tomlin,WR,Maryland,Boston College,Offense
+1128,2022,Ulysses,Bentley,RB,SMU,Ole Miss,Offense
+1129,2022,Tre'mond,Shorts,IOL,East Tennessee State,LSU,Offense
+1130,2022,Hunter,Nourzad,IOL,Cornell,Penn State,Offense
+1131,2022,Christian,Beal-Smith,RB,Wake Forest,South Carolina,Offense
+1132,2022,Casey,Collier,OT,USC,Oklahoma State,Offense
+1133,2022,Jason,Eaton,OT,Eastern Michigan,,Offense
+1134,2022,Jordan,Morant,S,Michigan,Mississippi State,Defense
+1135,2022,Luke,Lane,IOL,Indiana,Chattanooga,Offense
+1136,2022,Nick,Mercer,EDGE,Georgia Southern,,Defense
+1137,2022,Jack,Kristofek,QB,Mississippi State,Arkansas State,Offense
+1138,2022,Raymond,Scott,LB,USC,Fresno State,Defense
+1139,2022,Brendan,Tuholski,TE,UC Davis,,Offense
+1140,2022,Baylor,Cupp,TE,Texas A&M,Texas Tech,Offense
+1141,2022,Owen,Condon,OT,Georgia,SMU,Offense
+1142,2022,Raheme,Fuller,CB,Middle Tennessee,,Defense
+1143,2022,Brayden,DeVault-Smith,LB,Vanderbilt,Samford,Defense
+1144,2022,Isheem,Young,S,Iowa State,Ole Miss,Defense
+1145,2022,Caleb,Williams,QB,Oklahoma,USC,Offense
+1146,2022,Omar,Brown,CB,Northern Iowa,Nebraska,Defense
+1147,2022,Jarett,Garner,WR,Duke,East Carolina,Offense
+1148,2022,Patrick,Lucas Jr.,DL,Ole Miss,Indiana,Defense
+1149,2022,Clay,Webb,IOL,Georgia,Jacksonville State,Offense
+1150,2022,Ben,Langston,S,Missouri,,Defense
+1151,2022,Matt,Bjorson,TE,Indiana,Miami (OH),Offense
+1152,2022,Tyrone,Tracy,WR,Iowa,Purdue,Offense
+1153,2022,Ty'Ron,Hopper,LB,Florida,Missouri,Defense
+1154,2022,Fred,Jackson,RB,Coastal Carolina,,Offense
+1155,2022,Semaj,Verner,S,Boise State,,Defense
+1156,2022,Cam,Phillips,S,Arizona State,,Defense
+1157,2022,Spencer,Lovell,OT,Arizona State,California,Offense
+1158,2022,Katravis,Geter Jr.,RB,Florida International,,Offense
+1159,2022,Eriq,Gilyard,LB,UCF,Kansas,Defense
+1160,2022,Deondre,Jackson,RB,Texas A&M,Oklahoma State,Offense
+1161,2022,Brey,Walker,OT,Oklahoma,,Offense
+1162,2022,Jaelen,Crider,DL,Toledo,,Defense
+1163,2022,Cooper,Shults,TE,Oregon,Nevada,Offense
+1164,2022,Mac,Hollensteiner,OT,Georgetown,Virginia,Offense
+1165,2022,Donny,Navarro,WR,Illinois,Northwestern,Offense
+1166,2022,Andrew,Mims,LB,South Florida,,Defense
+1167,2022,Tyon,Merchant,CB,Texas State,,Defense
+1168,2022,Koby,Perry,S,Austin Peay,UCF,Defense
+1169,2022,Brian,Cobbs,WR,Maryland,Utah State,Offense
+1170,2022,Kenan,Christon,RB,USC,San Diego State,Offense
+1171,2022,MJ,Tafisi,LB,Washington,Utah State,Defense
+1172,2022,Trustin,Oliver,S,Colorado,Central Arkansas,Defense
+1173,2022,Javione,Carr,CB,Arizona,Kansas State,Defense
+1174,2022,Cameron,Threatt,CB,Mississippi State,Akron,Defense
+1175,2022,Nick,Lewis,OT,Arkansas State,,Offense
+1176,2022,Mahdi,Hazime,IOL,Michigan,,Offense
+1177,2022,Cornelious,Brown,QB,Georgia State,UT Martin,Offense
+1178,2022,Devin,Chandler,WR,Wisconsin,Virginia,Offense
+1179,2022,Cesar,Reyes,OT,South Florida,,Offense
+1180,2022,Jalen,Alexander,S,Duke,Louisville,Defense
+1181,2022,Cade,Beresford,OT,Washington State,Boise State,Offense
+1182,2022,Dazalin,Worsham,WR,Miami,Auburn,Offense
+1183,2022,Bralyn,Oliver,S,Louisville,Syracuse,Defense
+1184,2022,La'andre,Thomas,S,Memphis,,Defense
+1185,2022,Daniel,Johnson,TE,Kent State,,Offense
+1186,2022,Wayne,Taulapapa,RB,Virginia,Washington,Offense
+1187,2022,Jordan,Eubanks,LB,Florida State,UNLV,Defense
+1188,2022,Rashad,Scott,WR,San Diego State,,Offense
+1189,2022,Zach,Evans,RB,TCU,Ole Miss,Offense
+1190,2022,Jalen,Jordan,CB,Ole Miss,South Alabama,Defense
+1191,2022,Javien,Clemmer,ATH,New Mexico State,,ATH
+1192,2022,Isaiah,Esdale,WR,West Virginia,Rice,Offense
+1193,2022,Nigel,Fitzgerald,WR,Old Dominion,Connecticut,Offense
+1194,2022,Jeremy,Moussa,QB,Vanderbilt,Florida A&M,Offense
+1195,2022,Jarius,Monroe,S,Nicholls,Tulane,Defense
+1196,2022,Dontae,Keys,IOL,Florida International,Colorado State,Offense
+1197,2022,Cortez,Andrews,LB,Florida State,,Defense
+1198,2022,Tyrone,Howell,WR,Kansas State,Louisiana Monroe,Offense
+1199,2022,Jamal,Morris,LB,Oklahoma,Houston,Defense
+1200,2022,CJ,Jones,RB,Western Kentucky,Western Kentucky,Offense
+1201,2022,Stone,Earle,PRO,Abilene Christian,North Texas,Offense
+1202,2022,Justin,Redd,IOL,Norfolk State,East Carolina,Offense
+1203,2022,Orlando,Jones,RB,SMU,,Offense
+1204,2022,Lee,Hunter,DL,Auburn,UCF,Defense
+1205,2022,Cody,Jones,CB,UMass,Georgia State,Defense
+1206,2022,Andrew,Cole,DL,Southern Mississippi,,Defense
+1207,2022,Marcis,Floyd,CB,Murray State,West Virginia,Defense
+1208,2022,Hunter,Sellers,CB,Pittsburgh,New Mexico,Defense
+1209,2022,Drew,Sanders,LB,Alabama,Arkansas,Defense
+1210,2022,Joseph,Daniels Jr.,CB,Indiana,Georgia,Defense
+1211,2022,Tyler,Gore,CB,Georgia State,UT Martin,Defense
+1212,2022,Ryan,Watts,CB,Ohio State,Texas,Defense
+1213,2022,Bobby,Haskins,OT,Virginia,USC,Offense
+1214,2022,Jarret,Doege,QB,West Virginia,Western Kentucky,Offense
+1215,2022,Aidan,Robbins,RB,Louisville,UNLV,Offense
+1216,2022,Matt,Lowe,IOL,Fresno State,,Offense
+1217,2022,Noah,Taylor,LB,Virginia,North Carolina,Defense
+1218,2022,Lejond,Cavazos,CB,Ohio State,North Carolina,Defense
+1219,2022,Bryce,Veasley,QB,Duquesne,,Offense
+1220,2022,Chase,Wyatt,P,Indiana,Ball State,Special
+1221,2022,Corey,Suttle,DL,Iowa State,Miami (OH),Defense
+1222,2022,Tiyon,Evans,RB,Tennessee,Louisville,Offense
+1223,2022,Chris,Miller,CB,Colorado,,Defense
+1224,2022,Kaemen,Marley,WR,Tennessee,,Offense
+1225,2022,Saeed,Holt,S,Toledo,,Defense
+1226,2022,Devlin,Kirklin,S,New Mexico State,,Defense
+1227,2022,Justus,Woods,RB,Stanford,,Offense
+1228,2022,Brian,Edwards,CB,Central Michigan,,Defense
+1229,2022,Grant,Stephens,OT,Colorado State,Washington State,Offense
+1230,2022,Zxaequan,Reeves,CB,Missouri,Coastal Carolina,Defense
+1231,2022,CJ,Crump,CB,East Carolina,,Defense
+1232,2022,Joshua,Sauickie,IOL,Air Force,,Offense
+1233,2022,Luke,Eckardt,OT,Arizona,Colorado,Offense
+1234,2022,DeaMonte,Trayanum,LB,Arizona State,Ohio State,Defense
+1235,2022,Mark,Pope,WR,Miami,Jackson State,Offense
+1236,2022,Marquis,Robinson,DL,Auburn,,Defense
+1237,2022,Dillon,Markiewicz,QB,Syracuse,Texas State,Offense
+1238,2022,Sevyn,Banks,CB,Ohio State,LSU,Defense
+1239,2022,Montrell,Johnson,RB,Louisiana,Florida,Offense
+1240,2022,Will,Latu,LB,Washington,,Defense
+1241,2022,Cam'Ron,Ransom,QB,Georgia Southern,,Offense
+1242,2022,Brock,Sturges,RB,Texas State,,Offense
+1243,2022,Darvon,Hubbard,RB,Texas A&M,Temple,Offense
+1244,2022,Ibrahim,Kante,EDGE,NC State,Buffalo,Defense
+1245,2022,Armondous,Cooley,DL,Mississippi State,Southern Mississippi,Defense
+1246,2022,Chris,Harris Jr.,LB,Georgia Southern,,Defense
+1247,2022,Josh,Trice,CB,Georgia Southern,,Defense
+1248,2022,Jalen,Kimber,CB,Georgia,Florida,Defense
+1249,2022,Rico,Small,WR,Eastern Michigan,,Offense
+1250,2022,Hayes,Gibson,QB,Iowa State,,Offense
+1251,2022,Dorian,Wesley,DL,Toledo,,Defense
+1252,2022,Tru,Edwards,WR,Hawai'i,,Offense
+1253,2022,Jake,Haener,QB,Fresno State,Fresno State,Offense
+1254,2022,McKenzie,Barnes,CB,Arizona,,Defense
+1255,2022,Ian,Williams,K,NC State,,Special
+1256,2022,Isaiah,Velez,QB,Florida International,,Offense
+1257,2022,Paul,Tyson,QB,Alabama,Arizona State,Offense
+1258,2022,Marcus,Banks,CB,Alabama,Mississippi State,Defense
+1259,2022,Mekhi,Williams-Garner,S,Louisiana,LSU,Defense
+1260,2022,Antonio,Fletcher,S,Arkansas State,Southern Illinois,Defense
+1261,2022,Benny,McCray IV,CB,Florida International,,Defense
+1262,2022,Ben,VanSumeren,LB,Michigan State,Michigan State,Defense
+1263,2022,Deshawn,Holt,EDGE,Maryland,Toledo,Defense
+1264,2022,Jaquaez,Powell,IOL,East Carolina,,Offense
+1265,2022,Tyrell,Robinson,RB,Army,,Offense
+1266,2022,Lorenza,Surgers,DL,Vanderbilt,Minnesota,Defense
+1267,2022,Myles,Cecil,DL,Cal Poly,Vanderbilt,Defense
+1268,2022,Detravion,Green,S,Arkansas State,Central Arkansas,Defense
+1269,2022,Rickey,Hyatt,S,Kentucky,South Alabama,Defense
+1270,2022,Chance,Lytle,OT,Colorado,Duke,Offense
+1271,2022,Nikko,Remigio,WR,California,Fresno State,Offense
+1272,2022,Mekhi,Blackmon,CB,Colorado,USC,Defense
+1273,2022,Jaylin,Davies,CB,Oregon,UCLA,Defense
+1274,2022,Tyrik,McDaniel,ATH,Old Dominion,,ATH
+1275,2022,Marshawn,Buchanan,WR,Washington State,,Offense
+1276,2022,Trevor,Arnett,IOL,Florida International,,Offense
+1277,2022,Londyn,Craft,S,Mississippi State,,Defense
+1278,2022,Frankie,Burgess,LB,Maryland,,Defense
+1279,2022,Khafre,Brown,WR,North Carolina,South Florida,Offense
+1280,2022,A.J.,Davis,RB,Pittsburgh,James Madison,Offense
+1281,2022,John Rhys,Plumlee,QB,UCF,UCF,Offense
+1282,2022,Marquae,Kirkendoll,CB,New Mexico,,Defense
+1283,2022,Sincere,David,DL,Ole Miss,,Defense
+1284,2022,Jacob,Clark,QB,Minnesota,Missouri State,Offense
+1285,2022,Sam,Brown,WR,West Virginia,Houston,Offense
+1286,2022,Cameron,Ward,QB,Incarnate Word,Washington State,Offense
+1287,2022,Mykal,McLeod,OT,Southern Mississippi,,Offense
+1288,2022,Preston,Lavant,LB,Pittsburgh,,Defense
+1289,2022,Justin,Clark,CB,Toledo,Wisconsin,Defense
+1290,2022,Brian,Buschini,P,Montana,Nebraska,Special
+1291,2022,Sean,McGonigal,LB,South Carolina,,Defense
+1292,2022,Ani,Izuchukwu,EDGE,Mississippi State,Tulsa,Defense
+1293,2022,Joshua,Carter,ILB,South Alabama,,Defense
+1294,2022,Bryan,Gagg,QB,East Carolina,,Offense
+1295,2022,Donald,McKinney,WR,San José State,Western Illinois,Offense
+1296,2022,Jerome,Buckner,WR,Ohio,,Offense
+1297,2022,Nick,D'Ambra,ATH,Western Illinois,Fresno State,ATH
+1298,2022,Quinn,Ewers,QB,Ohio State,Texas,Offense
+1299,2022,Lucious,Stanley,RB,UAB,,Offense
+1300,2022,J'Marion,Gooch,OT,Missouri,,Offense
+1301,2022,Todd,Centeio,QB,Colorado State,James Madison,Offense
+1302,2022,Devonta,Lee,WR,LSU,Louisiana Tech,Offense
+1303,2022,Steele,Dubar,LB,Colorado,,Defense
+1304,2022,Brian,Greene,IOL,Washington State,Michigan State,Offense
+1305,2022,Mikel,Barkley,WR,TCU,,Offense
+1306,2022,Solomon,Byrd,DL,Wyoming,USC,Defense
+1307,2022,Devunte,Dawson,CB,UCF,,Defense
+1308,2022,Mohamed,Sanogo,LB,Ole Miss,Louisville,Defense
+1309,2022,Cecil,Singleton,CB,Miami (OH),,Defense
+1310,2022,Shepherd,Bowling,LB,Army,Rice,Defense
+1311,2022,Malcolm,Johnson,LB,UNLV,,Defense
+1312,2022,Khari,Gee,S,Notre Dame,Georgia Tech,Defense
+1313,2022,Myles,Williamson,CB,Bowling Green,,Defense
+1314,2022,Lovasea,Carroll,RB,Georgia,South Carolina,Offense
+1315,2022,Jack,Abraham,QB,Mississippi State,Missouri,Offense
+1316,2022,Kamal,Gray,QB,Temple,Stetson,Offense
+1317,2022,Ben,Hines,LB,Washington,,Defense
+1318,2022,Jacolbe,Cowan,DL,Ohio State,North Carolina,Defense
+1319,2022,Zephaniah,Maea,LB,Colorado,Southern,Defense
+1320,2022,Davon,Martin,CB,Middle Tennessee,,Defense
+1321,2022,Jayden,Chalmers,CB,East Carolina,Campbell,Defense
+1322,2022,Dorian,Hardy,DL,East Carolina,,Defense
+1323,2022,Bobby,Cole,RB,New Mexico,,Offense
+1324,2022,Brian,Polendey,TE,Colorado State,West Virginia,Offense
+1325,2022,Aaron,Willis,LB,Tennessee,Houston,Defense
+1326,2022,Peni,Naulu,RB,Washington State,Northern Iowa,Offense
+1327,2022,Nicholas,Days,LB,Western Kentucky,,Defense
+1328,2022,Rosendo,Louis,LB,South Carolina,,Defense
+1329,2022,Keith,Miller,WR,Colorado,Texas A&M Commerce,Offense
+1330,2022,Tyler,Guyton,OT,TCU,Oklahoma,Offense
+1331,2022,Camar,Wheaton,RB,Alabama,SMU,Offense
+1332,2022,Bishop,Johnson,RB,Army,,Offense
+1333,2022,Zach,Breaux,IOL,Louisiana Monroe,Jackson State,Offense
+1334,2022,Alijah,Clark,CB,Rutgers,Syracuse,Defense
+1335,2022,Micaiah,Overton,DL,Liberty,Texas A&M,Defense
+1336,2022,Dominique,Shoffner,QB,Charlotte,,Offense
+1337,2022,Geoff,Cantin-Arku,LB,Syracuse,Memphis,Defense
+1338,2022,Woobendy,Guerrier,CB,Akron,,Defense
+1339,2022,Greedy,Vance,CB,Louisville,Florida State,Defense
+1340,2022,Quavon,Matthews,WR,Iowa,,Offense
+1341,2022,Isaac,Garcia,LB,Fresno State,,Defense
+1342,2022,Justin,Tomlin,QB,Georgia Southern,,Offense
+1343,2022,Maverick,McIvor,QB,Texas Tech,Abilene Christian,Offense
+1344,2022,Des,Holmes,IOL,Penn State,Arizona State,Offense
+1345,2022,Gavin,McCabe,DL,Indiana,,Defense
+1346,2022,Nik,Scalzo,QB,Kentucky,Samford,Offense
+1347,2022,Kameren,Stewart,OT,Coastal Carolina,,Offense
+1348,2022,Josh,Griffis,EDGE,Florida State,Jackson State,Defense
+1349,2022,Lamar,Goods,DL,Florida,,Defense
+1350,2022,Noah,Palmer,DL,Pittsburgh,,Defense
+1351,2022,Reece,Jesse,WR,Louisville,,Offense
+1352,2022,Tyler,Barnes,CB,Southern Mississippi,,Defense
+1353,2022,Vito,Calvaruso,K,Arkansas,Wisconsin,Special
+1354,2022,Noah,Whittington,WR,Western Kentucky,,Offense
+1355,2022,Knowledge,McDaniel,RB,Marshall,,Offense
+1356,2022,Paul,Moala,S,Notre Dame,,Defense
+1357,2022,Aaron,Pierre,S,Liberty,,Defense
+1358,2022,Femi,Sakiri,IOL,Connecticut,,Offense
+1359,2022,Jaelon,Travis,WR,Kansas State,Butler County (KS),Offense
+1360,2022,Zukudo,Igwenagu,EDGE,Rutgers,UMass,Defense
+1361,2022,Wylan,Free,CB,Fresno State,Georgia Southern,Defense
+1362,2022,Michael,Lantz,K,Minnesota,Georgia Southern,Special
+1363,2022,Devonte,Wilson,CB,Kansas,Florida A&M,Defense
+1364,2022,Peter,Montini,LB,Nevada,Colorado State,Defense
+1365,2022,Jack,Wilty,IOL,Northern Illinois,Iowa Central C.C.,Offense
+1366,2022,Amir,Howard,CB,Arkansas State,,Defense
+1367,2022,Marcel,Walker,WR,Southern Connecticut State,Nevada,Offense
+1368,2022,Jacob,Lewis,K,Ball State,Minnesota,Special
+1369,2022,Nick,Turner,CB,Arkansas,Toledo,Defense
+1370,2022,Cam'ron,Jones,CB,SMU,Grambling,Defense
+1371,2022,Charles,Bell VI,S,Marshall,Alabama A&M,Defense
+1372,2022,Hayes,Crockett,QB,Louisiana Monroe,,Offense
+1373,2022,Gerald,Mincey,OT,Florida,Tennessee,Offense
+1374,2022,Sammy,Faustin,S,Michigan,UMass,Defense
+1375,2022,Timmy,Bleekrode,K,Furman,Nebraska,Special
+1376,2022,Jordon,Brookshire,QB,San Diego State,,Offense
+1377,2022,Jadarius,Green-McKnight,S,Florida State,Marshall,Defense
+1378,2022,Spencer,Rolland,OT,Harvard,North Carolina,Offense
+1379,2022,Andrew,Faoliu,WDE,Boise State,,Defense
+1380,2022,Justin,Harrington,CB,Oklahoma,Oklahoma,Defense
+1381,2022,Jack,Plummer,QB,Purdue,California,Offense
+1382,2022,Cam,Goode,DL,UCF,Michigan,Defense
+1383,2022,Rome,Weber,CB,Wyoming,Western Kentucky,Defense
+1384,2022,Shane,Lee,LB,Alabama,USC,Defense
+1385,2022,Josh,Oglesby,RB,Arkansas,Stephen F. Austin,Offense
+1386,2022,Chayden,Peery,QB,Georgia Tech,,Offense
+1387,2022,Matthew,Downing,QB,TCU,Louisiana Tech,Offense
+1388,2022,Chop,Robinson,EDGE,Maryland,Penn State,Defense
+1389,2022,Michael,Alaimo,QB,Purdue,Purdue,Offense
+1390,2022,Tray,Pettway,WR,UMass,Northern Arizona,Offense
+1391,2022,Curtis,Dunlap,IOL,Minnesota,Rutgers,Offense
+1392,2022,Calvin,McMillian,OT,Mississippi State,Southern Mississippi,Offense
+1393,2022,Sully,Hardin,K,East Carolina,,Special
+1394,2022,Jailen,Nias,ATH,Buffalo,,ATH
+1395,2022,Deonte,Simpson,WR,North Texas,,Offense
+1396,2022,Raiheem,Olalekan,LB,UMass,,Defense
+1397,2022,Joshua,Burdsall,LB,Old Dominion,,Defense
+1398,2022,Billy,Thursland,IOL,Houston,,Offense
+1399,2022,Ameer,Speed,CB,Georgia,Michigan State,Defense
+1400,2022,Bruce,Seton,LB,Washington State,,Defense
+1401,2022,Kameron,Butler,EDGE,Miami (OH),Virginia,Defense
+1402,2022,Pierre,Kemeni,CB,Ohio,Texas State,Defense
+1403,2022,Andrew,Garwo,CB,Temple,UT Martin,Defense
+1404,2022,Mitchell,Tinsley,WR,Western Kentucky,Penn State,Offense
+1405,2022,Vince,Picozzi,IOL,Colorado State,,Offense
+1406,2022,Evan,Gregory,OT,Maryland,,Offense
+1407,2022,Duece,Mayberry,CB,Kansas,Louisiana Monroe,Defense
+1408,2022,KJ,Wallace,CB,Notre Dame,Georgia Tech,Defense
+1409,2022,Carlos,Del Rio-Wilson,QB,Florida,Syracuse,Offense
+1410,2022,Nelson,Foley,P,Miami,,Special
+1411,2022,Jaden,Handy,RB,Ole Miss,,Offense
+1412,2022,Andrew,Boyle,K,Washington State,Oregon,Special
+1413,2022,Greg,Brooks Jr.,CB,Arkansas,LSU,Defense
+1414,2022,Dee,Wiggins,WR,Miami,Louisville,Offense
+1415,2022,Kobe,Hudson,WR,Auburn,UCF,Offense
+1416,2022,George,Douglas,LB,Central Michigan,Southern Illinois,Defense
+1417,2022,Justus,Tavai,DL,Hawai'i,San Diego State,Defense
+1418,2022,Shane,Illingworth,QB,Oklahoma State,Nevada,Offense
+1419,2022,Elijah,Canion,WR,Auburn,Purdue,Offense
+1420,2022,Noah,Cain,RB,Penn State,LSU,Offense
+1421,2022,Marcus,Cushnie,EDGE,Florida State,UMass,Defense
+1422,2022,Troy,Lewis,WR,East Carolina,James Madison,Offense
+1423,2022,Massimo,Biscardi,K,Coastal Carolina,Mississippi State,Special
+1424,2022,Michael,Trigg,TE,USC,Ole Miss,Offense
+1425,2022,Kolby,Phillips,CB,Tulane,,Defense
+1426,2022,Zeiqui,Lawton,SDE,Cincinnati,West Virginia,Defense
+1427,2022,Shawn,Asbury II,S,Boston College,Old Dominion,Defense
+1428,2022,Jahsen,Wint,S,Ohio State,,Defense
+1429,2022,Hirkley,Latu,LB,UCF,,Defense
+1430,2022,Alefosio,Saipaia,DL,Navy,,Defense
+1431,2022,Simi,Moala,OT,Utah,Jackson State,Offense
+1432,2022,Mitchell,Gorgas,IOL,Maryland,,Offense
+1433,2022,Jaeger,Bull,TE,Rice,Wake Forest,Offense
+1434,2022,Malakai,Salu,LB,UNLV,,Defense
+1435,2022,Tee,Denson,CB,Kansas State,Purdue,Defense
+1436,2022,Shamar,Martin,CB,UCLA,,Defense
+1437,2022,Justin,Lockhart,WR,Nevada,San José State,Offense
+1438,2022,Bryson,Smith,WR,Houston,,Offense
+1439,2022,Willie,Taylor III,EDGE,Washington State,Eastern Kentucky,Defense
+1440,2022,Cornell,Hendrick,WR,Old Dominion,Elon,Offense
+1441,2022,Romello,Height,LB,Auburn,USC,Defense
+1442,2022,Chris,Smith,DL,Harvard,Notre Dame,Defense
+1443,2022,Geri,Theodore,EDGE,Toledo,,Defense
+1444,2022,Rodney,Wright III,WR,Fresno State,,Offense
+1445,2022,Clyde,Price,RB,Kansas State,Akron,Offense
+1446,2022,Terry,Hampton,DL,Arkansas State,Arkansas,Defense
+1447,2022,Seth,Hodges,LB,Georgia Southern,,Defense
+1448,2022,Michael,Statham,OT,Pittsburgh,,Offense
+1449,2022,Gregory,Desrosiers,ATH,Louisville,UMass,ATH
+1450,2022,Hassan,Hall,RB,Louisville,Georgia Tech,Offense
+1451,2022,Demarcus,Gregory,WR,South Florida,Texas State,Offense
+1452,2022,Myles,Jackson,EDGE,UCLA,Indiana,Defense
+1453,2022,Sam,Vidlak,QB,Oregon State,Boise State,Offense
+1454,2022,Jeremy,Singleton,WR,Houston,Georgia Southern,Offense
+1455,2022,Mataio,Soli,EDGE,Arkansas,Hawai'i,Defense
+1456,2022,Jared,Gibble,TE,Virginia Tech,Campbell,Offense
+1457,2022,Khalen,Leonard,CB,Southern Mississippi,,Defense
+1458,2022,Cameron,Sims,CB,Georgia State,Mercer,Defense
+1459,2022,Andre,Harris Jr.,IOL,Arkansas State,Duke,Offense
+1460,2022,Cam,Johnson,WR,Vanderbilt,Arizona State,Offense
+1461,2022,Rae'quin,Lee,RB,Ball State,,Offense
+1462,2022,Mason,Brooks,OT,Western Kentucky,Ole Miss,Offense
+1463,2022,Larry,Tracy III,CB,Indiana,Illinois State,Defense
+1464,2022,Cameron,Hairston,WR,Connecticut,,Offense
+1465,2022,Tahj,Gary,RB,Virginia Tech,Tulsa,Offense
+1466,2022,Ochaun,Mathis,EDGE,TCU,Nebraska,Defense
+1467,2022,Keidron,Smith,CB,Ole Miss,Kentucky,Defense
+1468,2022,Jordan,Perryman,CB,UC Davis,Washington,Defense
+1469,2022,Joseph,Manjack,WR,USC,Houston,Offense
+1470,2022,Craig,Burt,WR,Western Kentucky,Western Kentucky,Offense
+1471,2022,Jamason,Jodway,RB,Akron,,Offense
+1472,2022,Joriell,Washington,S,Illinois,Louisiana Tech,Defense
+1473,2022,Robby,Ashford,QB,Auburn,Auburn,Offense
+1474,2022,Terrell,Bynum,WR,Washington,USC,Offense
+1475,2022,Matt,Valecce,QB,Colorado State,Albany,Offense
+1476,2022,Bo,Nix,QB,Auburn,Oregon,Offense
+1477,2022,Jordan,Morris,CB,Coastal Carolina,Sam Houston State,Defense
+1478,2022,Javaughn,Williams,WR,Kent State,,Offense
+1479,2022,Tee,Hodge,RB,Tennessee,Indiana State,Offense
+1480,2022,Sebastien,Dolcine,OG,Florida Atlantic,,Offense
+1481,2022,Brian,Kilbane Jr,OT,Bowling Green,,Offense
+1482,2022,Coye,Fairman,WR,Memphis,,Offense
+1483,2022,Shakari,Denson,ATH,Ohio,,ATH
+1484,2022,Payne,He'Bert,OT,Northwestern,UT San Antonio,Offense
+1485,2022,Timothy,Lawson,OT,Louisville,,Offense
+1486,2022,Rowan,McGwin,OT,Buffalo,,Offense
+1487,2022,Gleson,Sprewell,S,Houston,,Defense
+1488,2022,Tyler,Murray,LB,Charlotte,Memphis,Defense
+1489,2022,Casey,Tawa,WR,Rice,,Offense
+1490,2022,Mar'Keise,Irving,RB,Minnesota,Oregon,Offense
+1491,2022,Jehlani,Galloway,WR,Boston College,Western Michigan,Offense
+1492,2022,Brady,McBride,QB,Texas State,Appalachian State,Offense
+1493,2022,Kameron,Allen,TE,Michigan State,SMU,Offense
+1494,2022,Grayson,Murphy,EDGE,North Texas,UCLA,Defense
+1495,2022,Jacob,Coleman,TE,East Carolina,Middle Tennessee,Offense
+1496,2022,McKade,Mettauer,IOL,California,Oklahoma,Offense
+1497,2022,D.J.,Taylor,LB,Wake Forest,Bowling Green,Defense
+1498,2022,Marist,Talavou,IOL,Utah,San José State,Offense
+1499,2022,Grant,Wells,QB,Marshall,Virginia Tech,Offense
+1500,2022,Shauntavis,Vardaman,OT,UAB,,Offense
+1501,2022,C.J.,Hayes,WR,Michigan State,Syracuse,Offense
+1502,2022,Noah,Bean,TE,UNLV,,Offense
+1503,2022,Khoury,Bethley,S,Hawai'i,Arizona State,Defense
+1504,2022,Jacob,Brammer,OT,North Texas,Vanderbilt,Offense
+1505,2022,Emani,Bailey,RB,Louisiana,TCU,Offense
+1506,2022,Shermond,Dabney,S,Bowling Green,,Defense
+1507,2022,Rhett,Reilly,QB,BYU,,Offense
+1508,2022,Jakari,Norwood,RB,Illinois,Temple,Offense
+1509,2022,Izayah,Green-May,LB,Wisconsin,Northern Illinois,Defense
+1510,2022,Kilohana,Haasenritter,WR,Hawai'i,,Offense
+1511,2022,Noah,Hamlin,S,Toledo,,Defense
+1512,2022,Jack,Wardzala,EDGE,Bowling Green,,Defense
+1513,2022,Ben,Bertram,EDGE,New Mexico,,Defense
+1514,2022,Bradley,Jennings Jr.,LB,Miami,Indiana,Defense
+1515,2022,Kaulana,Makaula,LB,USC,Hawai'i,Defense
+1516,2022,Elijah,Johnson,OT,Colorado State,,Offense
+1517,2022,Chris,Conti,LB,Rutgers,Rice,Defense
+1518,2022,Shannon,Bishop,CB,Western Kentucky,Minnesota,Defense
+1519,2022,Jakolby,Longino,QB,UTEP,Lamar,Offense
+1520,2022,Akeem,Hayes,WR,Arkansas State,,Offense
+1521,2022,John,Hughes,OT,West Virginia,,Offense
+1522,2022,Enzo,Jennings,S,Penn State,,Defense
+1523,2022,Rodney,Groce Jr.,LB,Arizona State,,Defense
+1524,2022,Malik,Jackson,RB,Louisiana Monroe,Louisiana Monroe,Offense
+1525,2022,Gabe,Reid,LB,Stanford,Utah,Defense
+1526,2022,Leslie,Smith,LB,Pittsburgh,,Defense
+1527,2022,Garnett,Hollis,CB,Northwestern,Northwestern,Defense
+1528,2022,Andre,Sam,ATH,McNeese,Marshall,ATH
+1529,2022,Juwan,Burgess,S,Indiana,,Defense
+1530,2022,Drew,Zaubi,QB,Western Kentucky,,Offense
+1531,2022,Jamel,Hamm,CB,UNLV,,Defense
+1532,2022,Kolbe,Fields,LB,South Carolina,LSU,Defense
+1533,2022,Justin,Weller,WR,Penn State,,Offense
+1534,2022,Jonathan,King,EDGE,Indiana,Alabama A&M,Defense
+1535,2022,Keyshawn,Johnson,LB,Louisiana Monroe,,Defense
+1536,2022,Terah,Edwards,DL,Northwestern,Illinois,Defense
+1537,2022,Jahmyr,Gibbs,RB,Georgia Tech,Alabama,Offense
+1538,2022,Amaud,Willis-Dalton,LB,Houston,,Defense
+1539,2022,Frank,Ladson,WR,Clemson,Miami,Offense
+1540,2022,Isaac,Ellis,IOL,Memphis,Louisiana Tech,Offense
+1541,2022,Knox,Kadum,QB,Virginia Tech,McNeese,Offense
+1542,2022,Jalen,Rayam,LB,UAB,,Defense
+1543,2022,Jakovi,Bryant,CB,Florida International,,Defense
+1544,2022,TJ,Banks,TE,West Virginia,Akron,Offense
+1545,2022,Dylan,Deveney,TE,Georgia Tech,Pittsburgh,Offense
+1546,2022,Jamree,Kromah,DL,Rutgers,,Defense
+1547,2022,Tommy,Brown,OT,Alabama,Colorado,Offense
+1548,2022,CJ,Coldon,CB,Wyoming,Oklahoma,Defense
+1549,2022,Dayton,Wade,WR,Western Kentucky,,Offense
+1550,2022,T.D.,Roof,LB,Appalachian State,Oklahoma,Defense
+1551,2022,Jeremy,Mercier,LB,Utah,Arizona,Defense
+1552,2022,August,Pitre,WR,Rice,Ohio,Offense
+1553,2022,Joseph,Scates,WR,Iowa State,Memphis,Offense
+1554,2022,David,Laney,S,East Carolina,North Carolina A&T,Defense
+1555,2022,Seaburn,Hines,OT,Georgia Southern,,Offense
+1556,2022,Cam'Ron,McCoy,QB,Cincinnati,Eastern Michigan,Offense
+1557,2022,Alec,Ogden,QB,Middle Tennessee,,Offense
+1558,2022,Angel,King,ATH,Nevada,,ATH
+1559,2022,Joshia,Davis,RB,Colorado,Southern Utah,Offense
+1560,2022,X'Zauvea,Gadlin,IOL,Tulsa,Liberty,Offense
+1561,2022,Jonathan,Hodoh,WR,Louisiana Monroe,,Offense
+1562,2022,Nick,Bags,DL,Temple,South Florida,Defense
+1563,2022,Andre,Crump,WR,San José State,UC Davis,Offense
+1564,2022,B.J.,Foster,S,Texas,Sam Houston State,Defense
+1565,2022,Daniel,Lee,WR,Buffalo,,Offense
+1566,2022,Jordan,Jernigan,WR,Ole Miss,,Offense
+1567,2022,DJ,Warnell,S,UCLA,Arizona,Defense
+1568,2022,Nick,Moore,QB,Arizona,,Offense
+1569,2022,Jamie,Pettway,LB,Missouri,Florida Atlantic,Defense
+1570,2022,Sean,Dollars,RB,Oregon,Oregon,Offense
+1571,2022,Zareon,Hayes,LB,Appalachian State,Alabama A&M,Defense
+1572,2022,Tanner,Hollens,ATH,Colorado State,,ATH
+1573,2022,Tynan,Tucker,S,Kent State,,Defense
+1574,2022,Jalin,Cooper,WR,Toledo,,Offense
+1575,2022,Devonni,Reed,S,Central Michigan,South Carolina,Defense
+1576,2022,Carlos,Carriere,WR,Maryland,Central Michigan,Offense
+1577,2022,Jakairi,Moses,RB,Western Kentucky,Western Kentucky,Offense
+1578,2022,LeDarrius,Cox,DL,Ole Miss,Indiana,Defense
+1579,2022,Marco,Lee,RB,Virginia Tech,South Alabama,Offense
+1580,2022,Simi,Bakare,RB,Missouri,Fresno State,Offense
+1581,2022,Chris,Martinez,OT,San Diego State,Arizona State,Offense
+1582,2022,Justin,Hayes,SDE,Samford,,Defense
+1583,2022,Malik,Rodgers,WR,Tulsa,,Offense
+1584,2022,Jaymason,Willingham,LB,Utah State,Portland State,Defense
+1585,2022,Eric,Shaw,WR,South Carolina,,Offense
+1586,2022,Warren,Bryan,DUAL,Air Force,,DUAL
+1587,2022,Chris,Adimora,S,Texas,SMU,Defense
+1588,2022,Walker,Hankinson,OT,Louisiana Tech,,Offense
+1589,2022,Jacob,Cowing,WR,UTEP,Arizona,Offense
+1590,2022,Matthew,Anderson,OT,Louisiana,,Offense
+1591,2022,Noah,Arinze,EDGE,Oklahoma,New Mexico State,Defense
+1592,2022,Leke,Asenuga,IOL,New Mexico,North Texas,Offense
+1593,2022,Chris,Murray,DL,TCU,Sam Houston State,Defense
+1594,2022,Kyle,Wright,LB,Georgia State,Tennessee Tech,Defense
+1595,2022,Michael,Washington,RB,Buffalo,Buffalo,Offense
+1596,2022,Slade,Roy,LS,East Carolina,LSU,Special
+1597,2022,Julius,Lewis,DL,Fresno State,Jackson State,Defense
+1598,2022,Cardavion,Myers,CB,Western Kentucky,,Defense
+1599,2022,Fred,Orr,RB,Tennessee,,Offense
+1600,2022,Taisun,Phommachanh,QB,Clemson,Georgia Tech,Offense
+1601,2022,Chase,Cota,WR,UCLA,Oregon,Offense
+1602,2022,Charles,Finley,TE,West Virginia,,Offense
+1603,2022,Johnquai,Lewis,CB,Kansas,McNeese,Defense
+1604,2022,Cam,Lampkin,CB,Utah State,Washington State,Defense
+1605,2022,Larson,Workman,OT,Kansas,Texas State,Offense
+1606,2022,Kalen,Villanueva,OLB,Illinois,Louisiana Tech,Defense
+1607,2022,Matt,Hayball,P,Florida Atlantic,Vanderbilt,Special
+1608,2022,Davonte,Pritchard,LB,Kansas State,South Dakota,Defense
+1609,2022,Tre,Allen,LB,Georgia Southern,,Defense
+1610,2022,George,Georgopoulos,P,UMass,Mississippi State,Special
+1611,2022,Kobe,Singleton,ATH,Southern Utah,Liberty,ATH
+1612,2022,Aidan,Martin,K,Mississippi State,,Special
+1613,2022,Danny,Lockhart,LB,USC,Ole Miss,Defense
+1614,2022,Chris,Bacon,S,Georgia State,Bowling Green,Defense
+1615,2022,Antwan,Roberts,RB,Wisconsin,,Offense
+1616,2022,Stephon,Zayas,EDGE,UCF,,Defense
+1617,2022,Joeseph,Sewell,TE,Middle Tennessee,,Offense
+1618,2022,AJ,Abbott,WR,Wisconsin,,Offense
+1619,2022,Justin,Gardner,CB,Kansas State,,Defense
+1620,2022,Justin,Moore,DL,Connecticut,,Defense
+1621,2022,Larry,Smith III,CB,Indiana,,Defense
+1622,2022,Jacques,Hunter,DL,Vanderbilt,,Defense
+1623,2022,Asa,Barnes,RB,East Carolina,Winston-Salem State,Offense
+1624,2022,Cedrick,Dort,CB,Kentucky,Wisconsin,Defense
+1625,2022,Jonathan,Cruz,K,Charlotte,,Special
+1626,2022,Destin,Coates,RB,Georgia State,Florida A&M,Offense
+1627,2022,Kaulin,Parris,K,West Virginia,,Special
+1628,2022,Kevin,Williams,IOL,Northern Colorado,Nebraska,Offense
+1629,2022,Zamari,Maxwell,CB,UCF,Incarnate Word,Defense
+1630,2022,Keaton,Altman,OT,McNeese,Sam Houston State,Offense
+1631,2022,Chris,Everhart,IOL,Marshall,East Tennessee State,Offense
+1632,2022,Daniel,Foster-Allen,DL,Auburn,South Alabama,Defense
+1633,2022,Bence,Polgar,OG,Buffalo,Missouri,Offense
+1634,2022,Jay,Maclin,WR,Missouri,North Texas,Offense
+1635,2022,Javan,Hawes,WR,Arkansas State,,Offense
+1636,2022,Maddox,Kopp,QB,Houston,Colorado,Offense
+1637,2022,Lwal,Uguak,DL,Connecticut,TCU,Defense
+1638,2022,Brayden,Wood,DL,Kansas State,Jacksonville State,Defense
+1639,2022,Chris,Edmonds,S,Samford,Arizona State,Defense
+1640,2022,Kaden,Meredith,RB,Air Force,Sam Houston State,Offense
+1641,2022,Kyler,Pearson,WR,Kansas,,Offense
+1642,2022,Jarrett,Paul,S,Eastern Michigan,Kansas,Defense
+1643,2022,Nason,Simmons,OT,Arkansas State,,Offense
+1644,2022,Mitchell,Agude,DL,UCLA,Miami,Defense
+1645,2022,Micah,Leon,QB,Connecticut,,Offense
+1646,2022,Raylen,Sharpe,WR,Houston,,Offense
+1647,2022,Curtis,Harper,DL,Syracuse,Akron,Defense
+1648,2022,Ahmari,Harvey,S,Auburn,Georgia Tech,Defense
+1649,2022,Syr,Riley,IOL,Washington State,,Offense
+1650,2022,Heron,Maurisseau,WR,Connecticut,,Offense
+1651,2022,George,Tarlas,DL,Weber State,Boise State,Defense
+1652,2022,Diamante,Howard,LB,Florida Atlantic,,Defense
+1653,2022,Isaac,Owusu-Appiah,OT,Coastal Carolina,,Offense
+1654,2022,JT,Towers,LB,Arkansas,,Defense
+1655,2022,Isaiah,Stephens,LB,Coastal Carolina,,Defense
+1656,2022,Hunter,Marcom,TE,Central Michigan,,Offense
+1657,2022,Avery,Morrow,RB,Nevada,Colorado State,Offense
+1658,2022,Perry,Carter,WR,Louisiana Monroe,,Offense
+1659,2022,Carson,Baker,QB,Western Kentucky,,Offense
+1660,2022,Tyler,Johnson,IOL,Texas,Houston,Offense
+1661,2022,Nick,Hartnett,IOL,VMI,Buffalo,Offense
+1662,2022,Daiyan,Henley,LB,Nevada,Washington State,Defense
+1663,2022,Chigozie,Anusiem,CB,California,Colorado State,Defense
+1664,2022,Wilburn,Smallwood,EDGE,Stephen F. Austin,,Defense
+1665,2022,Kevin,Ryan,P,Idaho State,Washington,Special
+1666,2022,Damon,Gentry Jr.,CB,New Mexico,,Defense
+1667,2022,Jeffery,Johnson,DL,Tulane,Oklahoma,Defense
+1668,2022,Jacobi,Moore,WR,Mississippi State,Ole Miss,Offense
+1669,2022,Zach,Calzada,QB,Texas A&M,Auburn,Offense
+1670,2022,Dante,Walker,EDGE,Western Kentucky,Western Kentucky,Defense
+1671,2022,Drew,Rawls,CB,Utah,,Defense
+1672,2022,EJ,Jenkins,TE,South Carolina,Georgia Tech,Offense
+1673,2022,Ryan,Coe,K,Delaware,Cincinnati,Special
+1674,2022,Ezeriah,Anderson,WR,Iowa State,Campbell,Offense
+1675,2022,Winston,Wright,WR,West Virginia,Florida State,Offense
+1676,2022,Henry,Colombi,QB,Texas Tech,Marshall,Offense
+1677,2022,Ty,Buchanan,IOL,USC,Texas Tech,Offense
+1678,2022,Chance,Johnson,S,San José State,,Defense
+1679,2022,Dre,Terry,EDGE,East Carolina,Alabama A&M,Defense
+1680,2022,Cameron,Roseman-Sinclair,S,North Carolina,,Defense
+1681,2022,Spencer,Gilbert,LB,USC,,Defense
+1682,2022,Trea,Shropshire,WR,UAB,,Offense
+1683,2022,Kenneth,Dotson,DL,North Texas,,Defense
+1684,2022,Chris,Shearin,CB,Missouri,,Defense
+1685,2022,Timar,Rogers,LB,Mississippi State,Middle Tennessee,Defense
+1686,2022,DeZaun,Brooks,DL,Eastern Michigan,,Defense
+1687,2022,Wendell,Davis,LB,Pittsburgh,Northwestern,Defense
+1688,2022,Wilton,Gaby,RB,Coastal Carolina,,Offense
+1689,2022,Ray,Curry Jr.,OT,Arkansas,,Offense
+1690,2022,Stephen,Gosnell,WR,North Carolina,Virginia Tech,Offense
+1691,2022,Amani,Gilmore,QB,North Texas,,Offense
+1692,2022,Deondrick,Speight,OLB,Connecticut,,Defense
+1693,2022,Tres,Barboza,OT,UTEP,Connecticut,Offense
+1694,2022,Landon,Guidry,S,Mississippi State,Samford,Defense
+1695,2022,Bryce,McNair,OT,Ohio,,Offense
+1696,2022,Quincy,Riley,CB,Middle Tennessee,Louisville,Defense
+1697,2022,Tony,Amerson,RB,Georgia Tech,,Offense
+1698,2022,Johnny,Wilson,WR,Arizona State,Florida State,Offense
+1699,2022,Kyran,Griffin,WR,Troy,,Offense
+1700,2022,Tate,Heitmeier,IOL,Texas State,,Offense
+1701,2022,Xazavian,Valladay,RB,Wyoming,Arizona State,Offense
+1702,2022,Jeremiah,Houston,CB,UNLV,,Defense
+1703,2022,Aidan,Bouman,QB,Iowa State,,Offense
+1704,2022,Frank,Boyd,RB,Liberty,Norfolk State,Offense
+1705,2022,Joseph,Charleston,S,Clemson,Missouri,Defense
+1706,2022,Braxton,Barker,QB,Alabama,,Offense
+1707,2022,Tyler,Owens,S,Texas,Texas Tech,Defense
+1708,2022,Kamron,Forest,CB,Fresno State,,Defense
+1709,2022,Owen,Hickey,WR,Illinois,,Offense
+1710,2022,Waisale,Muavesi,DL,UNLV,UNLV,Defense
+1711,2022,Adrian,Hope,LB,Furman,Coastal Carolina,Defense
+1712,2022,Jordan,Boatman,OT,Houston,Sam Houston State,Offense
+1713,2022,Trevion,Stevenson,LB,North Carolina,Norfolk State,Defense
+1714,2022,Datrone,Young,CB,Iowa State,Duke,Defense
+1715,2022,Darius,Gooden,CB,Rutgers,UMass,Defense
+1716,2022,Derek,Smith,OT,Central Michigan,,Offense
+1717,2022,Keveon,Mullins,TE,South Carolina,Jackson State,Offense
+1718,2022,Jalen,Mackie,ILB,Dartmouth,UMass,Defense
+1719,2022,Kolbe,Burrell,RB,Buffalo,Northwestern State,Offense
+1720,2022,Camden,VerStrate,WR,Washington,,Offense
+1721,2022,Jonathan,Denis,IOL,Oregon,Miami,Offense
+1722,2022,Kym-Mani,King,CB,Iowa State,Florida A&M,Defense
+1723,2022,Elijah,Jeffreys,ATH,Connecticut,,ATH
+1724,2022,Zahodri,Jackson,CB,Utah State,North Texas,Defense
+1725,2022,Lavonte,Gater,CB,Maryland,,Defense
+1726,2022,Coran,Taylor,S,Illinois,Alabama A&M,Defense
+1727,2022,Mohammed,Elazazy,OT,Western Michigan,,Offense
+1728,2022,George,Qualls,WR,Akron,,Offense
+1729,2022,Navy,Shuler,QB,Appalachian State,Tennessee,Offense
+1730,2022,Odieu,Hilaire,WR,Alabama A&M,Bowling Green,Offense
+1731,2022,Jett,Elad,S,Ohio,,Defense
+1732,2022,Keelan,Cox,DL,Alabama,,Defense
+1733,2022,Devin,Bush,CB,Arkansas,Grambling,Defense
+1734,2022,Jarius,Reimonenq,CB,Arkansas State,James Madison,Defense
+1735,2022,Sam,Carrell,DL,Washington State,Texas Tech,Defense
+1736,2022,Malik,Hausman,CB,Arizona,,Defense
+1737,2022,Miles,Frazier,OT,Florida International,LSU,Offense
+1738,2022,Joseph,White,S,Virginia,,Defense
+1739,2022,D.K.,Bonhomme,EDGE,Indiana,South Alabama,Defense
+1740,2022,Cam,Bright,LB,Pittsburgh,Washington,Defense
+1741,2022,Parker,Hanna,OT,West Texas A&M,Indiana,Offense
+1742,2022,Raashaan,Wilkins,DL,Vanderbilt,Illinois,Defense
+1743,2022,C'Bo,Flemister,RB,Notre Dame,Pittsburgh,Offense
+1744,2022,Jake,Bobo,WR,Duke,UCLA,Offense
+1745,2022,Martin,Laham,WR,UMass,Lehigh,Offense
+1746,2022,Max,Banes,OT,Houston,Akron,Offense
+1747,2022,Wayne,Jones,LB,Kansas State,Charlotte,Defense
+1748,2022,James,Robinson,IOL,Tennessee,South Alabama,Offense
+1749,2022,Aaron,Odom,EDGE,Mississippi State,Southern Mississippi,Defense
+1750,2022,Nicktroy,Fortune,CB,West Virginia,UT San Antonio,Defense
+1751,2022,Marvin,Martin,S,Kansas State,South Alabama,Defense
+1752,2022,Kelvin,Johnson,ILB,South Alabama,,Defense
+1753,2022,Elijah,Blades,CB,Florida,Buffalo,Defense
+1754,2022,Isaiah,Connelly,RB,Coastal Carolina,,Offense
+1755,2022,Joe,Foucha,S,Arkansas,LSU,Defense
+1756,2022,Michael,Penix Jr.,QB,Indiana,Washington,Offense
+1757,2022,Carson,Williams,TE,Buffalo,,Offense
+1758,2022,Alexander,Duke,EDGE,Houston,,Defense
+1759,2022,Brian,Casteel,WR,Arizona,Nevada,Offense
+1760,2022,RJ,Rosales,QB,Army,,Offense
+1761,2022,Johnny,Hodges,LB,Navy,TCU,Defense
+1762,2022,Charlie,Bostic III,CB,San José State,,Defense
+1763,2022,Jaxon,Player,DL,Tulsa,Baylor,Defense
+1764,2022,Erin,Collins,RB,Northern Illinois,,Offense
+1765,2022,Jason,Mercier,EDGE,Florida International,Jackson State,Defense
+1766,2022,Miles,Dickens,EDGE,Georgia State,Northwestern State,Defense
+1767,2022,Connor,Helsius,LB,UTEP,,Defense
+1768,2022,Kemore,Gamble,TE,Florida,UCF,Offense
+1769,2022,Prudy,Calderon,S,Rice,,Defense
+1770,2022,Gavin,Hall,QB,Toledo,,Offense
+1771,2022,Alex,Navarro-Silva,DL,Arizona,,Defense
+1772,2022,Michel,Dukes,RB,Clemson,South Florida,Offense
+1773,2022,Trey,Palmer,WR,LSU,Nebraska,Offense
+1774,2022,Jaquon,Griffin,DL,Georgia Tech,,Defense
+1775,2022,Keith,Harris,CB,Utah State,,Defense
+1776,2022,Mekhi,Miller,CB,Miami (OH),New Mexico State,Defense
+1777,2022,Kaegun,Williams,RB,San Diego State,,Offense
+1778,2022,Kevin,Toth Jr.,OT,Rutgers,Kent State,Offense
+1779,2022,Tyrone,Taleni,DL,Kansas State,USC,Defense
+1780,2022,Taylor,Behl,LB,Louisiana Monroe,,Defense
+1781,2022,Nick,Roberts,S,Louisiana Monroe,SMU,Defense
+1782,2022,Joseph,Bissinger,OT,Virginia,SMU,Offense
+1783,2022,Alan,Ali,IOL,SMU,TCU,Offense
+1784,2022,Jacob,Isaia,IOL,Michigan State,Fresno State,Offense
+1785,2022,Cammon,Cooper,QB,Washington State,Hawai'i,Offense
+1786,2022,Al'vonte,Woodard,WR,Texas,Sam Houston State,Offense
+1787,2022,Cauren,Lynch,RB,Toledo,,Offense
+1788,2022,Koy,Moore,WR,LSU,Auburn,Offense
+1789,2022,Charlie,Brewer,QB,Utah,Liberty,Offense
+1790,2022,Caleb,Johnson,EDGE,Auburn,,Defense
+1791,2022,Gary,Smith,DL,Duke,UCLA,Defense
+1792,2022,Carter,Boatwright,TE,Florida State,Florida Atlantic,Offense
+1793,2022,Chris,King,EDGE,Buffalo,,Defense
+1794,2022,Dashaun,Jerkins,S,Vanderbilt,Ole Miss,Defense
+1795,2022,EJ,Ane,EDGE,San José State,Portland State,Defense
+1796,2022,Nicholas,Nakwaasah,S,Central Arkansas,North Texas,Defense
+1797,2022,Seth,Hayes,WR,Arkansas State,,Offense
+1798,2022,Adam,Stack,K,Hawai'i,,Special
+1799,2022,Marquez,Ezzard,WR,Georgia Tech,,Offense
+1800,2022,Trevor,Bycznski,PRO,Buffalo,Ashland,Offense
+1801,2022,Zach,Williams,WR,Arizona,,Offense
+1802,2022,Dre,Butler,DL,Auburn,Liberty,Defense
+1803,2022,Dylan,Mayginnes,IOL,Washington State,Montana,Offense
+1804,2022,Wyatt,Walton,IOL,Ohio,,Offense
+1805,2022,Chase,Atkinson,CB,Syracuse,,Defense
+1806,2022,Jamin,Graham,LB,Nebraska,,Defense
+1807,2022,Laiatu,Latu,EDGE,Washington,UCLA,Defense
+1808,2022,Trey,Benson,RB,Oregon,Florida State,Offense
+1809,2022,Khalid,Martin,S,NC State,,Defense
+1810,2022,Xavier,Hinkle,CB,New Mexico State,,Defense
+1811,2022,Aaron,Boumerhi,K,Boston College,,Special
+1812,2022,Jermaine,Hamilton-Jordan,S,Arkansas,,Defense
+1813,2022,Lawrence,Keys III,WR,Notre Dame,Tulane,Offense
+1814,2022,Dave,Monnot III,OT,Purdue,,Offense
+1815,2022,Dreyden,Norwood,CB,Texas A&M,Missouri,Defense
+1816,2022,Jimmy,Fritzsche,IOL,Nebraska,,Offense
+1817,2022,Thomas,Joe-Kamara,LB,Temple,Monmouth,Defense
+1818,2022,Geordon,Porter,WR,Arizona State,New Mexico,Offense
+1819,2022,Jake,Marion,K,Georgia State,Elon,Special
+1820,2022,James,Faminu,OT,Houston,Temple,Offense
+1821,2022,Tim,Horn,K,Washington,Rice,Special
+1822,2022,RaJae,Johnson,WR,UAB,Troy,Offense
+1823,2022,Tylus,Hancock,CB,Florida State,,Defense
+1824,2022,Champ,Flemings,WR,Oregon State,Arkansas State,Offense
+1825,2022,William,Racely,IOL,Eastern Michigan,,Offense
+1826,2022,David,Watson,OT,Arizona,,Offense
+1827,2022,Grady,Robison,QB,Western Kentucky,,Offense
+1828,2022,Isaiah,Norman,S,Austin Peay,Marshall,Defense
+1829,2022,Jaren,Banks,LB,Rice,,Defense
+1830,2022,Joey,Hobert,WR,Washington State,Utah Tech,Offense
+1831,2022,Miles,Fallin,QB,Kansas,,Offense
+1832,2022,Ashaad,Clayton,RB,Colorado,Tulane,Offense
+1833,2022,Enock,Makonzo,S,Coastal Carolina,Professional,Defense
+1834,2022,Todd,Sibley,RB,Pittsburgh,Albany,Offense
+1835,2022,Giovanni,Iovino,LB,Washington State,,Defense
+1836,2022,Michael,Shanahan,OT,UT Martin,Texas Tech,Offense
+1837,2022,Cameron,Wiley,RB,Minnesota,Akron,Offense
+1838,2022,KD,McDaniel,LB,Kentucky,UCF,Defense
+1839,2022,Taishan,Holmes,DL,UMass,Northwestern,Defense
+1840,2022,Jared,Sackett,K,South Florida,UT San Antonio,Special
+1841,2022,Bru,McCoy,WR,USC,Tennessee,Offense
+1842,2022,Austin,Henderson,TE,Minnesota,Liberty,Offense
+1843,2022,Tillman,Weaver,DL,Ohio,,Defense
+1844,2022,Cade,Cadam,WR,Arizona State,,Offense
+1845,2022,Dillon,Thomas,CB,Northern Illinois,,Defense
+1846,2022,Miles,Banks,WR,UTEP,,Offense
+1847,2022,Darryl,Jones,WR,Maryland,NC State,Offense
+1848,2022,AJ,Snow,QB,Air Force,,Offense
+1849,2022,Kane,Patterson,LB,Clemson,Vanderbilt,Defense
+1850,2022,Cross,Patton,RB,Oregon,Nevada,Offense
+1851,2022,Corbet,Mims,DL,Arkansas State,Memphis,Defense
+1852,2022,Gabe,Brown,IOL,Bowling Green,Grand Valley State,Offense
+1853,2022,Kyle,Vantrease,QB,Buffalo,Georgia Southern,Offense
+1854,2022,Josiah,Miamen,TE,Iowa,Florida International,Offense
+1855,2022,Jamal,Camp,IOL,Georgia Tech,The Citadel,Offense
+1856,2022,Mark,Redman,TE,Washington,San Diego State,Offense
+1857,2022,Lamar,Mullins,S,Georgia State,Florida A&M,Defense
+1858,2022,Joey,Gatewood,QB,Kentucky,UCF,Offense
+1859,2022,Tyrone,Truesdell,DL,Auburn,Florida,Defense
+1860,2022,Jafar,Armstrong,WR,Illinois,Western Illinois,Offense
+1861,2022,Peyton,Powell,S,Rutgers,Cisco College,Defense
+1862,2022,Jacob,Gardner,OT,Nevada,Colorado State,Offense
+1863,2022,Ishmael,Sopsher,DL,USC,Southwest Mississippi C.C.,Defense
+1864,2022,Antwane,Wells,WR,James Madison,South Carolina,Offense
+1865,2022,Jordan,Watkins,WR,Louisville,Ole Miss,Offense
+1866,2022,Jacob,Rodriguez,QB,Virginia,Texas Tech,Offense
+1867,2022,Latrell,Fordham,WR,Eastern Michigan,,Offense
+1868,2022,Jadon,Haselwood,WR,Oklahoma,Arkansas,Offense
+1869,2022,Sterling,Galban,WR,Texas Tech,Jacksonville State,Offense
+1870,2022,Dezmon,Jackson,RB,Oklahoma State,Sam Houston State,Offense
+1871,2022,Isaiah,Gibson,DL,Kentucky,Marshall,Defense
+1872,2022,RJ,Orebo,DL,Texas A&M,Southern Illinois,Defense
+1873,2022,Alex,Harper,LS,North Carolina Central,East Carolina,Special
+1874,2022,Evan,Deckers,LS,UMass,Duke,Special
+1875,2022,Dan,Villari,QB,Michigan,Syracuse,Offense
+1876,2022,Joe,Ervin,RB,Kansas State,Middle Tennessee,Offense
+1877,2022,JaQwondis,Burns,LB,Minnesota,SMU,Defense
+1878,2022,Michael,Scott,OLB,Akron,South Dakota,Defense
+1879,2022,Emmanuel,Logan-Greene,WR,New Mexico,,Offense
+1880,2022,Nolan,Johnson,CB,East Carolina,Miami (OH),Defense
+1881,2022,Tanner,McCalister,CB,Oklahoma State,Ohio State,Defense
+1882,2022,Michael,Pleas,S,Southern Mississippi,Jackson State,Defense
+1883,2022,Joseph,Boletepeli,DL,Maryland,,Defense
+1884,2022,Zach,Perkins,OT,Maryland,South Florida,Offense
+1885,2022,Dimitri,Moore,LB,Missouri State,Texas Tech,Defense
+1886,2022,Collin,James,IOL,Abilene Christian,New Mexico,Offense
+1887,2022,M.J.,Frazier,TE,North Carolina A&T,Valdosta State,Offense
+1888,2022,Anthony,Ward,LB,Washington,,Defense
+1889,2022,Chase,Locke,WR,USC,,Offense
+1890,2022,Miles,Adams,EDGE,Rice,,Defense
+1891,2022,William,Green,DL,Liberty,Nevada,Defense
+1892,2022,Ar'Quel,Smith,LB,Iowa State,,Defense
+1893,2022,Charlie,Gray,LB,Marshall,Marshall,Defense
+1894,2022,Bentley,Hanshaw,TE,BYU,Liberty,Offense
+1895,2022,Fredrick,Smith,CB,Southern Mississippi,,Defense
+1896,2022,Jaillen,Howze,LB,Buffalo,,Defense
+1897,2022,Alec,Pell,LB,Colorado,Northern Colorado,Defense
+1898,2022,Wyatt,Blake,OT,Northwestern,,Offense
+1899,2022,Jamar,Richardson,WR,Ole Miss,South Alabama,Offense
+1900,2022,Traveon,Freshwater,EDGE,East Carolina,Elizabeth City State,Defense
+1901,2022,Isiah,Cox,WR,Ohio,Alabama A&M,Offense
+1902,2022,Alonso,Person,LB,Kansas,,Defense
+1903,2022,Riley,Keller,QB,Bowling Green,Tiffin University,Offense
+1904,2022,Jesson,Walker,CB,Florida International,,Defense
+1905,2022,Gurvan,Hall,S,Miami,Utah State,Defense
+1906,2022,Eugene,Asante,LB,North Carolina,Auburn,Defense
+1907,2022,Terrence,Lewis,LB,Maryland,UCF,Defense
+1908,2022,Myles,Brooks,CB,Stephen F. Austin,Louisiana Tech,Defense
+1909,2022,Tre'Jon,Lewis,EDGE,Texas Tech,,Defense
+1910,2022,Xavier,Williams,WR,Alabama,Utah State,Offense
+1911,2022,Adonicas,Sanders,WR,Georgia Tech,Temple,Offense
+1912,2022,Trimarcus,Cheeks,ATH,Samford,Houston,ATH
+1913,2022,Jagger,LaRoe,QB,Ohio State,,Offense
+1914,2022,Deajaun,McDougle,WR,Maryland,Tulane,Offense
+1915,2022,Danny,Joiner,TE,Army,,Offense
+1916,2022,Kyle,Cass,CB,Mississippi State,,Defense
+1917,2022,Bryce,Austin,DL,Purdue,Western Michigan,Defense
+1918,2022,Shakel,Brown,DL,Troy,Troy,Defense
+1919,2022,Christopher,Oliver,IOL,Bowling Green,,Offense
+1920,2022,Halid,Djibril,S,Washington State,,Defense
+1921,2022,JD,Head,QB,Louisiana Tech,North Texas,Offense
+1922,2022,Dalton,Tomlison,IOL,UMass,Western Carolina,Offense
+1923,2022,Beau,Taylor,IOL,UCLA,Ball State,Offense
+1924,2022,Ben,Bohnenberger,OG,Colgate,UMass,Offense
+1925,2022,Tashawn,Manning,DL,Auburn,Kentucky,Defense
+1926,2022,Brandy,Okeke,EDGE,Washington State,,Defense
+1927,2022,Shanon,Reid,LB,Illinois State,SMU,Defense
+1928,2022,Christopher,Jackson,WR,BYU,Hawai'i,Offense
+1929,2022,Tylan,Hines,RB,Air Force,Hawai'i,Offense
+1930,2022,Jordan,Lee,S,Nevada,Washington State,Defense
+1931,2022,Jack,Green,IOL,South Alabama,Central Arkansas,Offense
+1932,2022,Isaiah,Cromarty,CB,South Florida,,Defense
+1933,2022,Spencer,Rattler,QB,Oklahoma,South Carolina,Offense
+1934,2022,Chuck,Filiaga,IOL,Michigan,Minnesota,Offense
+1935,2022,Henry,Garrison,DL,East Carolina,,Defense
+1936,2022,Tanner,Luther,K,Eastern Michigan,,Special
+1937,2022,Isaiah,Holiness,WR,San José State,UMass,Offense
+1938,2022,Rashard,Jackson,RB,Maryland,,Offense
+1939,2022,Herman,McCray,TE,Georgia State,Limestone College,Offense
+1940,2022,Brandon,Joseph,S,Northwestern,Notre Dame,Defense
+1941,2022,Jojo,Forest,CB,Oregon State,Hawai'i,Defense
+1942,2022,Logan,Kraut,S,Arizona,,Defense
+1943,2022,Camron,Buckley,WR,Indiana,Jackson State,Offense
+1944,2022,Messiah,Swinson,TE,Missouri,Arizona State,Offense
+1945,2022,Latarie,Kinsler,EDGE,Syracuse,Florida International,Defense
+1946,2022,Austin,Stogner,TE,Oklahoma,South Carolina,Offense
+1947,2022,Dylan,McDuffie,RB,Buffalo,Georgia Tech,Offense
+1948,2022,Ian,Stewart,WR,Michigan State,Temple,Offense
+1949,2022,Jake,Mann,LS,Oklahoma,Appalachian State,Special
+1950,2022,Jackson,Sirmon,LB,Washington,California,Defense
+1951,2022,Jack,Beresford,DL,Washington State,,Defense
+1952,2022,Cade,Parrish,OT,BYU,Utah State,Offense
+1953,2022,Brady,Boyd,WR,Minnesota,Texas Tech,Offense
+1954,2022,Izaiah,Reed,DL,Murray State,New Mexico State,Defense
+1955,2022,Dwight,McGlothern,CB,LSU,Arkansas,Defense
+1956,2022,Ishmael,Burdine,S,Missouri,TCU,Defense
+1957,2022,Anthony,Britton,LB,The Citadel,Southeastern Louisiana,Defense
+1958,2022,Jackson,Schott,LB,Miami (OH),,Defense
+1959,2022,Moses,Douglass,S,Kentucky,Alabama A&M,Defense
+1960,2022,Beau,Corrales,WR,North Carolina,SMU,Offense
+1961,2022,Mateo,Sudipo,S,Coastal Carolina,,Defense
+1962,2022,Zach,Wilson,WR,USC,,Offense
+1963,2022,Zack,Annexstad,QB,Minnesota,Illinois State,Offense
+1964,2022,Michael,Graham,S,Hawai'i,,Defense
+1965,2022,Trey,LaBounty,WDE,Stanford,,Defense
+1966,2022,Eric,Black,DL,Buffalo,,Defense
+1967,2022,Titus,Mokiao-Atimalala,WR,UCF,UCLA,Offense
+1968,2022,Dimitri,Stanley,WR,Colorado,Iowa State,Offense
+1969,2022,Anthony,Romphf,CB,Purdue,Western Michigan,Defense
+1970,2022,Grant,Hidalgo,TE,Illinois,Auburn,Offense
+1971,2022,Justin,Marshall,WR,Louisville,Buffalo,Offense
+1972,2022,Jordan,Huff,CB,Georgia Tech,,Defense
+1973,2022,Donte,Burton,CB,Wisconsin,,Defense
+1974,2022,Trevon,Booker,CB,Miami (OH),,Defense
+1975,2022,Pierce,Devaughn,EDGE,Connecticut,,Defense
+1976,2022,Jordyn,Williams,WR,Indiana,Jackson State,Offense
+1977,2022,Trey,Morrison,CB,North Carolina,Oklahoma,Defense
+1978,2022,Tico,Brown,DL,Central Michigan,Missouri State,Defense
+1979,2022,Preston,Hutchinson,QB,Eastern Michigan,Chattanooga,Offense
+1980,2022,Michael,Bowe,EDGE,New Mexico State,,Defense
+1981,2022,Michael,Gravely Jr.,S,Michigan State,,Defense
+1982,2022,Simon,Thompson,LB,Utah State,,Defense
+1983,2022,Amir,Riep,S,Ohio State,,Defense
+1984,2022,Brendon,Harris,S,Vanderbilt,Wake Forest,Defense
+1985,2022,Stetson,Moore,TE,Liberty,,Offense
+1986,2022,Regen,Terry,EDGE,Arizona,Boston College,Defense
+1987,2022,AJ,Roberts,LB,Pittsburgh,Stony Brook,Defense
+1988,2022,Tyler,Hudson,WR,Central Arkansas,Louisville,Offense
+1989,2022,Sione,Finau,IOL,Florida International,Purdue,Offense
+1990,2022,Mark,Jackson Jr.,EDGE,TCU,Western New Mexico,Defense
+1991,2022,Dontay,Hunter II,DL,Purdue,Ohio,Defense
+1992,2022,Karon,Prunty,CB,South Carolina,North Carolina A&T,Defense
+1993,2022,Eric,Taylor,DL,LSU,,Defense
+1994,2022,Jalen,Paxton,WR,Tulsa,,Offense
+1995,2022,Ty,Barron,LB,Minnesota,,Defense
+1996,2022,Jayden,de Laura,QB,Washington State,Arizona,Offense
+1997,2022,Charlie,Browder,TE,UCF,Tennessee,Offense
+1998,2022,Taylor,Powell,QB,Troy,Eastern Michigan,Offense
+1999,2022,Dylan,McGill,WR,Minnesota,Pittsburg State,Offense
+2000,2022,Mike,Lofton,IOL,UCF,South Florida,Offense
+2001,2022,Cole,Snyder,QB,Rutgers,Buffalo,Offense
+2002,2022,Anthony,Earle,OG,Florida Atlantic,,Offense
+2003,2022,Harrison,Bailey,QB,Tennessee,UNLV,Offense
+2004,2022,Ben,Bryant,QB,Eastern Michigan,Cincinnati,Offense
+2005,2022,Edgar,Burrola,OT,Arizona,,Offense
+2006,2022,Patrick,Fields,S,Oklahoma,Stanford,Defense
+2007,2022,Mark,Williams,TE,Kent State,,Offense
+2008,2022,Shaun,Peterson Jr.,RB,Florida International,,Offense
+2009,2022,Joseph Appiah,Darkwa,DL,Penn State,Temple,Defense
+2010,2022,Hekili,Keliiliki,RB,Hawai'i,,Offense
+2011,2022,Tim,Terry,LB,Buffalo,Akron,Defense
+2012,2022,John,Waller,DL,South Florida,,Defense
+2013,2022,Mekhi,Wingo,DL,Missouri,LSU,Defense
+2014,2022,Keyon,Blankenbaker,CB,Wyoming,Texas Tech,Defense
+2015,2022,Kila,Kamakawiwo'ole,LB,Hawai'i,,Defense
+2016,2022,Sterlin,Ortiz,S,Hawai'i,,Defense
+2017,2022,Donavon,Johnson,TE,Coastal Carolina,,Offense
+2018,2022,Mark,Perry,S,Colorado,TCU,Defense
+2019,2022,Josh,Manchigiah,S,South Dakota State,South Dakota,Defense
+2020,2022,Gerard,Joseph,DL,UTEP,,Defense
+2021,2022,Kayden,Lyles,IOL,Wisconsin,Florida State,Offense
+2022,2022,Terrell,Brown,RB,Houston,Trinity Valley C.C.,Offense
+2023,2022,Jake,Siegal,DL,Washington State,,Defense
+2024,2022,Carlos,Becker,CB,Florida State,,Defense
+2025,2022,Trinity,Bell,TE,Tennessee,Iowa Western C.C.,Offense
+2026,2022,Navonteque,Strong,LB,LSU,,Defense
+2027,2022,Canaan,Yarro,OC,Southern Utah,New Mexico State,Offense
+2028,2022,Alec,Bornhorst,QB,Miami (OH),,Offense
+2029,2022,Jack,Powers,EDGE,Nevada,East Carolina,Defense
+2030,2022,Jayden,Simon,DL,Colorado,Tulsa,Defense
+2031,2022,Jake,Lichtenstein,DL,USC,Miami,Defense
+2032,2022,Ahmani,Marshall,RB,Wake Forest,Appalachian State,Offense
+2033,2022,Jesse,Vasquez,LS,Utah State,,Special
+2034,2022,Marvin,Scott III,RB,Nebraska,Florida Atlantic,Offense
+2035,2022,Larry,Dowdy,OT,Appalachian State,Gardner-Webb,Offense
+2036,2022,David,Beckum,CB,Ole Miss,,Defense
+2037,2022,Jeremy,Lucien,CB,Connecticut,Vanderbilt,Defense
+2038,2022,Rayvon,Crum,OT,North Texas,,Offense
+2039,2022,Amir,Siddiq,LB,Central Michigan,Charlotte,Defense
+2040,2022,Sevion,Morrison,RB,Nebraska,Kansas,Offense
+2041,2022,Michael,Dowell,S,Michigan State,Miami (OH),Defense
+2042,2022,Marquez,Bembry,LB,Kentucky,Connecticut,Defense
+2043,2022,Jalil,Clemons,EDGE,Memphis,Southern Mississippi,Defense
+2044,2022,Nesta Jade,Silvera,DL,Miami,Arizona State,Defense
+2045,2022,Antonio,Moultrie,EDGE,UAB,Miami,Defense
+2046,2022,Tylan,Grable,IOL,Jacksonville State,UCF,Offense
+2047,2022,Brandon,Moore,CB,Florida State,,Defense
+2048,2022,Deuce,Spann,WR,Illinois,Florida State,Offense
+2049,2022,Janari,Dean,S,Mississippi State,Southern Mississippi,Defense
+2050,2022,Shocky,Jacques-Louis,WR,Pittsburgh,Akron,Offense
+2051,2022,Terrell,Dawkins,DL,NC State,South Carolina,Defense
+2052,2022,Khalan,Griffin,ATH,Rice,Lamar,ATH
+2053,2022,Derrick,Alston,RB,East Carolina,,Offense
+2054,2022,Cooper,Nelson,WR,Wisconsin,,Offense
+2055,2022,Shamar,Jones,DL,Indiana,Chattanooga,Defense
+2056,2022,Ricky,White,WR,Michigan State,UNLV,Offense
+2057,2022,Caleb,Blake,CB,Florida State,,Defense
+2058,2022,Mario,Love,CB,NC State,North Carolina A&T,Defense
+2059,2022,Nick,Williams,OT,Kansas,,Offense
+2060,2022,Pheldarius,Payne,EDGE,Nebraska,Virginia Tech,Defense
+2061,2022,Mycah,Pittman,WR,Oregon,Florida State,Offense
+2062,2022,Jeremy,Smith,RB,Marshall,,Offense
+2063,2022,Ali'Vonta,Wallace,LB,Western Michigan,,Defense
+2064,2022,Jurriente,Davis,LB,Middle Tennessee,Jackson State,Defense
+2065,2022,Desmond,Daniels,TE,Louisville,,Offense
+2066,2022,Gunnar,Holmberg,QB,Duke,Florida International,Offense
+2067,2022,Christian,Smith,WR,Eastern Michigan,,Offense
+2068,2022,Vinson,Brown,CB,Southern Mississippi,,Defense
+2069,2022,Steven,Parker,EDGE,Kansas,Incarnate Word,Defense
+2070,2022,Bentavious,Thompson,RB,UCF,,Offense
+2071,2022,Ty,Wise,LB,Indiana,Miami (OH),Defense
+2072,2022,Jayion,McCluster,LB,Florida State,,Defense
+2073,2022,Kevin,Mensah,RB,Connecticut,Professional,Offense
+2074,2022,Juliano,Falaniko,LB,USC,Idaho,Defense
+2075,2022,Jacoby,Windmon,LB,UNLV,Michigan State,Defense
+2076,2022,Pierce,Quick,OT,Alabama,Georgia Tech,Offense
+2077,2022,Travis,Tisdale,RB,Kentucky,,Offense
+2078,2022,Boone,Abbott,QB,Hawai'i,Utah Tech,Offense
+2079,2022,Remington,Lutz,TE,Abilene Christian,Southern Illinois,Offense
+2080,2022,Zacchaeus,McKinney,DL,Hawai'i,Texas State,Defense
+2081,2022,Donovan,Dalton,S,Hawai'i,,Defense
+2082,2022,Tucker,Barefoot,K,Southern Mississippi,Louisiana Monroe,Special
+2083,2022,Ja'Darien,Boykin,EDGE,Middle Tennessee,,Defense
+2084,2022,Chris,Carpenter,WR,Colorado,UT San Antonio,Offense
+2085,2022,Trevyn,Heil,IOL,Nevada,Colorado State,Offense
+2086,2022,Christopher,Brooks,RB,California,BYU,Offense
+2087,2022,Baylor,Romney,QB,BYU,,Offense
+2088,2022,Da’Quan,Bailey-Brown,WR,Southern Mississippi,,Offense
+2089,2022,Christian,Hunter,RB,Colorado State,,Offense
+2090,2022,Daniel,Caloca,DT,UNLV,,DT
+2091,2022,Zay,Peterson,LB,Louisville,Middle Tennessee,Defense
+2092,2022,Virdel,Edwards,S,Iowa State,Hawai'i,Defense
+2093,2022,Lummie,Young,S,Duke,Tulane,Defense
+2094,2022,Abdoul,Kone,LB,UMass,,Defense
+2095,2022,Kristopher,Moll,LB,UAB,Washington,Defense
+2096,2022,Jordan,Redmond,DL,Virginia,,Defense
+2097,2022,Tatum,Bethune,LB,UCF,Florida State,Defense
+2098,2022,La'Vontae,Shenault,WR,Colorado,Alabama State,Offense
+2099,2022,Connor,Bazelak,QB,Missouri,Indiana,Offense
+2100,2022,Quillen,Howze,CB,Buffalo,,Defense
+2101,2022,Jonah,La'ulu,DL,Hawai'i,Oklahoma,Defense
+2102,2022,Jayden,Jernigan,DL,Oklahoma State,Missouri,Defense
+2103,2022,Deon,Jones,S,Boston College,James Madison,Defense
+2104,2022,Jeremiah,Oatsvall,WR,Memphis,,Offense
+2105,2022,Jared,Wiley,TE,Texas,TCU,Offense
+2106,2022,Ivan,Pace Jr.,ILB,Miami (OH),Cincinnati,Defense
+2107,2022,Jack,Camper,DL,Michigan State,Virginia,Defense
+2108,2022,Tyler,Johnston,QB,UAB,Towson,Offense
+2109,2022,Cole,Garcia,IOL,Rice,UMass,Offense
+2110,2022,Quinn,Carroll,OT,Notre Dame,Minnesota,Offense
+2111,2022,Levi,Williams,QB,Wyoming,Utah State,Offense
+2112,2022,Daveon,Hunter,RB,Hawai'i,Liberty,Offense
+2113,2022,Anthony,Switzer,S,Arkansas State,Utah State,Defense
+2114,2022,Konata,Mumpfield,WR,Akron,Pittsburgh,Offense
+2115,2022,Saia,Mapakaitolo,OT,Minnesota,,Offense
+2116,2022,Bless,Harris,OT,Lamar,Florida State,Offense
+2117,2022,Malcolm,Davidson,RB,Florida Atlantic,,Offense
+2118,2022,Nnamdi,Adim-Madumere,WR,Minnesota,Central Arkansas,Offense
+2119,2022,Dominic,Collado,IOL,Miami (OH),,Offense
+2120,2022,Reese,Taylor,CB,Indiana,Purdue,Defense
+2121,2022,Ilaisa,Gonebure,DL,San Diego State,,Defense
+2122,2022,Hayden,Neighbors,WR,Middle Tennessee,,Offense
+2123,2022,Marcus,Tillman Jr.,LB,Texas,Navarro College,Defense
+2124,2022,Tory,Horton,ATH,Nevada,Colorado State,ATH
+2125,2022,Brian,Pierce,WR,UC Davis,,Offense
+2126,2022,Justin,Menard,WR,UCF,,Offense
+2127,2022,Charlie,Ely,LB,Ball State,,Defense
+2128,2022,Marcelo,Mendiola,OT,Cincinnati,Bowling Green,Offense
+2129,2022,Peny,Boone,RB,Maryland,Toledo,Offense
+2130,2022,Ger-Cari,Caldwell,WR,South Carolina,,Offense
+2131,2022,Michael,Onyemaobi,S,TCU,,Defense
+2132,2022,Earl,Barquet,DL,TCU,USC,Defense
+2133,2022,DaMarcus,Thomas,TE,Ole Miss,South Alabama,Offense
+2134,2022,Chris,Clancy Ojoh,LB,New Mexico State,New Mexico State,Defense
+2135,2022,Nick,Mardner,WR,Hawai'i,Cincinnati,Offense
+2136,2022,Ben,Johnson,OT,Marist,East Carolina,Offense
+2137,2022,Jacob,Sirmon,QB,Central Michigan,Northern Colorado,Offense
+2138,2022,Gabriel,Wallace,OG,Buffalo,Buffalo,Offense
+2139,2022,Ryan,Swoboda,OT,Virginia,UCF,Offense
+2140,2022,Michael,Mathison,WR,Akron,Western Kentucky,Offense
+2141,2022,Tyler,Kiehne,DL,UCLA,New Mexico,Defense
+2142,2022,Joey,Capra,IOL,San Diego State,Nevada,Offense
+2143,2022,Aaron,Faumui,DL,Virginia,Virginia,Defense
+2144,2022,Jaylon,Baker,CB,Virginia,Virginia,Defense
+2145,2022,Jared,Casey,LB,Kentucky,Indiana,Defense
+2146,2022,Isaiah,Neyor,WR,Wyoming,Texas,Offense
+2147,2022,Caleb,Snead,WR,Campbell,Liberty,Offense
+2148,2022,Parker,McQuarrie,QB,UCLA,Independence C.C.,Offense
+2149,2022,Kariem,Al Soufi,IOL,Virginia,,Offense
+2150,2022,Wankeith,Akin,CB,Buffalo,,Defense
+2151,2022,Avery,Demmons,OT,Arkansas State,,Offense
+2152,2022,Kenneth,Dicks III,CB,Wake Forest,,Defense
+2153,2022,Chubba,Purdy,QB,Florida State,Nebraska,Offense
+2154,2022,Emmanuel,Appiah-Takyi,CB,UCF,,Defense
+2155,2022,Layne,Hatcher,QB,Arkansas State,Texas State,Offense
+2156,2022,Casey,Thompson,QB,Texas,Nebraska,Offense
+2157,2022,Liam,Douglass,IOL,USC,UCLA,Offense
+2158,2022,Jaylen,Hall,WR,Western Michigan,Western Kentucky,Offense
+2159,2022,Lyn-J,Dixon,RB,West Virginia,Tennessee,Offense
+2160,2022,Logan,Kendall,TE,Idaho,Utah,Offense
+2161,2022,Dominique,Ratcliff,DL,Louisiana,Texas State,Defense
+2162,2022,Isaiah,Johnson,EDGE,Fresno State,Fresno State,Defense
+2163,2022,Ke'von,Ahmad,WR,UCF,,Offense
+2164,2022,Antonio,Doyle,EDGE,Texas A&M,Jackson State,Defense
+2165,2022,Syrus,Dumas,CB,New Mexico State,,Defense
+2166,2022,Sinjun,Astani,DL,San José State,USC,Defense
+2167,2022,Hunter,Echols,EDGE,USC,Arizona,Defense
+2168,2022,Kalon,Gervin,CB,Michigan State,Kansas,Defense
+2169,2022,Ian,Deneen,LS,South Florida,,Special
+2170,2022,Cameron,Lockridge,CB,Hawai'i,Fresno State,Defense
+2171,2022,Zach,Gibson,QB,Akron,Georgia Tech,Offense
+2172,2022,Jalen,Goss,OT,Florida State,Florida A&M,Offense
+2173,2022,Adrian,Cole,CB,Syracuse,Florida International,Defense
+2174,2022,Jacob,Zeno,QB,Baylor,UAB,Offense
+2175,2022,Josh,Henderson,RB,North Carolina,Indiana,Offense
+2176,2022,Luke,Benson,TE,Syracuse,Georgia Tech,Offense
+2177,2022,Jaden,Mitchell,WR,Arizona,Texas State,Offense
+2178,2022,Joshua,Hayes,CB,Virginia,Kansas State,Defense
+2179,2022,Craig,Young,S,Ohio State,Kansas,Defense
+2180,2022,Terrence,Cooks,LB,Texas,TCU,Defense
+2181,2022,Terrell,Warner,WR,New Mexico State,,Offense
+2182,2022,Sam,Taimani,DL,Washington,Oregon,Defense
+2183,2022,Anthony,Crider,LB,Toledo,,Defense
+2184,2022,Miles,Kendrick,QB,Kansas,New Mexico,Offense
+2185,2022,Shayne,Simon,LB,Notre Dame,Pittsburgh,Defense
+2186,2022,Almosse,Titi,DL,Maryland,,Defense
+2187,2022,Dartanyan,Tinsley,IOL,Kentucky Christian,Cincinnati,Offense
+2188,2022,Juwaun,Price,RB,New Mexico State,Syracuse,Offense
+2189,2022,Victor,Oluwatimi,IOL,Virginia,Michigan,Offense
+2190,2022,Daeshawn,Davis,ATH,Iowa State,Southern,ATH
+2191,2022,Quentin,Williams,DL,Miami,Marshall,Defense
+2192,2022,Kobay,White,WR,Boston College,Maine,Offense
+2193,2022,Jacobi,Johnson,LB,North Texas,,Defense
+2194,2022,Kyle,King,DL,Michigan State,Ball State,Defense
+2195,2022,Jalen,Berger,RB,Wisconsin,Michigan State,Offense
+2196,2022,Taj,Harris,WR,Syracuse,Rutgers,Offense
+2197,2022,Jason,Brown,QB,South Carolina,Virginia Tech,Offense
+2198,2022,Breylon,Garcia,EDGE,Nevada,Nevada,Defense
+2199,2022,Jevyon,Ducker,RB,Northern Illinois,Memphis,Offense
+2200,2022,Adrian,Martinez,QB,Nebraska,Kansas State,Offense
+2201,2022,Isaiah,Richardson,S,Rice,,Defense
+2202,2022,Blake,Aragon,WR,Texas State,,Offense
+2203,2022,Ira,Armstead,QB,Virginia,Eastern Illinois,Offense
+2204,2022,Rafiti,Ghirmai,IOL,Texas,,Offense
+2205,2022,Parker,Moorer,OT,West Virginia,East Carolina,Offense
+2206,2022,Ladarius,Tennison,S,Auburn,Ole Miss,Defense
+2207,2022,Conrad,Hawley,QB,Kansas,Iowa State,Offense
+2208,2022,Khameron,Taylor,TE,Indiana,Missouri State,Offense
+2209,2022,Devon,Robinson,DL,Memphis,Akron,Defense
+2210,2022,Houston,Heimuli,RB,Stanford,BYU,Offense
+2211,2022,JH,Tevis,EDGE,California,Indiana,Defense
+2212,2022,Jalon,Ferrell,S,Connecticut,UMass,Defense
+2213,2022,M.J.,Griffin,S,Temple,Louisville,Defense
+2214,2022,Thomaz,Whitford,TE,New Mexico State,New Mexico State,Offense
+2215,2022,Joel,Felder,ATH,Florida International,,ATH
+2216,2022,Khalan,Laborn,RB,Florida State,Marshall,Offense
+2217,2022,Chevan,Cordeiro,QB,Hawai'i,San José State,Offense
+2218,2022,Kedon,Slovis,QB,USC,Pittsburgh,Offense
+2219,2022,Kelvin,Clemmons,CB,Houston,,Defense
+2220,2022,Farrell,Hester,LB,UNLV,,Defense
+2221,2022,Jamahl,Horne,WR,Kansas,,Offense
+2222,2022,C.J.,Onyechi,EDGE,Rutgers,Colorado State,Defense
+2223,2022,Jaleel,McRae,LB,Florida State,Florida Atlantic,Defense
+2224,2022,Paul,Tchio,OT,Clemson,Georgia Tech,Offense
+2225,2022,Cooper,Lutz,RB,Syracuse,Vanderbilt,Offense
+2226,2022,Jack,Sears,QB,Boise State,,Offense
+2227,2022,Naasir,Watkins,OT,Kentucky,Liberty,Offense
+2228,2022,James,Miller,LB,Indiana,South Alabama,Defense
+2229,2022,Jonah,Johnson,QB,New Mexico State,,Offense
+2230,2022,Marcus,Bradley,DL,Vanderbilt,UMass,Defense
+2231,2022,Josh,Newton,CB,Louisiana Monroe,TCU,Defense
+2232,2022,Jackson,Hannah,LB,Nebraska,Tennessee,Defense
+2233,2022,Andy,Boykin,DL,Arkansas,,Defense
+2234,2022,Rhedi,Short,S,Arizona,,Defense
+2235,2022,Parker,Lewis,K,USC,Ohio State,Special
+2236,2022,Linwood,Crump,CB,Colorado State,,Defense
+2237,2022,Hunter,Anthony,OT,Oklahoma State,Nebraska,Offense
+2238,2022,Chase,Williams,S,USC,San José State,Defense
+2239,2022,Gavin,Reinwald,TE,California,,Offense
+2240,2022,Corey,Gaynor,IOL,Miami,North Carolina,Offense
+2241,2022,Jack,Miller,QB,Ohio State,Florida,Offense
+2242,2022,Jared,Behrens,LB,Navy,,Defense
+2243,2022,Derek,Ferraro,OT,Rice,,Offense
+2244,2022,Isaiah,Garcia-Castaneda,WR,New Mexico State,Nebraska,Offense
+2245,2022,Pierce,Withers,S,Florida International,Florida International,Defense
+2246,2022,Andres,Fox,EDGE,Stanford,Fresno State,Defense
+2247,2022,Jatorian,Hansford,EDGE,Missouri,South Florida,Defense
+2248,2022,Cooper,McDonald,LB,Washington,San Diego State,Defense
+2249,2022,Bryce,Petersen,IOL,San José State,Nevada,Offense
+2250,2022,Ira,Henry III,IOL,Florida State,Memphis,Offense
+2251,2022,Tommi,Hill,CB,Arizona State,Nebraska,Defense
+2252,2022,Jahmar,Brown,LB,South Carolina,Coastal Carolina,Defense
+2253,2022,Cade,Briggs,IOL,New Mexico,Texas Tech,Offense
+2254,2022,Patrick,Jenkins,DL,TCU,Tulane,Defense
+2255,2022,Shaun,Shivers,ATH,Auburn,Indiana,ATH
+2256,2022,Joshua,Moore,WR,Texas,,Offense
+2257,2022,Jordan,Banks,EDGE,Arizona State,Northwestern State,Defense
+2258,2022,Davion,Ervin-Poindexter,RB,Indiana,Western Kentucky,Offense
+2259,2022,Ta'Quan,Roberson,QB,Penn State,Connecticut,Offense
+2260,2022,Keontez,Lewis,WR,UCLA,Wisconsin,Offense
+2261,2022,Jackson,Bratton,LB,Alabama,UAB,Defense
+2262,2022,Deion,Smith,WR,LSU,,Offense
+2263,2022,Ray,Thornton,S,Clemson,South Florida,Defense
+2264,2022,James,Wright,S,Kansas,Iowa Western C.C.,Defense
+2265,2022,Monte,Williams,IOL,UT San Antonio,Tyler J.C. ,Offense
+2266,2022,Tru,Thompson,DL,Florida State,Jackson State,Defense
+2267,2022,Marquez,Bell,WR,Cincinnati,Old Dominion,Offense
+2268,2022,Marques,Caldwell,S,Texas,Navarro College,Defense
+2269,2022,Rourke,Freeburg,LB,Arizona,Toledo,Defense
+2270,2022,Khris,Bogle,EDGE,Florida,Michigan State,Defense
+2271,2022,Daniel,Parker,TE,Missouri,Oklahoma,Offense
+2272,2022,Landon,Morris,WR,Syracuse,Utah,Offense
+2273,2022,Branden,Jennings,LB,Kansas State,UCF,Defense

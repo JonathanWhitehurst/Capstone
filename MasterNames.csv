@@ -1,0 +1,131 @@
+ID,school,mascot,location.latitude,location.longitude,Team,TeamFullName
+1,Air Force,Falcons,38.9969701,-104.8436165,,Air Force Falcons
+2,Akron,Zips,41.0725534,-81.5083408,,Akron Zips
+3,Alabama,Crimson Tide,33.2082752,-87.5503836,,Alabama Crimson Tide
+4,Appalachian State,Mountaineers,36.2114267,-81.6854278,,Appalachian State Mountaineers
+5,Arizona,Wildcats,32.2288054,-110.9488677,,Arizona Wildcats
+6,Arizona State,Sun Devils,33.4264471,-111.9325005,,Arizona State Sun Devils
+7,Arkansas,Razorbacks,36.0680662,-94.1789534,,Arkansas Razorbacks
+8,Arkansas State,Red Wolves,35.8488977,-90.6677436,,Arkansas State Red Wolves
+9,Army,Black Knights,41.3874924,-73.9640891,,Army Black Knights
+10,Auburn,Tigers,32.6025532,-85.4897479,,Auburn Tigers
+11,Ball State,Cardinals,40.2159422,-85.4161148,,Ball State Cardinals
+12,Baylor,Bears,31.5582015,-97.1156702,,Baylor Bears
+13,Boise State,Broncos,43.6028839,-116.1958882,,Boise State Broncos
+14,Boston College,Eagles,42.335104,-71.1664413,,Boston College Eagles
+15,Bowling Green,Falcons,41.3780114,-83.6225,,Bowling Green Falcons
+16,Buffalo,Bulls,42.9991334,-78.7775113,,Buffalo Bulls
+17,BYU,Cougars,40.2575347,-111.6545247,,BYU Cougars
+18,California,Golden Bears,37.8710434,-122.2507729,,California Golden Bears
+19,Central Michigan,Chippewas,43.5777313,-84.7709904,,Central Michigan Chippewas
+20,Charlotte,49ers,35.3105033,-80.7401194,,Charlotte 49ers
+21,Cincinnati,Bearcats,39.1312495,-84.5161913,,Cincinnati Bearcats
+22,Clemson,Tigers,34.6787737,-82.8432428,,Clemson Tigers
+23,Coastal Carolina,Chanticleers,33.7928506,-79.0166946,,Coastal Carolina Chanticleers
+24,Colorado,Buffaloes,40.0094746,-105.266905,,Colorado Buffaloes
+25,Colorado State,Rams,40.570015,-105.088435,,Colorado State Rams
+26,Connecticut,Huskies,41.7595675,-72.6187728,,Connecticut Huskies
+27,Duke,Blue Devils,35.9953688,-78.9417564,,Duke Blue Devils
+28,East Carolina,Pirates,35.5968486,-77.364564,,East Carolina Pirates
+29,Eastern Michigan,Eagles,42.256126,-83.647285,,Eastern Michigan Eagles
+30,Florida,Gators,29.6499357,-82.3485788,,Florida Gators
+31,Florida Atlantic,Owls,26.3763763,-80.1015759,,Florida Atlantic Owls
+32,Florida International,Golden Panthers,25.7525014,-80.3778912,,Florida International Golden Panthers
+33,Florida State,Seminoles,30.4381692,-84.3044032,,Florida State Seminoles
+34,Fresno State,Bulldogs,36.8143527,-119.7580092,,Fresno State Bulldogs
+35,Georgia,Bulldogs,33.9498197,-83.3733813,,Georgia Bulldogs
+36,Georgia Southern,Eagles,32.4122471,-81.7849296,,Georgia Southern Eagles
+37,Georgia State,Panthers,33.735267,-84.389949,,Georgia State Panthers
+38,Georgia Tech,Yellow Jackets,33.7724449,-84.3928054,,Georgia Tech Yellow Jackets
+39,Hawai'i,Rainbow Warriors,21.294294,-157.819338,,Hawai'i Rainbow Warriors
+40,Houston,Cougars,29.7219885,-95.3491623,,Houston Cougars
+41,Illinois,Fighting Illini,40.0993268,-88.2359569,,Illinois Fighting Illini
+42,Indiana,Hoosiers,39.1808959,-86.5256217,,Indiana Hoosiers
+43,Iowa,Hawkeyes,41.6586045,-91.5510829,,Iowa Hawkeyes
+44,Iowa State,Cyclones,42.0139977,-93.6357716,,Iowa State Cyclones
+45,Kansas,Jayhawks,38.9629418,-95.2463686,,Kansas Jayhawks
+46,Kansas State,Wildcats,39.2020096,-96.5938395,,Kansas State Wildcats
+47,Kent State,Golden Flashes,41.1390935,-81.31346,,Kent State Golden Flashes
+48,Kentucky,Wildcats,38.0220905,-84.5053408,,Kentucky Wildcats
+49,Liberty,Flames,37.3544305,-79.1750239,,Liberty Flames
+50,Louisiana,Ragin' Cajuns,30.2158434,-92.0417371,,Louisiana Ragin' Cajuns
+51,Louisiana Monroe,Warhawks,32.5308089,-92.0660602,,Louisiana Monroe Warhawks
+52,Louisiana Tech,Bulldogs,32.5321487,-92.6560019,,Louisiana Tech Bulldogs
+53,Louisville,Cardinals,38.2057621,-85.7588141,,Louisville Cardinals
+54,LSU,Tigers,30.412035,-91.1838163,,LSU Tigers
+55,Marshall,Thundering Herd,38.4247042,-82.4214412,,Marshall Thundering Herd
+56,Maryland,Terrapins,38.9903332,-76.9473792,,Maryland Terrapins
+57,Memphis,Tigers,35.1209429,-89.977147,,Memphis Tigers
+58,Miami,Hurricanes,25.9579665,-80.2388604,,Miami Hurricanes
+59,Miami (OH),RedHawks,39.5197009,-84.7330255,,Miami (OH) RedHawks
+60,Michigan,Wolverines,42.2658365,-83.7486956,,Michigan Wolverines
+61,Michigan State,Spartans,42.7281474,-84.4848526,,Michigan State Spartans
+62,Middle Tennessee,Blue Raiders,35.8511463,-86.3681649,,Middle Tennessee Blue Raiders
+63,Minnesota,Golden Gophers,44.976525,-93.2245462,,Minnesota Golden Gophers
+64,Mississippi State,Bulldogs,33.4563403,-88.7933652,,Mississippi State Bulldogs
+65,Missouri,Tigers,38.9358491,-92.3332009,,Missouri Tigers
+66,Navy,Midshipmen,38.9846985,-76.5076335,,Navy Midshipmen
+67,NC State,Wolfpack,35.8008001,-78.7195655,,NC State Wolfpack
+68,Nebraska,Cornhuskers,40.820682,-96.705594,,Nebraska Cornhuskers
+69,Nevada,Wolf Pack,39.5469459,-119.8175435,,Nevada Wolf Pack
+70,New Mexico,Lobos,35.0669479,-106.6283225,,New Mexico Lobos
+71,New Mexico State,Aggies,32.2796202,-106.7411148,,New Mexico State Aggies
+72,North Carolina,Tar Heels,35.9069294,-79.0478889,,North Carolina Tar Heels
+73,Northern Illinois,Huskies,41.9339586,-88.7778357,,Northern Illinois Huskies
+74,North Texas,Mean Green,33.203899,-97.159245,,North Texas Mean Green
+75,Northwestern,Wildcats,42.0653994,-87.6924751,,Northwestern Wildcats
+76,Notre Dame,Fighting Irish,41.698378,-86.2339425,,Notre Dame Fighting Irish
+77,Ohio,Bobcats,39.3212794,-82.1034315,,Ohio Bobcats
+78,Ohio State,Buckeyes,40.0016447,-83.0197266,,Ohio State Buckeyes
+79,Oklahoma,Sooners,35.2058537,-97.4423145,,Oklahoma Sooners
+80,Oklahoma State,Cowboys,36.125673,-97.066513,,Oklahoma State Cowboys
+81,Old Dominion,Monarchs,36.8889533,-76.3049175,,Old Dominion Monarchs
+82,Ole Miss,Rebels,34.3619837,-89.5342076,,Ole Miss Rebels
+83,Oregon,Ducks,44.0582712,-123.0684883,,Oregon Ducks
+84,Oregon State,Beavers,44.5594559,-123.2814341,,Oregon State Beavers
+85,Penn State,Nittany Lions,40.8121958,-77.8561023,,Penn State Nittany Lions
+86,Pittsburgh,Panthers,40.4467648,-80.0157603,,Pittsburgh Panthers
+87,Purdue,Boilermakers,40.4352253,-86.9186843,,Purdue Boilermakers
+88,Rice,Owls,29.7163297,-95.4093261,,Rice Owls
+89,Rutgers,Scarlet Knights,40.5462553,-74.4660408,,Rutgers Scarlet Knights
+90,San Diego State,Aztecs,32.784444,-117.122833,,San Diego State Aztecs
+91,San José State,Spartans,37.3196675,-121.8682962,,San José State Spartans
+92,SMU,Mustangs,32.8377223,-96.7827859,,SMU Mustangs
+93,South Alabama,Jaguars,30.6943566,-88.0430541,,South Alabama Jaguars
+94,South Carolina,Gamecocks,33.9730239,-81.0191726,,South Carolina Gamecocks
+95,Southern Mississippi,Golden Eagles,31.3289321,-89.3318118,,Southern Mississippi Golden Eagles
+96,South Florida,Bulls,27.9758691,-82.5033344,,South Florida Bulls
+97,Stanford,Cardinal,37.4345556,-122.1611271,,Stanford Cardinal
+98,Syracuse,Orange,43.0362269,-76.1363161,,Syracuse Orange
+99,TCU,Horned Frogs,32.7096604,-97.3680835,,TCU Horned Frogs
+100,Temple,Owls,39.9007995,-75.1675414,,Temple Owls
+101,Tennessee,Volunteers,35.9550131,-83.9250128,,Tennessee Volunteers
+102,Texas,Longhorns,30.2836813,-97.7325345,,Texas Longhorns
+103,Texas A&M,Aggies,30.6098891,-96.3403828,,Texas A&M Aggies
+104,Texas State,Bobcats,29.8910008,-97.9255735,,Texas State Bobcats
+105,Texas Tech,Red Raiders,33.5910518,-101.8728824,,Texas Tech Red Raiders
+106,Toledo,Rockets,41.6574777,-83.6135652,,Toledo Rockets
+107,Troy,Trojans,31.7995565,-85.9518328,,Troy Trojans
+108,Tulane,Green Wave,29.944616,-90.116692,,Tulane Green Wave
+109,Tulsa,Golden Hurricane,36.1489175,-95.9437853,,Tulsa Golden Hurricane
+110,UAB,Blazers,33.5206824,-86.8024326,,UAB Blazers
+111,UCF,Knights,28.6079765,-81.1927233,,UCF Knights
+112,UCLA,Bruins,34.1613284,-118.1676462,,UCLA Bruins
+113,UMass,Minutemen,42.3773244,-72.5360595,,UMass Minutemen
+114,UNLV,Rebels,36.1672559,-115.1485163,,UNLV Rebels
+115,USC,Trojans,34.014167,-118.287778,,USC Trojans
+116,Utah,Utes,40.7599724,-111.8488255,,Utah Utes
+117,Utah State,Aggies,41.7517394,-111.8116007,,Utah State Aggies
+118,UTEP,Miners,31.7733353,-106.507957,,UTEP Miners
+119,UT San Antonio,Roadrunners,29.4169834,-98.4788143,,UT San Antonio Roadrunners
+120,Vanderbilt,Commodores,36.1440455,-86.8088942,,Vanderbilt Commodores
+121,Virginia,Cavaliers,38.0311801,-78.5137897,,Virginia Cavaliers
+122,Virginia Tech,Hokies,37.2199873,-80.4180643,,Virginia Tech Hokies
+123,Wake Forest,Demon Deacons,36.1305507,-80.2545851,,Wake Forest Demon Deacons
+124,Washington,Huskies,47.6503235,-122.3015746,,Washington Huskies
+125,Washington State,Cougars,46.731831,-117.1604991,,Washington State Cougars
+126,Western Kentucky,Hilltoppers,36.9847901,-86.4594041,,Western Kentucky Hilltoppers
+127,Western Michigan,Broncos,42.2860064,-85.6007573,,Western Michigan Broncos
+128,West Virginia,Mountaineers,39.6502744,-79.9551873,,West Virginia Mountaineers
+129,Wisconsin,Badgers,43.06994,-89.4126943,,Wisconsin Badgers
+130,Wyoming,Cowboys,41.31161,-105.5681384,,Wyoming Cowboys

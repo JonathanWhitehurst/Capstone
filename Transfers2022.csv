@@ -1,0 +1,1002 @@
+season,firstName,lastName,positionType,origin,destination
+2022,Alex,Adams,Offense,LSU,Akron
+2022,Anthony,Whigan,Offense,Penn State,Akron
+2022,Caden,Clark,Offense,Alabama,Akron
+2022,Cameron,Threatt,Defense,Mississippi State,Akron
+2022,Cameron,Wiley,Offense,Minnesota,Akron
+2022,Clyde,Price,Offense,Kansas State,Akron
+2022,Curtis,Harper,Defense,Syracuse,Akron
+2022,Daniel,George,Offense,Penn State,Akron
+2022,Devon,Robinson,Defense,Memphis,Akron
+2022,Kerry,Martin,Defense,West Virginia,Akron
+2022,Max,Banes,Offense,Houston,Akron
+2022,Nate,Thompson,Defense,Duke,Akron
+2022,Shocky,Jacques-Louis,Offense,Pittsburgh,Akron
+2022,TJ,Banks,Offense,West Virginia,Akron
+2022,Tim,Terry,Defense,Buffalo,Akron
+2022,Eli,Ricks,Defense,LSU,Alabama
+2022,Jahmyr,Gibbs,Offense,Georgia Tech,Alabama
+2022,Jermaine,Burton,Offense,Georgia,Alabama
+2022,Tyler,Harrell,Offense,Louisville,Alabama
+2022,Tyler,Steen,Offense,Vanderbilt,Alabama
+2022,Ahmani,Marshall,Offense,Wake Forest,Appalachian State
+2022,Andrew,Parker,Defense,Arkansas,Appalachian State
+2022,Brady,McBride,Offense,Texas State,Appalachian State
+2022,Kaedin,Robinson,Offense,UCF,Appalachian State
+2022,Marcus,Haskins,Defense,Liberty,Appalachian State
+2022,Tyler,Page,Offense,SMU,Appalachian State
+2022,Anthony,Solomon,Defense,Michigan,Arizona
+2022,D.J.,Williams,Offense,Florida State,Arizona
+2022,DJ,Warnell,Defense,UCLA,Arizona
+2022,Hunter,Echols,Defense,USC,Arizona
+2022,Jacob,Cowing,Offense,UTEP,Arizona
+2022,Jayden,de Laura,Offense,Washington State,Arizona
+2022,Jeremy,Mercier,Defense,Utah,Arizona
+2022,Tiaoalii,Savea,Defense,UCLA,Arizona
+2022,Cam,Johnson,Offense,Vanderbilt,Arizona State
+2022,Chris,Edmonds,Defense,Samford,Arizona State
+2022,Chris,Martinez,Offense,San Diego State,Arizona State
+2022,Des,Holmes,Offense,Penn State,Arizona State
+2022,Emmit,Bohle,Offense,Northern State,Arizona State
+2022,Emory,Jones,Offense,Florida,Arizona State
+2022,Joey,Ramos,Offense,Iowa State,Arizona State
+2022,Khoury,Bethley,Defense,Hawai'i,Arizona State
+2022,Messiah,Swinson,Offense,Missouri,Arizona State
+2022,Nesta Jade,Silvera,Defense,Miami,Arizona State
+2022,Paul,Tyson,Offense,Alabama,Arizona State
+2022,Ro,Torrence,Defense,Auburn,Arizona State
+2022,Xazavian,Valladay,Offense,Wyoming,Arizona State
+2022,Cade,Fortin,Offense,South Florida,Arkansas
+2022,Drew,Sanders,Defense,Alabama,Arkansas
+2022,Dwight,McGlothern,Defense,LSU,Arkansas
+2022,Jadon,Haselwood,Offense,Oklahoma,Arkansas
+2022,Jordan,Domineck,Defense,Georgia Tech,Arkansas
+2022,Landon,Jackson,Defense,LSU,Arkansas
+2022,Latavious,Brini,Defense,Georgia,Arkansas
+2022,Matt,Landers,Offense,Toledo,Arkansas
+2022,Terry,Hampton,Defense,Arkansas State,Arkansas
+2022,Blayne,Toll,Defense,Colorado,Arkansas State
+2022,Champ,Flemings,Offense,Oregon State,Arkansas State
+2022,Cruz,Temple,Defense,East Carolina,Arkansas State
+2022,Eddie,Smith,Defense,Illinois,Arkansas State
+2022,Ja'Quez,Cross,Offense,Purdue,Arkansas State
+2022,Jack,Kristofek,Offense,Mississippi State,Arkansas State
+2022,Jordan,Carmouche,Defense,Houston,Arkansas State
+2022,Jordan,Rhodes,Offense,Ole Miss,Arkansas State
+2022,King,Mwikuta,Defense,Alabama,Arkansas State
+2022,Terion,Sugick,Defense,Vanderbilt,Arkansas State
+2022,Craig,McDonald,Defense,Iowa State,Auburn
+2022,DJ,James,Defense,Oregon,Auburn
+2022,Dazalin,Worsham,Offense,Miami,Auburn
+2022,Eugene,Asante,Defense,North Carolina,Auburn
+2022,Grant,Hidalgo,Offense,Illinois,Auburn
+2022,Jayson,Jones,Defense,Oregon,Auburn
+2022,Koy,Moore,Offense,LSU,Auburn
+2022,Marcus,Bragg,Defense,Western Kentucky,Auburn
+2022,Zach,Calzada,Offense,Texas A&M,Auburn
+2022,Amir,Abdur-Rahman,Offense,Vanderbilt,Ball State
+2022,Beau,Taylor,Offense,UCLA,Ball State
+2022,Jaquan,Amos,Defense,Iowa State,Ball State
+2022,Kyle,King,Defense,Michigan State,Ball State
+2022,Jaxon,Player,Defense,Tulsa,Baylor
+2022,Josh,White,Defense,LSU,Baylor
+2022,Luke,Anthony,Offense,Louisiana Tech,Baylor
+2022,Cade,Beresford,Offense,Washington State,Boise State
+2022,George,Tarlas,Defense,Weber State,Boise State
+2022,Sam,Vidlak,Offense,Oregon State,Boise State
+2022,Christian,Curatolo,Offense,Lehigh,Boston College
+2022,Dino,Tomlin,Offense,Maryland,Boston College
+2022,George,Takacs,Offense,Notre Dame,Boston College
+2022,Regen,Terry,Defense,Arizona,Boston College
+2022,CJ,Lewis,Offense,Boston College,Bowling Green
+2022,Chris,Bacon,Defense,Georgia State,Bowling Green
+2022,D.J.,Taylor,Defense,Wake Forest,Bowling Green
+2022,Devin,Taylor,Defense,Virginia Tech,Bowling Green
+2022,Marcelo,Mendiola,Offense,Cincinnati,Bowling Green
+2022,Odieu,Hilaire,Offense,Alabama A&M,Bowling Green
+2022,Artese,Gregory,Offense,Southern Utah,Buffalo
+2022,Caleb,Offord,Defense,Notre Dame,Buffalo
+2022,Cole,Harrity,Offense,New Mexico State,Buffalo
+2022,Cole,Snyder,Offense,Rutgers,Buffalo
+2022,Damian,Jackson,Defense,Nebraska,Buffalo
+2022,Elijah,Blades,Defense,Florida,Buffalo
+2022,Ibrahim,Kante,Defense,NC State,Buffalo
+2022,Iesa,Jarmon,Defense,Cincinnati,Buffalo
+2022,Isaiah,Wright,Offense,Rutgers,Buffalo
+2022,Jahmin,Muse,Defense,Boston College,Buffalo
+2022,Jalen,Curry,Offense,Arizona,Buffalo
+2022,James,Ziglor III,Offense,Vanderbilt,Buffalo
+2022,Justin,Marshall,Offense,Louisville,Buffalo
+2022,Nick,Hartnett,Offense,VMI,Buffalo
+2022,Ray,Embry,Offense,East Central,Buffalo
+2022,Robbie,Mangas,Offense,Dartmouth,Buffalo
+2022,Sidney,Walker,Offense,Connecticut,Buffalo
+2022,Solomon,Brown,Defense,Minnesota,Buffalo
+2022,Willie,Hampton,Defense,Western Carolina,Buffalo
+2022,Christopher,Brooks,Offense,California,BYU
+2022,Gabe,Jeudy-Lally,Defense,Vanderbilt,BYU
+2022,Houston,Heimuli,Offense,Stanford,BYU
+2022,Kingsley,Suamataia,Offense,Oregon,BYU
+2022,Jack,Plummer,Offense,Purdue,California
+2022,Jackson,Sirmon,Defense,Washington,California
+2022,Odua,Isibor,Defense,UCLA,California
+2022,Spencer,Lovell,Offense,Arizona State,California
+2022,TJ,Session,Offense,Montana State,California
+2022,Xavier,Carlton,Defense,Utah,California
+2022,Carlos,Carriere,Offense,Maryland,Central Michigan
+2022,Maurice,White,Defense,Memphis,Central Michigan
+2022,Amir,Siddiq,Defense,Central Michigan,Charlotte
+2022,Chase,Monroe,Defense,Wake Forest,Charlotte
+2022,Wayne,Jones,Defense,Kansas State,Charlotte
+2022,Ben,Bryant,Offense,Eastern Michigan,Cincinnati
+2022,Corey,Kiner,Offense,LSU,Cincinnati
+2022,Dartanyan,Tinsley,Offense,Kentucky Christian,Cincinnati
+2022,Ivan,Pace Jr.,Defense,Miami (OH),Cincinnati
+2022,Nick,Mardner,Offense,Hawai'i,Cincinnati
+2022,Noah,Potter,Defense,Ohio State,Cincinnati
+2022,Hunter,Johnson,Offense,Northwestern,Clemson
+2022,Adrian,Hope,Defense,Furman,Coastal Carolina
+2022,Jahmar,Brown,Defense,South Carolina,Coastal Carolina
+2022,Sam,Pinckney,Offense,Georgia State,Coastal Carolina
+2022,Zxaequan,Reeves,Defense,Missouri,Coastal Carolina
+2022,Chance,Main,Defense,Incarnate Word,Colorado
+2022,Josh,Chandler,Defense,West Virginia,Colorado
+2022,Luke,Eckardt,Offense,Arizona,Colorado
+2022,Maddox,Kopp,Offense,Houston,Colorado
+2022,RJ,Sneed,Offense,Baylor,Colorado
+2022,Tommy,Brown,Offense,Alabama,Colorado
+2022,Avery,Morrow,Offense,Nevada,Colorado State
+2022,C.J.,Onyechi,Defense,Rutgers,Colorado State
+2022,Chigozie,Anusiem,Defense,California,Colorado State
+2022,Clay,Millen,Offense,Nevada,Colorado State
+2022,Dontae,Keys,Offense,Florida International,Colorado State
+2022,Jacob,Gardner,Offense,Nevada,Colorado State
+2022,Melquan,Stovall,Offense,Nevada,Colorado State
+2022,Peter,Montini,Defense,Nevada,Colorado State
+2022,Tory,Horton,ATH,Nevada,Colorado State
+2022,Trevyn,Heil,Offense,Nevada,Colorado State
+2022,Dajon,Harrison,Offense,Texas,Connecticut
+2022,Dayne,Shor,Offense,Alabama,Connecticut
+2022,Ethon,Williams,Offense,Boston College,Connecticut
+2022,Kyle,Juergens,Offense,Boise State,Connecticut
+2022,Marquez,Bembry,Defense,Kentucky,Connecticut
+2022,Nigel,Fitzgerald,Offense,Old Dominion,Connecticut
+2022,Sokoya,McDuffie,Defense,Old Dominion,Connecticut
+2022,Ta'Quan,Roberson,Offense,Penn State,Connecticut
+2022,Tres,Barboza,Offense,UTEP,Connecticut
+2022,Andre,Harris Jr.,Offense,Arkansas State,Duke
+2022,Anthony,Nelson,Defense,Harvard,Duke
+2022,Cam,Dillon,Defense,Columbia,Duke
+2022,Chance,Lytle,Offense,Colorado,Duke
+2022,Darius,Joiner,Defense,Western Illinois,Duke
+2022,Datrone,Young,Defense,Iowa State,Duke
+2022,Jack,Burns,Offense,Cornell,Duke
+2022,Aapri,Washington,Defense,Buffalo,East Carolina
+2022,Ben,Johnson,Offense,Marist,East Carolina
+2022,Chance,Bates,Defense,Kennesaw State,East Carolina
+2022,Isaiah,Winstead,Offense,Toledo,East Carolina
+2022,Jack,Powers,Defense,Nevada,East Carolina
+2022,Jarett,Garner,Offense,Duke,East Carolina
+2022,Jaylen,Johnson,Offense,Georgia,East Carolina
+2022,Justin,Redd,Offense,Norfolk State,East Carolina
+2022,Kamarro,Edmonds,Offense,North Carolina,East Carolina
+2022,Michael,Edwards,Defense,Georgia Southern,East Carolina
+2022,Parker,Moorer,Offense,West Virginia,East Carolina
+2022,Shaundre,Mims,Defense,Charleston Southern,East Carolina
+2022,Cam'Ron,McCoy,Offense,Cincinnati,Eastern Michigan
+2022,Chase,Kline,Defense,Michigan State,Eastern Michigan
+2022,Hamze,Elzayat,Offense,Fordham,Eastern Michigan
+2022,Joe,Sparacio,Defense,Boston College,Eastern Michigan
+2022,Taylor,Powell,Offense,Troy,Eastern Michigan
+2022,Jack,Miller,Offense,Ohio State,Florida
+2022,Jalen,Kimber,Defense,Georgia,Florida
+2022,Kamryn,Waites,Offense,Louisiana,Florida
+2022,Montrell,Johnson,Offense,Louisiana,Florida
+2022,O'Cyrus,Torrence,Offense,Louisiana,Florida
+2022,Ricky,Pearsall,Offense,Arizona State,Florida
+2022,Tyrone,Truesdell,Defense,Auburn,Florida
+2022,Brendan,Bordner,Offense,Rutgers,Florida Atlantic
+2022,Carter,Boatwright,Offense,Florida State,Florida Atlantic
+2022,Daemon,Hill,Defense,Central Michigan,Florida Atlantic
+2022,Dorian,Hinton,Offense,Middle Tennessee,Florida Atlantic
+2022,Jahkeem,Green,Defense,South Carolina,Florida Atlantic
+2022,Jaleel,McRae,Defense,Florida State,Florida Atlantic
+2022,Jamie,Pettway,Defense,Missouri,Florida Atlantic
+2022,Jordan,Young,Offense,Florida State,Florida Atlantic
+2022,Josh,Moore,Defense,UCLA,Florida Atlantic
+2022,Marvin,Scott III,Offense,Nebraska,Florida Atlantic
+2022,Michal,Antoine,Defense,Iowa State,Florida Atlantic
+2022,Morven,Joseph,Defense,Tennessee,Florida Atlantic
+2022,Adrian,Cole,Defense,Syracuse,Florida International
+2022,Andrew,Robison,DUAL,Nicholls,Florida International
+2022,Donovan,Manuel,Defense,East Tennessee State,Florida International
+2022,Gunnar,Holmberg,Offense,Duke,Florida International
+2022,Jacolby,Hewitt,Offense,Indiana,Florida International
+2022,Josiah,Miamen,Offense,Iowa,Florida International
+2022,Khaya,Wright,Defense,Georgia Tech,Florida International
+2022,Latarie,Kinsler,Defense,Syracuse,Florida International
+2022,Luke,Knox,Defense,Ole Miss,Florida International
+2022,Sharod,Johnson,Offense,Syracuse,Florida International
+2022,Bless,Harris,Offense,Lamar,Florida State
+2022,Deuce,Spann,Offense,Illinois,Florida State
+2022,Dmitri,Emmanuel,Offense,Charlotte,Florida State
+2022,Greedy,Vance,Defense,Louisville,Florida State
+2022,Jared,Verse,Defense,Albany,Florida State
+2022,Jazston,Turnetine,Offense,South Carolina,Florida State
+2022,Johnny,Wilson,Offense,Arizona State,Florida State
+2022,Kayden,Lyles,Offense,Wisconsin,Florida State
+2022,Malik,Feaster,Defense,Jacksonville State,Florida State
+2022,Mycah,Pittman,Offense,Oregon,Florida State
+2022,Tatum,Bethune,Defense,UCF,Florida State
+2022,Trey,Benson,Offense,Oregon,Florida State
+2022,Winston,Wright,Offense,West Virginia,Florida State
+2022,Andres,Fox,Defense,Stanford,Fresno State
+2022,Cameron,Lockridge,Defense,Hawai'i,Fresno State
+2022,Jacob,Isaia,Offense,Michigan State,Fresno State
+2022,Joshua,Pakola,Defense,Stanford,Fresno State
+2022,Matt,Robinson,Offense,Illinois,Fresno State
+2022,Nick,D'Ambra,ATH,Western Illinois,Fresno State
+2022,Nikko,Remigio,Offense,California,Fresno State
+2022,Raymond,Scott,Defense,USC,Fresno State
+2022,Simi,Bakare,Offense,Missouri,Fresno State
+2022,Velltray,Jefferson,Defense,Utah,Fresno State
+2022,Joseph,Daniels Jr.,Defense,Indiana,Georgia
+2022,Colton,Fitzgerald,Offense,Boise State,Georgia Southern
+2022,Danny,Corbett,Offense,Campbell,Georgia Southern
+2022,Ethan,Ingram,Offense,Marshall,Georgia Southern
+2022,Ezrah,Archie,Offense,Monmouth,Georgia Southern
+2022,Jeremy,Singleton,Offense,Houston,Georgia Southern
+2022,Kristian,Varner,Defense,North Carolina,Georgia Southern
+2022,Kyle,Toole,Offense,Troy,Georgia Southern
+2022,Kyle,Vantrease,Offense,Buffalo,Georgia Southern
+2022,Mari,Wingard,Defense,Elon,Georgia Southern
+2022,Wylan,Free,Defense,Fresno State,Georgia Southern
+2022,Bryson,Broadway,Offense,Eastern Illinois,Georgia State
+2022,Cody,Jones,Defense,UMass,Georgia State
+2022,Keilon,Brown,Offense,Memphis,Georgia State
+2022,Steven,Krajewski,Offense,Connecticut,Georgia State
+2022,Ahmari,Harvey,Defense,Auburn,Georgia Tech
+2022,Christian,Burkhalter,Defense,UCLA,Georgia Tech
+2022,Corey,Robinson II,Offense,Kansas,Georgia Tech
+2022,Dylan,McDuffie,Offense,Buffalo,Georgia Tech
+2022,EJ,Jenkins,Offense,South Carolina,Georgia Tech
+2022,Eric,Reed,Defense,Auburn,Georgia Tech
+2022,Hassan,Hall,Offense,Louisville,Georgia Tech
+2022,KJ,Wallace,Defense,Notre Dame,Georgia Tech
+2022,Kenny,Bennett,Defense,Maryland,Georgia Tech
+2022,Khari,Gee,Defense,Notre Dame,Georgia Tech
+2022,Luke,Benson,Offense,Syracuse,Georgia Tech
+2022,Morris,Joseph,Defense,Memphis,Georgia Tech
+2022,Paul,Tchio,Offense,Clemson,Georgia Tech
+2022,Pierce,Quick,Offense,Alabama,Georgia Tech
+2022,RJ,Adams,Offense,Kentucky,Georgia Tech
+2022,Taisun,Phommachanh,Offense,Clemson,Georgia Tech
+2022,Zach,Gibson,Offense,Akron,Georgia Tech
+2022,Cammon,Cooper,Offense,Washington State,Hawai'i
+2022,Christopher,Jackson,Offense,BYU,Hawai'i
+2022,Devyn,King,Defense,Maryland,Hawai'i
+2022,Joey,Yellen,Offense,Pittsburgh,Hawai'i
+2022,Jojo,Falo,Defense,Cal Poly,Hawai'i
+2022,Jojo,Forest,Defense,Oregon State,Hawai'i
+2022,Jordan,Murray,Offense,Missouri State,Hawai'i
+2022,Kaulana,Makaula,Defense,USC,Hawai'i
+2022,Luke,Felix-Fualalo,Offense,Utah,Hawai'i
+2022,Mataio,Soli,Defense,Arkansas,Hawai'i
+2022,Tylan,Hines,Offense,Air Force,Hawai'i
+2022,Virdel,Edwards,Defense,Iowa State,Hawai'i
+2022,Wynden,Ho'ohuli,Defense,Nebraska,Hawai'i
+2022,Aaron,Willis,Defense,Tennessee,Houston
+2022,Brandon,Campbell,Offense,USC,Houston
+2022,Brice,Johnson,Offense,Ole Miss,Houston
+2022,Cody,Jackson,Offense,Oklahoma,Houston
+2022,Jamal,Morris,Defense,Oklahoma,Houston
+2022,Joseph,Manjack,Offense,USC,Houston
+2022,Lance,Robinson,Offense,Middle Tennessee,Houston
+2022,Lucas,Coley,Offense,Arkansas,Houston
+2022,Sam,Brown,Offense,West Virginia,Houston
+2022,Trimarcus,Cheeks,ATH,Samford,Houston
+2022,Tyler,Johnson,Offense,Texas,Houston
+2022,Dylan,Davis,Offense,Furman,Illinois
+2022,Jonah,Morris,Offense,Northern Colorado,Illinois
+2022,Kody,Case,Offense,South Dakota,Illinois
+2022,Raashaan,Wilkins,Defense,Vanderbilt,Illinois
+2022,Solomon,Turner,Defense,Hawai'i,Illinois
+2022,Terah,Edwards,Defense,Northwestern,Illinois
+2022,Terrell,Jennings,Defense,Minnesota State,Illinois
+2022,Tommy,DeVito,Offense,Syracuse,Illinois
+2022,Andison,Coby,Offense,Tennessee,Indiana
+2022,Bradley,Jennings Jr.,Defense,Miami,Indiana
+2022,Brylan,Lanier,Defense,Alabama,Indiana
+2022,Connor,Bazelak,Offense,Missouri,Indiana
+2022,Emery,Simmons,Offense,North Carolina,Indiana
+2022,JH,Tevis,Defense,California,Indiana
+2022,Jared,Casey,Defense,Kentucky,Indiana
+2022,Josh,Henderson,Offense,North Carolina,Indiana
+2022,LeDarrius,Cox,Defense,Ole Miss,Indiana
+2022,Myles,Jackson,Defense,UCLA,Indiana
+2022,Parker,Hanna,Offense,West Texas A&M,Indiana
+2022,Patrick,Lucas Jr.,Defense,Ole Miss,Indiana
+2022,Shaun,Shivers,ATH,Auburn,Indiana
+2022,Steven,Stilianos,Offense,Lafayette,Iowa
+2022,Colby,Reeder,Defense,Delaware,Iowa State
+2022,Conrad,Hawley,Offense,Kansas,Iowa State
+2022,Dimitri,Stanley,Offense,Colorado,Iowa State
+2022,MJ,Anderson,Defense,Minnesota,Iowa State
+2022,Craig,Young,Defense,Ohio State,Kansas
+2022,Deondre,Doiron,Offense,Buffalo,Kansas
+2022,Dominick,Puni,Offense,Central Missouri State,Kansas
+2022,Douglas,Emilien,Offense,Minnesota,Kansas
+2022,Eriq,Gilyard,Defense,UCF,Kansas
+2022,Jarrett,Paul,Defense,Eastern Michigan,Kansas
+2022,Kalon,Gervin,Defense,Michigan State,Kansas
+2022,Kobe,Baynes,Offense,Louisville,Kansas
+2022,Ky,Thomas,Offense,Minnesota,Kansas
+2022,Lonnie,Phelps,Defense,Miami (OH),Kansas
+2022,Lorenzo,McCaskill,Defense,Louisiana,Kansas
+2022,Marvin,Grant,Defense,Purdue,Kansas
+2022,Monte',McGary,Defense,Utah State,Kansas
+2022,Nolan,Gorczyca,Offense,Buffalo,Kansas
+2022,Sevion,Morrison,Offense,Nebraska,Kansas
+2022,Adrian,Martinez,Offense,Nebraska,Kansas State
+2022,Drake,Cheatum,Defense,Prairie View,Kansas State
+2022,Jadon,Jackson,Offense,Ole Miss,Kansas State
+2022,Javione,Carr,Defense,Arizona,Kansas State
+2022,Joshua,Hayes,Defense,Virginia,Kansas State
+2022,Shawn,Robinson,Defense,Missouri,Kansas State
+2022,Will,Honas,Defense,Nebraska,Kansas State
+2022,A.J.,Campbell,Defense,UCLA,Kent State
+2022,Kevin,Toth Jr.,Offense,Rutgers,Kent State
+2022,Naijee,Jones,Defense,Rutgers,Kent State
+2022,Nolan,Rumler,Offense,Michigan,Kent State
+2022,Darrion,Henry-Young,Defense,Ohio State,Kentucky
+2022,Dee,Beckwith,Offense,Tennessee,Kentucky
+2022,Deuce,Hogan,Offense,Iowa,Kentucky
+2022,Jordan,Robinson,Defense,Livingstone College,Kentucky
+2022,Keidron,Smith,Defense,Ole Miss,Kentucky
+2022,Ramon,Jefferson,Offense,Sam Houston State,Kentucky
+2022,Tashawn,Manning,Defense,Auburn,Kentucky
+2022,Tayvion,Robinson,Offense,Virginia Tech,Kentucky
+2022,Zion,Childress,Defense,Texas State,Kentucky
+2022,Austin,Henderson,Offense,Minnesota,Liberty
+2022,Bentley,Hanshaw,Offense,BYU,Liberty
+2022,Caleb,Snead,Offense,Campbell,Liberty
+2022,Cam,Reddy,Offense,Colorado State,Liberty
+2022,Charlie,Brewer,Offense,Utah,Liberty
+2022,Daveon,Hunter,Offense,Hawai'i,Liberty
+2022,Dennis,Osagiede,Defense,Stephen F. Austin,Liberty
+2022,Dre,Butler,Defense,Auburn,Liberty
+2022,Kobe,Singleton,ATH,Southern Utah,Liberty
+2022,Maurice,Freeman,Defense,Indiana,Liberty
+2022,Naasir,Watkins,Offense,Kentucky,Liberty
+2022,X'Zauvea,Gadlin,Offense,Tulsa,Liberty
+2022,James,Ohonba,Offense,Michigan State,Louisiana
+2022,Austin,Weiner,Offense,Kansas State,Louisiana Monroe
+2022,Duece,Mayberry,Defense,Kansas,Louisiana Monroe
+2022,Jackson,Bailey,Defense,Arizona,Louisiana Monroe
+2022,Tyrone,Howell,Offense,Kansas State,Louisiana Monroe
+2022,DJ,Johnson,Defense,Illinois,Louisiana Tech
+2022,Devonta,Lee,Offense,LSU,Louisiana Tech
+2022,Hugh,Davis,Defense,Boston College,Louisiana Tech
+2022,Isaac,Ellis,Offense,Memphis,Louisiana Tech
+2022,Jakelyn,Morgan,Defense,Arizona,Louisiana Tech
+2022,Joriell,Washington,Defense,Illinois,Louisiana Tech
+2022,Kalen,Villanueva,Defense,Illinois,Louisiana Tech
+2022,Matthew,Downing,Offense,TCU,Louisiana Tech
+2022,Myles,Brooks,Defense,Stephen F. Austin,Louisiana Tech
+2022,Dee,Wiggins,Offense,Miami,Louisville
+2022,Jalen,Alexander,Defense,Duke,Louisville
+2022,Jarvis,Brownlee Jr.,Defense,Florida State,Louisville
+2022,Jayden,Williams,Defense,USC,Louisville
+2022,Jermayne,Lole,Defense,Arizona State,Louisville
+2022,M.J.,Griffin,Defense,Temple,Louisville
+2022,Mohamed,Sanogo,Defense,Ole Miss,Louisville
+2022,Nicario,Harper,Defense,Southern Mississippi,Louisville
+2022,Quincy,Riley,Defense,Middle Tennessee,Louisville
+2022,Tiyon,Evans,Offense,Tennessee,Louisville
+2022,Tyler,Hudson,Offense,Central Arkansas,Louisville
+2022,Greg,Brooks Jr.,Defense,Arkansas,LSU
+2022,Jarrick,Bernard,Defense,Oklahoma State,LSU
+2022,Jayden,Daniels,Offense,Arizona State,LSU
+2022,Joe,Foucha,Defense,Arkansas,LSU
+2022,Kolbe,Fields,Defense,South Carolina,LSU
+2022,Kyren,Lacy,Offense,Louisiana,LSU
+2022,Mekhi,Williams-Garner,Defense,Louisiana,LSU
+2022,Mekhi,Wingo,Defense,Missouri,LSU
+2022,Miles,Frazier,Offense,Florida International,LSU
+2022,Noah,Cain,Offense,Penn State,LSU
+2022,Sevyn,Banks,Defense,Ohio State,LSU
+2022,Tre'mond,Shorts,Offense,East Tennessee State,LSU
+2022,West,Weeks,ATH,Virginia,LSU
+2022,Andre,Sam,ATH,McNeese,Marshall
+2022,Anthony,Watts,Defense,Purdue,Marshall
+2022,Bryan,Robinson,Offense,Florida State,Marshall
+2022,Cedrice,Paillant,Offense,Rutgers,Marshall
+2022,Henry,Colombi,Offense,Texas Tech,Marshall
+2022,Isaiah,Gibson,Defense,Kentucky,Marshall
+2022,Isaiah,Norman,Defense,Austin Peay,Marshall
+2022,Jadarius,Green-McKnight,Defense,Florida State,Marshall
+2022,Khalan,Laborn,Offense,Florida State,Marshall
+2022,Quentin,Williams,Defense,Miami,Marshall
+2022,Stacey,Marshall Jr.,Offense,Arizona,Marshall
+2022,Trent,Holler,Offense,East Carolina,Marshall
+2022,Billy,Edwards,Offense,Wake Forest,Maryland
+2022,Henry,Chibueze,Defense,Liberty,Maryland
+2022,Jacob,Copeland,Offense,Florida,Maryland
+2022,Quashon,Fuller,Defense,Florida State,Maryland
+2022,VanDarius,Cowan,Defense,West Virginia,Maryland
+2022,Corbet,Mims,Defense,Arkansas State,Memphis
+2022,Davion,Ross,ATH,Eastern Kentucky,Memphis
+2022,Geoff,Cantin-Arku,Defense,Syracuse,Memphis
+2022,Ira,Henry III,Offense,Florida State,Memphis
+2022,Jevyon,Ducker,Offense,Northern Illinois,Memphis
+2022,Joel,Williams,Defense,Kentucky,Memphis
+2022,Joseph,Scates,Offense,Iowa State,Memphis
+2022,Kamren,Washington,Defense,Sam Houston State,Memphis
+2022,Ryan,Glover,Offense,California,Memphis
+2022,Tyler,Murray,Defense,Charlotte,Memphis
+2022,Akheem,Mesidor,Defense,West Virginia,Miami
+2022,Antonio,Moultrie,Defense,UAB,Miami
+2022,Caleb,Johnson,Defense,UCLA,Miami
+2022,Darrell,Jackson,Defense,Maryland,Miami
+2022,Daryl,Porter,Defense,West Virginia,Miami
+2022,Frank,Ladson,Offense,Clemson,Miami
+2022,Henry,Parrish,Offense,Ole Miss,Miami
+2022,Jake,Lichtenstein,Defense,USC,Miami
+2022,Jonathan,Denis,Offense,Oregon,Miami
+2022,Logan,Sagapolu,Offense,Oregon,Miami
+2022,Mitchell,Agude,Defense,UCLA,Miami
+2022,Corey,Suttle,Defense,Iowa State,Miami (OH)
+2022,John,Brekke,Offense,Holy Cross,Miami (OH)
+2022,Jordan,Brunson,Offense,Virginia Tech,Miami (OH)
+2022,Matt,Bjorson,Offense,Indiana,Miami (OH)
+2022,Michael,Dowell,Defense,Michigan State,Miami (OH)
+2022,Miles,Marshall,Offense,Indiana,Miami (OH)
+2022,Nolan,Johnson,Defense,East Carolina,Miami (OH)
+2022,Ty,Wise,Defense,Indiana,Miami (OH)
+2022,Cam,Goode,Defense,UCF,Michigan
+2022,Eyabi,Anoma,Defense,UT Martin,Michigan
+2022,Victor,Oluwatimi,Offense,Virginia,Michigan
+2022,Aaron,Brule,Defense,Mississippi State,Michigan State
+2022,Ameer,Speed,Defense,Georgia,Michigan State
+2022,Brian,Greene,Offense,Washington State,Michigan State
+2022,Daniel,Barker,Offense,Illinois,Michigan State
+2022,Jacoby,Windmon,Defense,UNLV,Michigan State
+2022,Jalen,Berger,Offense,Wisconsin,Michigan State
+2022,Jarek,Broussard,Offense,Colorado,Michigan State
+2022,Ken,Talley,Defense,Penn State,Michigan State
+2022,Khris,Bogle,Defense,Florida,Michigan State
+2022,AJ,Toney,Offense,Samford,Middle Tennessee
+2022,Avarius,Sparrow,Offense,West Virginia,Middle Tennessee
+2022,Da'Shawn,Elder,Defense,Virginia Tech,Middle Tennessee
+2022,De'Arre,McDonald,Defense,Cincinnati,Middle Tennessee
+2022,Jacob,Coleman,Offense,East Carolina,Middle Tennessee
+2022,Joe,Ervin,Offense,Kansas State,Middle Tennessee
+2022,Larry,Hodges,Offense,Miami,Middle Tennessee
+2022,Malachi,Burns,Offense,Missouri Western State,Middle Tennessee
+2022,Timar,Rogers,Defense,Mississippi State,Middle Tennessee
+2022,Zay,Peterson,Defense,Louisville,Middle Tennessee
+2022,Chuck,Filiaga,Offense,Michigan,Minnesota
+2022,Darnell,Jefferies,Defense,Clemson,Minnesota
+2022,Kyler,Baugh,Defense,Houston Christian,Minnesota
+2022,Lorenza,Surgers,Defense,Vanderbilt,Minnesota
+2022,Quinn,Carroll,Offense,Notre Dame,Minnesota
+2022,Ryan,Stapp,Defense,Abilene Christian,Minnesota
+2022,Shannon,Bishop,Defense,Western Kentucky,Minnesota
+2022,Hunter,Washington,Defense,Florida State,Mississippi State
+2022,Jackie,Matthews,Defense,West Virginia,Mississippi State
+2022,Jordan,Morant,Defense,Michigan,Mississippi State
+2022,Jordan,Mosley,Offense,Northwestern,Mississippi State
+2022,Justin,Robinson,Offense,Georgia,Mississippi State
+2022,Marcus,Banks,Defense,Alabama,Mississippi State
+2022,Steven,Losoya,Offense,Middle Tennessee,Mississippi State
+2022,Bence,Polgar,Offense,Buffalo,Missouri
+2022,Charles,Hicks,Defense,Wyoming,Missouri
+2022,Dreyden,Norwood,Defense,Texas A&M,Missouri
+2022,Ian,Mathews,Defense,Auburn,Missouri
+2022,Jack,Abraham,Offense,Mississippi State,Missouri
+2022,Jayden,Jernigan,Defense,Oklahoma State,Missouri
+2022,Joseph,Charleston,Defense,Clemson,Missouri
+2022,Josh,Landry,Defense,Baylor,Missouri
+2022,Marcus,Clarke,Defense,Miami,Missouri
+2022,Nathaniel,Peat,Offense,Stanford,Missouri
+2022,Ty'Ron,Hopper,Defense,Florida,Missouri
+2022,Tyler,Stephens,Offense,Buffalo,Missouri
+2022,Tyrone,Hopper,Defense,North Carolina,Missouri
+2022,Darryl,Jones,Offense,Maryland,NC State
+2022,Dreshun,Miller,Defense,Auburn,NC State
+2022,Casey,Thompson,Offense,Texas,Nebraska
+2022,Chubba,Purdy,Offense,Florida State,Nebraska
+2022,Devin,Drew,Defense,Texas Tech,Nebraska
+2022,Hunter,Anthony,Offense,Oklahoma State,Nebraska
+2022,Isaiah,Garcia-Castaneda,Offense,New Mexico State,Nebraska
+2022,Kaine,Williams,Defense,Alabama,Nebraska
+2022,Kevin,Williams,Offense,Northern Colorado,Nebraska
+2022,Marcus,Washington,Offense,Texas,Nebraska
+2022,Ochaun,Mathis,Defense,TCU,Nebraska
+2022,Omar,Brown,Defense,Northern Iowa,Nebraska
+2022,Stephon,Wynn,Defense,Alabama,Nebraska
+2022,Tommi,Hill,Defense,Arizona State,Nebraska
+2022,Trey,Palmer,Offense,LSU,Nebraska
+2022,Brian,Casteel,Offense,Arizona,Nevada
+2022,Bryce,Petersen,Offense,San José State,Nevada
+2022,Cole,Feinauer,Offense,Colorado State,Nevada
+2022,Cooper,Shults,Offense,Oregon,Nevada
+2022,Cross,Patton,Offense,Oregon,Nevada
+2022,Dalevon,Campbell,Offense,Illinois,Nevada
+2022,Darion,Green-Warren,Defense,Michigan,Nevada
+2022,Eli'jah,Winston,Defense,USC,Nevada
+2022,Joey,Capra,Offense,San Diego State,Nevada
+2022,Kai,Arneson,Offense,Oregon,Nevada
+2022,Louie,Cresto,Defense,Oregon,Nevada
+2022,Marcel,Walker,Offense,Southern Connecticut State,Nevada
+2022,Shane,Illingworth,Offense,Oklahoma State,Nevada
+2022,Spencer,Curtis,Offense,Oregon,Nevada
+2022,William,Green,Defense,Liberty,Nevada
+2022,Collin,James,Offense,Abilene Christian,New Mexico
+2022,Geordon,Porter,Offense,Arizona State,New Mexico
+2022,Hunter,Sellers,Defense,Pittsburgh,New Mexico
+2022,Jaden,Hullaby,Offense,Texas,New Mexico
+2022,Marshall,Gill,Offense,VMI,New Mexico
+2022,Miles,Kendrick,Offense,Kansas,New Mexico
+2022,Tyler,Kiehne,Defense,UCLA,New Mexico
+2022,Ahmonte,Watkins,Offense,TCU,New Mexico State
+2022,Andre,Seldon,Defense,Michigan,New Mexico State
+2022,Canaan,Yarro,Offense,Southern Utah,New Mexico State
+2022,Izaiah,Reed,Defense,Murray State,New Mexico State
+2022,JJ,Jones,Offense,Dartmouth,New Mexico State
+2022,Mekhi,Miller,Defense,Miami (OH),New Mexico State
+2022,Noah,Arinze,Defense,Oklahoma,New Mexico State
+2022,Corey,Gaynor,Offense,Miami,North Carolina
+2022,Jacolbe,Cowan,Defense,Ohio State,North Carolina
+2022,Lejond,Cavazos,Defense,Ohio State,North Carolina
+2022,Noah,Taylor,Defense,Virginia,North Carolina
+2022,Spencer,Rolland,Offense,Harvard,North Carolina
+2022,Izayah,Green-May,Defense,Wisconsin,Northern Illinois
+2022,Justin,Lynch,Offense,Temple,Northern Illinois
+2022,Shemar,Thornton,ATH,Florida International,Northern Illinois
+2022,Grant,Gunnell,Offense,Memphis,North Texas
+2022,JD,Head,Offense,Louisiana Tech,North Texas
+2022,Jay,Maclin,Offense,Missouri,North Texas
+2022,Latrell,Neville,Offense,Nebraska,North Texas
+2022,Leke,Asenuga,Offense,New Mexico,North Texas
+2022,Mazin,Richards,Defense,Eastern New Mexico,North Texas
+2022,Nicholas,Nakwaasah,Defense,Central Arkansas,North Texas
+2022,Stone,Earle,Offense,Abilene Christian,North Texas
+2022,Zahodri,Jackson,Defense,Utah State,North Texas
+2022,Donny,Navarro,Offense,Illinois,Northwestern
+2022,Ryan,Johnson,Defense,Stanford,Northwestern
+2022,Taishan,Holmes,Defense,UMass,Northwestern
+2022,Wendell,Davis,Defense,Pittsburgh,Northwestern
+2022,Brandon,Joseph,Defense,Northwestern,Notre Dame
+2022,Chris,Smith,Defense,Harvard,Notre Dame
+2022,August,Pitre,Offense,Rice,Ohio
+2022,Dontay,Hunter II,Defense,Purdue,Ohio
+2022,Parker,Navarro,Offense,UCF,Ohio
+2022,DeaMonte,Trayanum,Defense,Arizona State,Ohio State
+2022,Tanner,McCalister,Defense,Oklahoma State,Ohio State
+2022,CJ,Coldon,Defense,Wyoming,Oklahoma
+2022,Daniel,Parker,Offense,Missouri,Oklahoma
+2022,Davis,Beville,Offense,Pittsburgh,Oklahoma
+2022,Dillon,Gabriel,Offense,UCF,Oklahoma
+2022,Javian,Hester,Offense,Missouri,Oklahoma
+2022,Jeffery,Johnson,Defense,Tulane,Oklahoma
+2022,Jonah,La'ulu,Defense,Hawai'i,Oklahoma
+2022,Kani,Walker,Defense,Louisville,Oklahoma
+2022,LV,Bunkley-Shelton,Offense,Arizona State,Oklahoma
+2022,McKade,Mettauer,Offense,California,Oklahoma
+2022,T.D.,Roof,Defense,Appalachian State,Oklahoma
+2022,Trey,Morrison,Defense,North Carolina,Oklahoma
+2022,Tyler,Guyton,Offense,TCU,Oklahoma
+2022,Casey,Collier,Offense,USC,Oklahoma State
+2022,Deondre,Jackson,Offense,Texas A&M,Oklahoma State
+2022,Jason,Brooks,Offense,Vanderbilt,Oklahoma State
+2022,Solomon,Wright,Defense,Arkansas,Oklahoma State
+2022,Brendon,Clark,Offense,Notre Dame,Old Dominion
+2022,Marquez,Bell,Offense,Cincinnati,Old Dominion
+2022,Shawn,Asbury II,Defense,Boston College,Old Dominion
+2022,Danny,Lockhart,Defense,USC,Ole Miss
+2022,Dashaun,Jerkins,Defense,Vanderbilt,Ole Miss
+2022,Isheem,Young,Defense,Iowa State,Ole Miss
+2022,J.J.,Pegues,Offense,Auburn,Ole Miss
+2022,Jacobi,Moore,Offense,Mississippi State,Ole Miss
+2022,Jared,Ivey,Defense,Georgia Tech,Ole Miss
+2022,Jaxson,Dart,Offense,USC,Ole Miss
+2022,Jaylon,Robinson,Offense,UCF,Ole Miss
+2022,Jordan,Watkins,Offense,Louisville,Ole Miss
+2022,Khari,Coleman,Defense,TCU,Ole Miss
+2022,Ladarius,Tennison,Defense,Auburn,Ole Miss
+2022,Malik,Heath,Offense,Mississippi State,Ole Miss
+2022,Mason,Brooks,Offense,Western Kentucky,Ole Miss
+2022,Michael,Trigg,Offense,USC,Ole Miss
+2022,Troy,Brown,Defense,Central Michigan,Ole Miss
+2022,Ulysses,Bentley,Offense,SMU,Ole Miss
+2022,Zach,Evans,Offense,TCU,Ole Miss
+2022,Bo,Nix,Offense,Auburn,Oregon
+2022,Caleb,Chapman,Offense,Texas A&M,Oregon
+2022,Casey,Rogers,Defense,Nebraska,Oregon
+2022,Chase,Cota,Offense,UCLA,Oregon
+2022,Christian,Gonzalez,Defense,Colorado,Oregon
+2022,Jordon,Riley,Defense,Nebraska,Oregon
+2022,Mar'Keise,Irving,Offense,Minnesota,Oregon
+2022,Sam,Taimani,Defense,Washington,Oregon
+2022,Andrew,Chatfield,Defense,Florida,Oregon State
+2022,Jam,Griffin,Offense,Georgia Tech,Oregon State
+2022,Chop,Robinson,Defense,Maryland,Penn State
+2022,Hunter,Nourzad,Offense,Cornell,Penn State
+2022,Mitchell,Tinsley,Offense,Western Kentucky,Penn State
+2022,C'Bo,Flemister,Offense,Notre Dame,Pittsburgh
+2022,Dylan,Deveney,Offense,Georgia Tech,Pittsburgh
+2022,Jerrod,Means,Offense,Louisiana Tech,Pittsburgh
+2022,Kedon,Slovis,Offense,USC,Pittsburgh
+2022,Konata,Mumpfield,Offense,Akron,Pittsburgh
+2022,Ryan,Jacoby,Offense,Ohio State,Pittsburgh
+2022,Shayne,Simon,Defense,Notre Dame,Pittsburgh
+2022,Charlie,Jones,Offense,Iowa,Purdue
+2022,Cole,Brevard,Defense,Penn State,Purdue
+2022,Elijah,Canion,Offense,Auburn,Purdue
+2022,Kobe,Lewis,Offense,Central Michigan,Purdue
+2022,Reese,Taylor,Defense,Indiana,Purdue
+2022,Sione,Finau,Offense,Florida International,Purdue
+2022,Tee,Denson,Defense,Kansas State,Purdue
+2022,Tyrone,Tracy,Offense,Iowa,Purdue
+2022,Chris,Conti,Defense,Rutgers,Rice
+2022,Isaiah,Esdale,Offense,West Virginia,Rice
+2022,Litchfield,Ajavon,Defense,Notre Dame,Rice
+2022,Sam,Crawford,Offense,Tulsa,Rice
+2022,Shepherd,Bowling,Defense,Army,Rice
+2022,Tyson,Thompson,Offense,Houston Christian,Rice
+2022,Curtis,Dunlap,Offense,Minnesota,Rutgers
+2022,J.D.,DiRenzo,Offense,Sacred Heart,Rutgers
+2022,Jahzion,Harris,Defense,Texas A&M,Rutgers
+2022,Mike,Ciaffoni,Offense,Colorado State,Rutgers
+2022,Sean,Ryan,Offense,West Virginia,Rutgers
+2022,Taj,Harris,Offense,Syracuse,Rutgers
+2022,Willie,Tyler,Offense,Louisiana Monroe,Rutgers
+2022,Braxton,Burmeister,Offense,Virginia Tech,San Diego State
+2022,Cade,Bennett,Offense,Oklahoma State,San Diego State
+2022,Cooper,McDonald,Defense,Washington,San Diego State
+2022,Justus,Tavai,Defense,Hawai'i,San Diego State
+2022,Kenan,Christon,Offense,USC,San Diego State
+2022,Mark,Redman,Offense,Washington,San Diego State
+2022,Chase,Williams,Defense,USC,San José State
+2022,Chevan,Cordeiro,Offense,Hawai'i,San José State
+2022,Elijah,Cooks,Offense,Nevada,San José State
+2022,Elisha,Guidry,Defense,UCLA,San José State
+2022,James,McNorton,Offense,Washington State,San José State
+2022,Justin,Lockhart,Offense,Nevada,San José State
+2022,Malik,Williams,Offense,Wyoming,San José State
+2022,Marist,Talavou,Offense,Utah,San José State
+2022,Beau,Corrales,Offense,North Carolina,SMU
+2022,Camar,Wheaton,Offense,Alabama,SMU
+2022,Chris,Adimora,Defense,Texas,SMU
+2022,David,Abiara,Defense,Texas,SMU
+2022,JaQwondis,Burns,Defense,Minnesota,SMU
+2022,Jake,Bailey,Offense,Rice,SMU
+2022,Joseph,Bissinger,Offense,Virginia,SMU
+2022,Kameron,Allen,Offense,Michigan State,SMU
+2022,Kamryn,Farrar,Defense,Oklahoma State,SMU
+2022,Kelvontay,Dixon,Offense,Texas,SMU
+2022,Kevaris,Hall,Defense,Tulane,SMU
+2022,Nick,Roberts,Defense,Louisiana Monroe,SMU
+2022,Owen,Condon,Offense,Georgia,SMU
+2022,Shanon,Reid,Defense,Illinois State,SMU
+2022,Theodore,Knox,Offense,Mississippi State,SMU
+2022,C.J.,Person,Defense,Indiana,South Alabama
+2022,Carter,Bradley,Offense,Toledo,South Alabama
+2022,D.K.,Bonhomme,Defense,Indiana,South Alabama
+2022,DaMarcus,Thomas,Offense,Ole Miss,South Alabama
+2022,Daniel,Foster-Allen,Defense,Auburn,South Alabama
+2022,Dontae,Lucas,Offense,Florida State,South Alabama
+2022,Jalen,Jordan,Defense,Ole Miss,South Alabama
+2022,Jamar,Richardson,Offense,Ole Miss,South Alabama
+2022,James,Miller,Defense,Indiana,South Alabama
+2022,James,Robinson,Offense,Tennessee,South Alabama
+2022,Marco,Lee,Offense,Virginia Tech,South Alabama
+2022,Marvin,Martin,Defense,Kansas State,South Alabama
+2022,Nathan,Rawlins-Kibonge,Defense,Oklahoma,South Alabama
+2022,Omni,Wells,Offense,Mississippi State,South Alabama
+2022,Rickey,Hyatt,Defense,Kentucky,South Alabama
+2022,Antwane,Wells,Offense,James Madison,South Carolina
+2022,Austin,Stogner,Offense,Oklahoma,South Carolina
+2022,Christian,Beal-Smith,Offense,Wake Forest,South Carolina
+2022,Corey,Rucker,Offense,Arkansas State,South Carolina
+2022,Devonni,Reed,Defense,Central Michigan,South Carolina
+2022,Lovasea,Carroll,Offense,Georgia,South Carolina
+2022,Nate,Adkins,Offense,East Tennessee State,South Carolina
+2022,Spencer,Rattler,Offense,Oklahoma,South Carolina
+2022,Terrell,Dawkins,Defense,NC State,South Carolina
+2022,Zeb,Noland,Offense,North Dakota State,South Carolina
+2022,Aaron,Odom,Defense,Mississippi State,Southern Mississippi
+2022,Armondous,Cooley,Defense,Mississippi State,Southern Mississippi
+2022,Bryce,Ramsey,Offense,Ole Miss,Southern Mississippi
+2022,Calvin,McMillian,Offense,Mississippi State,Southern Mississippi
+2022,Daylen,Gill,Defense,Ole Miss,Southern Mississippi
+2022,Jalen,Williams,Defense,Arkansas,Southern Mississippi
+2022,Jalil,Clemons,Defense,Memphis,Southern Mississippi
+2022,Janari,Dean,Defense,Mississippi State,Southern Mississippi
+2022,Jay,Hampton,Defense,Mississippi State,Southern Mississippi
+2022,Quentin,Bivens,Defense,Ole Miss,Southern Mississippi
+2022,Tylan,Knight,Offense,Ole Miss,Southern Mississippi
+2022,Aamaris,Brown,Defense,Kansas State,South Florida
+2022,Ajou,Ajou,Offense,Clemson,South Florida
+2022,Clyde,Pinder Jr.,Defense,North Carolina,South Florida
+2022,Derrell,Bailey Jr.,Offense,Virginia Tech,South Florida
+2022,Gerry,Bohanon,Offense,Baylor,South Florida
+2022,James,Ash,Defense,Wake Forest,South Florida
+2022,James,Gordon IV,Defense,Minnesota,South Florida
+2022,Jatorian,Hansford,Defense,Missouri,South Florida
+2022,Khafre,Brown,Offense,North Carolina,South Florida
+2022,Michel,Dukes,Offense,Clemson,South Florida
+2022,Mike,Lofton,Offense,UCF,South Florida
+2022,Nick,Bags,Defense,Temple,South Florida
+2022,Rashad,Cheney,Defense,Minnesota,South Florida
+2022,Ray,Thornton,Defense,Clemson,South Florida
+2022,Zach,Perkins,Offense,Maryland,South Florida
+2022,Patrick,Fields,Defense,Oklahoma,Stanford
+2022,Alijah,Clark,Defense,Rutgers,Syracuse
+2022,Bralyn,Oliver,Defense,Louisville,Syracuse
+2022,C.J.,Hayes,Offense,Michigan State,Syracuse
+2022,Carlos,Del Rio-Wilson,Offense,Florida,Syracuse
+2022,D'Marcus,Adams,Offense,Florida Atlantic,Syracuse
+2022,Dan,Villari,Offense,Michigan,Syracuse
+2022,Isaiah,Johnson,Defense,Dartmouth,Syracuse
+2022,Isaiah,Johnson,Defense,Dartmouth,Syracuse
+2022,Juwaun,Price,Offense,New Mexico State,Syracuse
+2022,Alan,Ali,Offense,SMU,TCU
+2022,Caleb,Fox,Defense,Stephen F. Austin,TCU
+2022,Corey,Wren,Offense,Florida State,TCU
+2022,Emani,Bailey,Offense,Louisiana,TCU
+2022,Ezra,Dotson-Oyetade,Offense,Arizona State,TCU
+2022,Ishmael,Burdine,Defense,Missouri,TCU
+2022,Jared,Wiley,Offense,Texas,TCU
+2022,Johnny,Hodges,Defense,Navy,TCU
+2022,Josh,Newton,Defense,Louisiana Monroe,TCU
+2022,Lwal,Uguak,Defense,Connecticut,TCU
+2022,Mark,Perry,Defense,Colorado,TCU
+2022,Robby,Rochester,Offense,Connecticut,TCU
+2022,Terrence,Cooks,Defense,Texas,TCU
+2022,Tymon,Mitchell,Defense,Georgia,TCU
+2022,Adonicas,Sanders,Offense,Georgia Tech,Temple
+2022,Darvon,Hubbard,Offense,Texas A&M,Temple
+2022,Dominick,Hill,Defense,South Carolina,Temple
+2022,Ian,Stewart,Offense,Michigan State,Temple
+2022,Jakari,Norwood,Offense,Illinois,Temple
+2022,James,Faminu,Offense,Houston,Temple
+2022,Joseph Appiah,Darkwa,Defense,Penn State,Temple
+2022,Peace,Addo,Offense,Duke,Temple
+2022,Quincy,Patterson,Offense,North Dakota State,Temple
+2022,Andre,Turrentine,Defense,Ohio State,Tennessee
+2022,Bru,McCoy,Offense,USC,Tennessee
+2022,Charlie,Browder,Offense,UCF,Tennessee
+2022,Gerald,Mincey,Offense,Florida,Tennessee
+2022,Jackson,Hannah,Defense,Nebraska,Tennessee
+2022,Lyn-J,Dixon,Offense,West Virginia,Tennessee
+2022,Navy,Shuler,Offense,Appalachian State,Tennessee
+2022,Wesley,Walker,Defense,Georgia Tech,Tennessee
+2022,Agiye,Hall,Offense,Alabama,Texas
+2022,Diamonte,Tucker-Dorsey,Defense,James Madison,Texas
+2022,Isaiah,Neyor,Offense,Wyoming,Texas
+2022,Jahleel,Billingsley,Offense,Alabama,Texas
+2022,Quinn,Ewers,Offense,Ohio State,Texas
+2022,Ryan,Watts,Defense,Ohio State,Texas
+2022,Tarique,Milton,Offense,Iowa State,Texas
+2022,Max,Johnson,Offense,LSU,Texas A&M
+2022,Micaiah,Overton,Defense,Liberty,Texas A&M
+2022,Ahmirr,Robinson,Offense,Rutgers,Texas State
+2022,CJ,Rogers,Offense,Baylor,Texas State
+2022,Charles,Brown,Offense,Montana State,Texas State
+2022,Demarcus,Gregory,Offense,South Florida,Texas State
+2022,Dillon,Markiewicz,Offense,Syracuse,Texas State
+2022,Dominique,Ratcliff,Defense,Louisiana,Texas State
+2022,Evan,Lovell,Offense,Rhode Island,Texas State
+2022,Ian,Hover,Offense,Campbell,Texas State
+2022,Jaden,Mitchell,Offense,Arizona,Texas State
+2022,Larson,Workman,Offense,Kansas,Texas State
+2022,Layne,Hatcher,Offense,Arkansas State,Texas State
+2022,Levi,Bell,Defense,Louisiana Tech,Texas State
+2022,Myron,Warren,Defense,Texas,Texas State
+2022,Pierre,Kemeni,Defense,Ohio,Texas State
+2022,Richard,West,Offense,Texas A&M Commerce,Texas State
+2022,Zacchaeus,McKinney,Defense,Hawai'i,Texas State
+2022,Baylor,Cupp,Offense,Texas A&M,Texas Tech
+2022,Brady,Boyd,Offense,Minnesota,Texas Tech
+2022,Cade,Briggs,Offense,New Mexico,Texas Tech
+2022,Cole,Spencer,Offense,Western Kentucky,Texas Tech
+2022,Dimitri,Moore,Defense,Missouri State,Texas Tech
+2022,Jacob,Rodriguez,Offense,Virginia,Texas Tech
+2022,Jordan,Brown,ATH,Kansas,Texas Tech
+2022,Keyon,Blankenbaker,Defense,Wyoming,Texas Tech
+2022,Michael,Shanahan,Offense,UT Martin,Texas Tech
+2022,Monroe,Mills,Offense,Oklahoma State,Texas Tech
+2022,Myles,Cole,Defense,Louisiana Monroe,Texas Tech
+2022,Sam,Carrell,Defense,Washington State,Texas Tech
+2022,Ty,Buchanan,Offense,USC,Texas Tech
+2022,Tyler,Owens,Defense,Texas,Texas Tech
+2022,Anthony,Torres,Offense,Western Michigan,Toledo
+2022,Dallas,Gant,Defense,Ohio State,Toledo
+2022,Deshawn,Holt,Defense,Maryland,Toledo
+2022,Jaret,Frantz,Offense,Ball State,Toledo
+2022,Nick,Turner,Defense,Arkansas,Toledo
+2022,Peny,Boone,Offense,Maryland,Toledo
+2022,Rourke,Freeburg,Defense,Arizona,Toledo
+2022,Jeremiah,Frazier,Offense,Tennessee State,Troy
+2022,Peter,Costelli,Offense,Utah,Troy
+2022,RaJae,Johnson,Offense,UAB,Troy
+2022,Ashaad,Clayton,Offense,Colorado,Tulane
+2022,Deajaun,McDougle,Offense,Maryland,Tulane
+2022,Jarius,Monroe,Defense,Nicholls,Tulane
+2022,Kanan,Ray,Offense,Colorado,Tulane
+2022,Lawrence,Keys III,Offense,Notre Dame,Tulane
+2022,Lummie,Young,Defense,Duke,Tulane
+2022,Patrick,Jenkins,Defense,TCU,Tulane
+2022,Princeton,Pines,Offense,Sam Houston State,Tulane
+2022,Ani,Izuchukwu,Defense,Mississippi State,Tulsa
+2022,Brody,Wisecarver,Offense,Illinois,Tulsa
+2022,Chris,Akporoghene,Offense,Tennessee,Tulsa
+2022,Darrell,Simpson,Offense,Oklahoma,Tulsa
+2022,Isaiah,Epps,Offense,Kentucky,Tulsa
+2022,Jayden,Simon,Defense,Colorado,Tulsa
+2022,Tahj,Gary,Offense,Virginia Tech,Tulsa
+2022,Jackson,Bratton,Defense,Alabama,UAB
+2022,Jacob,Zeno,Offense,Baylor,UAB
+2022,Branden,Jennings,Defense,Kansas State,UCF
+2022,Cameron,Kinnie,Offense,Georgia,UCF
+2022,Demarkcus,Bowman,Offense,Florida,UCF
+2022,Javon,Baker,Offense,Alabama,UCF
+2022,Joey,Gatewood,Offense,Kentucky,UCF
+2022,KD,McDaniel,Defense,Kentucky,UCF
+2022,Kemore,Gamble,Offense,Florida,UCF
+2022,Kobe,Hudson,Offense,Auburn,UCF
+2022,Koby,Perry,Defense,Austin Peay,UCF
+2022,Lee,Hunter,Defense,Auburn,UCF
+2022,Ryan,Swoboda,Offense,Virginia,UCF
+2022,Terrence,Lewis,Defense,Maryland,UCF
+2022,Tylan,Grable,Offense,Jacksonville State,UCF
+2022,Azizi,Hearn,Defense,Wyoming,UCLA
+2022,Darius,Muasau,Defense,Hawai'i,UCLA
+2022,Gabriel,Murphy,Defense,North Texas,UCLA
+2022,Gary,Smith,Defense,Duke,UCLA
+2022,Grayson,Murphy,Defense,North Texas,UCLA
+2022,Jacob,Sykes,Defense,Harvard,UCLA
+2022,Jake,Bobo,Offense,Duke,UCLA
+2022,Jaylan,Jeffers,Offense,Oregon,UCLA
+2022,Jaylin,Davies,Defense,Oregon,UCLA
+2022,Laiatu,Latu,Defense,Washington,UCLA
+2022,Liam,Douglass,Offense,USC,UCLA
+2022,Raiqwon,O'Neal,Offense,Rutgers,UCLA
+2022,Titus,Mokiao-Atimalala,Offense,UCF,UCLA
+2022,Ben,Bohnenberger,Offense,Colgate,UMass
+2022,Cam,Sullivan-Brown,Offense,Penn State,UMass
+2022,Cole,Garcia,Offense,Rice,UMass
+2022,Connor,Vasher,Offense,Savannah State,UMass
+2022,Darius,Gooden,Defense,Rutgers,UMass
+2022,George,Johnson III,Defense,Michigan,UMass
+2022,Gregory,Desrosiers,ATH,Louisville,UMass
+2022,Isaiah,Holiness,Offense,San José State,UMass
+2022,Jalen,Mackie,Defense,Dartmouth,UMass
+2022,Jalon,Ferrell,Defense,Connecticut,UMass
+2022,Jermaine,McMillian,Defense,UCF,UMass
+2022,Marcus,Bradley,Defense,Vanderbilt,UMass
+2022,Marcus,Cushnie,Defense,Florida State,UMass
+2022,Sammy,Faustin,Defense,Michigan,UMass
+2022,Tim,Baldwin Jr.,Offense,Indiana,UMass
+2022,Tyler,Rudolph,Defense,Penn State,UMass
+2022,Tyson,Watson,Defense,Michigan State,UMass
+2022,Zukudo,Igwenagu,Defense,Rutgers,UMass
+2022,Aidan,Robbins,Offense,Louisville,UNLV
+2022,Cobe,Bryant,Offense,SMU,UNLV
+2022,Harrison,Bailey,Offense,Tennessee,UNLV
+2022,Jordan,Eubanks,Defense,Florida State,UNLV
+2022,Ricky,White,Offense,Michigan State,UNLV
+2022,Austin,Jones,Offense,Stanford,USC
+2022,Bobby,Haskins,Offense,Virginia,USC
+2022,Brenden,Rice,Offense,Colorado,USC
+2022,Bryson,Shaw,Defense,Ohio State,USC
+2022,Caleb,Williams,Offense,Oklahoma,USC
+2022,Carson,Tabaracci,Defense,Utah,USC
+2022,Earl,Barquet,Defense,TCU,USC
+2022,Eric,Gentry,Defense,Arizona State,USC
+2022,Jacobe,Covington,Defense,Washington,USC
+2022,Jordan,Addison,Offense,Pittsburgh,USC
+2022,Latrell,McCutchin,Defense,Oklahoma,USC
+2022,Mario,Williams,Offense,Oklahoma,USC
+2022,Mekhi,Blackmon,Defense,Colorado,USC
+2022,Romello,Height,Defense,Auburn,USC
+2022,Shane,Lee,Defense,Alabama,USC
+2022,Sinjun,Astani,Defense,San José State,USC
+2022,Solomon,Byrd,Defense,Wyoming,USC
+2022,Terrell,Bynum,Offense,Washington,USC
+2022,Travis,Dye,Offense,Oregon,USC
+2022,Tyrone,Taleni,Defense,Kansas State,USC
+2022,Clayton,Isbell,Defense,Illinois State,Utah
+2022,Gabe,Reid,Defense,Stanford,Utah
+2022,Landon,Morris,Offense,Syracuse,Utah
+2022,Logan,Kendall,Offense,Idaho,Utah
+2022,Mohamoud,Diabate,Defense,Florida,Utah
+2022,Anthony,Switzer,Defense,Arkansas State,Utah State
+2022,Brian,Cobbs,Offense,Maryland,Utah State
+2022,Cade,Parrish,Offense,BYU,Utah State
+2022,Gurvan,Hall,Defense,Miami,Utah State
+2022,John,Ward,Defense,UCLA,Utah State
+2022,Levi,Williams,Offense,Wyoming,Utah State
+2022,MJ,Tafisi,Defense,Washington,Utah State
+2022,Xavier,Williams,Offense,Alabama,Utah State
+2022,Kobe,Hylton,Defense,Louisiana,UTEP
+2022,Chris,Carpenter,Offense,Colorado,UT San Antonio
+2022,Joseph,Evans,Defense,LSU,UT San Antonio
+2022,Nicktroy,Fortune,Defense,West Virginia,UT San Antonio
+2022,Payne,He'Bert,Offense,Northwestern,UT San Antonio
+2022,Quinton,Cage,Defense,LSU,UT San Antonio
+2022,Tony,Wallace,Defense,TCU,UT San Antonio
+2022,Trelon,Smith,Offense,Arkansas,UT San Antonio
+2022,Cooper,Lutz,Offense,Syracuse,Vanderbilt
+2022,Jacob,Brammer,Offense,North Texas,Vanderbilt
+2022,Jeremy,Lucien,Defense,Connecticut,Vanderbilt
+2022,Kane,Patterson,Defense,Clemson,Vanderbilt
+2022,Myles,Cecil,Defense,Cal Poly,Vanderbilt
+2022,Cody,Brown,Offense,Miami,Virginia
+2022,Devin,Chandler,Offense,Wisconsin,Virginia
+2022,Jack,Camper,Defense,Michigan State,Virginia
+2022,John Paul,Flores,Offense,Dartmouth,Virginia
+2022,Kameron,Butler,Defense,Miami (OH),Virginia
+2022,Mac,Hollensteiner,Offense,Georgetown,Virginia
+2022,Paul,Akere,Defense,Columbia,Virginia
+2022,Grant,Wells,Offense,Marshall,Virginia Tech
+2022,Jadan,Blue,Offense,Temple,Virginia Tech
+2022,Jason,Brown,Offense,South Carolina,Virginia Tech
+2022,Pheldarius,Payne,Defense,Nebraska,Virginia Tech
+2022,Stephen,Gosnell,Offense,North Carolina,Virginia Tech
+2022,Brendon,Harris,Defense,Vanderbilt,Wake Forest
+2022,Eldrick,Robinson II,Defense,Georgia Southern,Wake Forest
+2022,Jaeger,Bull,Offense,Rice,Wake Forest
+2022,Kobie,Turner,Defense,Richmond,Wake Forest
+2022,Aaron,Dumas,Offense,New Mexico,Washington
+2022,Cam,Bright,Defense,Pittsburgh,Washington
+2022,Jordan,Perryman,Defense,UC Davis,Washington
+2022,Kristopher,Moll,Defense,UAB,Washington
+2022,Lonyatta,Alexander,Offense,Arizona State,Washington
+2022,Michael,Penix Jr.,Offense,Indiana,Washington
+2022,Wayne,Taulapapa,Offense,Virginia,Washington
+2022,Will,Nixon,Offense,Nebraska,Washington
+2022,Cam,Lampkin,Defense,Utah State,Washington State
+2022,Cameron,Ward,Offense,Incarnate Word,Washington State
+2022,Daiyan,Henley,Defense,Nevada,Washington State
+2022,Grant,Stephens,Offense,Colorado State,Washington State
+2022,Jordan,Lee,Defense,Nevada,Washington State
+2022,Malachi,Ledbetter,Defense,Simon Fraser,Washington State
+2022,Nusi,Malani,Defense,Virginia,Washington State
+2022,Robert,Ferrel,Offense,Incarnate Word,Washington State
+2022,Zeriah,Beason,Offense,Oregon State,Washington State
+2022,Austin,Reed,Offense,West Florida,Western Kentucky
+2022,Davion,Ervin-Poindexter,Offense,Indiana,Western Kentucky
+2022,Derrick,Smith,Defense,Illinois,Western Kentucky
+2022,Desmyn,Baker,Defense,Rice,Western Kentucky
+2022,Jarret,Doege,Offense,West Virginia,Western Kentucky
+2022,Jaylen,Hall,Offense,Western Michigan,Western Kentucky
+2022,Michael,Mathison,Offense,Akron,Western Kentucky
+2022,Rome,Weber,Defense,Wyoming,Western Kentucky
+2022,Upton,Stout,Defense,North Texas,Western Kentucky
+2022,Vincent,Murphy,Offense,South Carolina,Western Kentucky
+2022,Anthony,Romphf,Defense,Purdue,Western Michigan
+2022,Bryce,Austin,Defense,Purdue,Western Michigan
+2022,Eleasah,Anderson,Offense,Sam Houston State,Western Michigan
+2022,Jehlani,Galloway,Offense,Boston College,Western Michigan
+2022,Stone,Hollenbach,Offense,Alabama,Western Michigan
+2022,Brian,Polendey,Offense,Colorado State,West Virginia
+2022,JT,Daniels,Offense,Georgia,West Virginia
+2022,Jasir,Cox,Defense,North Dakota State,West Virginia
+2022,Marcis,Floyd,Defense,Murray State,West Virginia
+2022,Michael,Lockhart,Defense,Georgia Tech,West Virginia
+2022,Mike,Evans,Offense,Robert Morris,West Virginia
+2022,Rashad,Ajayi,Defense,Colorado State,West Virginia
+2022,Tirek,Austin-Cave,Defense,Miami,West Virginia
+2022,Wesley,McCormick,Defense,James Madison,West Virginia
+2022,Zeiqui,Lawton,Defense,Cincinnati,West Virginia
+2022,Cedrick,Dort,Defense,Kentucky,Wisconsin
+2022,Jay,Shaw,Defense,UCLA,Wisconsin
+2022,Justin,Clark,Defense,Toledo,Wisconsin
+2022,Kamo'i,Latu,Defense,Utah,Wisconsin
+2022,Keontez,Lewis,Offense,UCLA,Wisconsin
+2022,Andrew,Peasley,Offense,Utah State,Wyoming
+2022,Cole,DeMarzo,Defense,Michigan State,Wyoming
+2022,JaKorey,Hawkins,Defense,Ole Miss,Wyoming
